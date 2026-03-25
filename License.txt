@@ -1,0 +1,92 @@
+LIMITED WARRANTY AND SOFTWARE LICENSE AGREEMENT
+
+GLEIM PUBLICATIONS, INC. TEST PREP SOFTWARE
+
+This Limited Warranty and Software License Agreement ("Agreement") is a
+legal agreement between you (either an individual or an entity), the end
+user, and Gleim Publications, Inc. ("Gleim").  By opening the sealed package
+in which this media arrived and continuing with this installation, you are
+agreeing to be bound by the terms of this agreement.  If you do not wish to
+be bound by this agreement, please cancel this installation and return the
+software, including all media and original packing materials, to Gleim, or
+to the party from which you purchased it, for a refund.
+
+
+GLEIM PUBLICATIONS, INC. SOFTWARE LICENSE
+
+1.  Grant of License.  Gleim grants to you the non-exclusive,
+non-transferable right to install and use one copy of Test Prep software
+("Software") on a single network server, or onto a number of computers no
+greater than the number specifically licensed (if applicable), at any given
+time.  "Use" means loading the Software into RAM, as well as installation on
+a network server.
+
+2.  Copyright.  The Software is owned by Gleim and is protected by United
+States copyright laws and international treaty provisions.  Therefore, you 
+must treat the Software like any other copyrighted material.  You may not 
+copy the Software or any of the written materials accompanying the Software
+except for this Agreement.
+
+3.  Other Restrictions.  This Agreement is your proof of license to exercise
+the rights granted herein, and it must be retained by you.  You may not
+lend, rent, lease, or sell the Software, and you may not transfer your rights
+under this Agreement.  You may not reverse engineer, decompile, or
+disassemble the Software.
+     
+
+LIMITED WARRANTY
+
+Limited Warranty.  Gleim warrants that the Software will perform
+substantially in accordance with the program format disclosed in the
+Software and any accompanying written materials for a period of ninety (90)
+days from the date of receipt.  Any implied warranties on the Software are
+limited to ninety (90) days.  Some states do not allow limitations on
+duration of an implied warranty, so the above limitation may not apply to
+you.
+
+Customer Remedies.  Gleim's entire liability and your exclusive remedy shall
+be, at Gleim's option, either (a) return of the price paid for the license
+of the Software or (b) repair or replacement of the software that does not
+meet Gleim's Limited Warranty and that is returned to Gleim with a copy of
+your receipt for payment of the license of the Software.   This Limited
+Warranty is void if failure of the Software has resulted from accident,
+abuse, or misapplication. 
+
+Any replacement Software will be warranted for the remainder of the original
+warranty period or thirty (30) days, whichever is longer.  These remedies
+are not available outside the United States of America.
+
+NO OTHER WARRANTIES.  GLEIM DISCLAIMS ALL OTHER WARRANTIES, EITHER EXPRESS
+OR IMPLIED, WHETHER ARISING IN CONTRACT OR TORT, INCLUDING BUT NOT LIMITED
+TO IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE, WITH RESPECT TO THE SOFTWARE AND ANY ACCOMPANYING WRITTEN
+MATERIALS.  THIS LIMITED WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS.  YOU MAY
+HAVE OTHERS WHICH VARY FROM STATE TO STATE.
+
+NO LIABILITY FOR CONSEQUENTIAL DAMAGES.  IN NO EVENT SHALL GLEIM OR ITS
+SUPPLIERS BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT
+LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION,
+LOSS OF BUSINESS INFORMATION, OR OTHER PECUNIARY LOSS) ARISING OUT OF THE
+USE OF OR INABILITY TO USE SOFTWARE EVEN IF GLEIM HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME STATES DO NOT ALLOW THE EXCLUSION
+OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE
+ABOVE LIMITATION MAY NOT APPLY TO YOU.
+
+U.S. GOVERNMENT RESTRICTED RIGHTS
+
+The Software and documentation are provided with RESTRICTED RIGHTS. Use,
+duplication, or disclosure by the Government is subject to restrictions as
+set forth in subparagraph (c)(1)(ii) of The Rights in Technical Data and
+Computer Software clause at DFARS 252.227-7013 or subparagraph (c)(1) and
+(2) of the Commercial Computer Software--Restricted Rights at 48 CFR 52 227-19,
+as applicable. Contractor manufacturer is GLEIM PUBLICATIONS, INC., Post Office
+Box 12848, University Station, Gainesville, Florida 32604.
+
+GLEIM PUBLICATIONS, INC., Post Office Box 12848, University Station,
+Gainesville, Florida 32604.
+
+Telephone 352-375-0772; FAX # 352-375-6940.
+ 
+This agreement is governed by the laws of the State of Florida.
+
+

@@ -1,0 +1,170 @@
+***  Installation Started 04/23/2002 7:42  ***
+Title: Gleim's FAA Test Prep Installation
+Source: R:\setup.exe | 11-20-2001 | 13:17:00 | 76389529
+Made Dir: H:\Apps32\FAATP41NET
+File Copy: H:\Apps32\FAATP41NET\License.txt | 11-20-2001 | 11:25:58 | | 4698 | 6ad1f23c
+File Copy: H:\Apps32\FAATP41NET\UNWISE.EXE | 05-24-2001 | 11:59:30 | | 162304 | 432c52a3
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Gleim's FAA Test Prep 4.1
+RegDB Val: Gleim's FAA Test Prep 4.1
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Gleim's FAA Test Prep 4.1
+RegDB Val: H:\APPS32\FAATP4~1\UNWISE.EXE H:\APPS32\FAATP4~1\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+File Copy: C:\WINNT\FONTS\Faasymbl.ttf | 06-26-2001 | 16:12:14 | | 39584 | 40efc49b
+File Copy: H:\Apps32\FAATP41NET\FAAtpw.lic
+Made Dir: H:\Apps32\FAATP41NET\libs
+Made Dir: H:\Apps32\FAATP41NET\libs\ATP
+File Copy: H:\Apps32\FAATP41NET\libs\ATP\ATP.lic
+Made Dir: H:\Apps32\FAATP41NET\libs\CPW
+File Copy: H:\Apps32\FAATP41NET\libs\CPW\CPW.lic
+Made Dir: H:\Apps32\FAATP41NET\libs\FEW
+File Copy: H:\Apps32\FAATP41NET\libs\FEW\FEW.lic
+Made Dir: H:\Apps32\FAATP41NET\libs\FIG
+File Copy: H:\Apps32\FAATP41NET\libs\FIG\FIG.lic
+Made Dir: H:\Apps32\FAATP41NET\libs\IPW
+File Copy: H:\Apps32\FAATP41NET\libs\IPW\IPW.lic
+Made Dir: H:\Apps32\FAATP41NET\libs\PPW
+File Copy: H:\Apps32\FAATP41NET\libs\PPW\PPW.lic
+Made Dir: H:\Apps32\FAATP41NET\libs\foi
+File Copy: H:\Apps32\FAATP41NET\libs\foi\foi.lic
+File Copy: H:\Apps32\FAATP41NET\libs\ATP\atp.fig | 11-16-2001 | 15:00:30 | | 2615944 | 1146c76d
+File Copy: H:\Apps32\FAATP41NET\libs\ATP\ATPimg.dbf | 06-19-2001 | 23:05:28 | | 162 | d84609f5
+File Copy: H:\Apps32\FAATP41NET\libs\ATP\ATPfp.dbf | 11-16-2001 | 14:45:08 | | 98 | 631b7246
+File Copy: H:\Apps32\FAATP41NET\libs\ATP\ATP.dbt | 11-16-2001 | 14:45:14 | | 3050496 | 4e7f07e4
+File Copy: H:\Apps32\FAATP41NET\libs\ATP\ATP.dbf | 11-16-2001 | 14:45:14 | | 991483 | ea8d8ce3
+File Copy: H:\Apps32\FAATP41NET\libs\ATP\ATPimg.dbt | 06-19-2001 | 23:05:28 | | 1024 | 16e7301d
+File Copy: H:\Apps32\FAATP41NET\libs\ATP\atp.img | 11-16-2001 | 15:06:30 | | 19499343 | 6ab8a9c2
+File Copy: H:\Apps32\FAATP41NET\libs\ATP\ATP.CFG | 11-16-2001 | 14:45:16 | | 11779 | cb542f05
+File Copy: H:\Apps32\FAATP41NET\libs\ATP\ATPfp.dbt | 11-16-2001 | 14:45:08 | | 1024 | 6a9255b0
+File Copy: H:\Apps32\FAATP41NET\libs\CPW\CPWimg.dbt | 06-17-2001 | 15:03:04 | | 1024 | 16e7301d
+File Copy: H:\Apps32\FAATP41NET\libs\CPW\cpw.fig | 11-15-2001 | 18:03:44 | | 379631 | d16f2121
+File Copy: H:\Apps32\FAATP41NET\libs\CPW\CPWfp.dbt | 11-16-2001 | 14:45:44 | | 1024 | 6a9255b0
+File Copy: H:\Apps32\FAATP41NET\libs\CPW\CPWfp.dbf | 11-16-2001 | 14:45:44 | | 98 | 631b7246
+File Copy: H:\Apps32\FAATP41NET\libs\CPW\CPWimg.dbf | 06-17-2001 | 15:03:04 | | 162 | d84609f5
+File Copy: H:\Apps32\FAATP41NET\libs\CPW\cpw.img | 11-15-2001 | 18:05:06 | | 2822044 | 39319777
+File Copy: H:\Apps32\FAATP41NET\libs\CPW\CPW.CFG | 11-16-2001 | 14:45:46 | | 5205 | 8f0f8b94
+File Copy: H:\Apps32\FAATP41NET\libs\CPW\CPW.dbt | 11-16-2001 | 14:45:46 | | 1162752 | 161dee56
+File Copy: H:\Apps32\FAATP41NET\libs\CPW\CPW.dbf | 11-16-2001 | 14:45:46 | | 404845 | 8a2272ef
+File Copy: H:\Apps32\FAATP41NET\libs\FEW\FEWimg.dbf | 06-17-2001 | 15:02:14 | | 162 | d84609f5
+File Copy: H:\Apps32\FAATP41NET\libs\FEW\few.img | 11-15-2001 | 17:59:20 | | 742477 | fafea062
+File Copy: H:\Apps32\FAATP41NET\libs\FEW\FEWfp.dbt | 11-16-2001 | 14:44:16 | | 1024 | 6a9255b0
+File Copy: H:\Apps32\FAATP41NET\libs\FEW\few.fig | 11-15-2001 | 17:58:46 | | 176677 | 8c0879b
+File Copy: H:\Apps32\FAATP41NET\libs\FEW\FEW.dbt | 11-16-2001 | 14:44:18 | | 1379328 | 2766c734
+File Copy: H:\Apps32\FAATP41NET\libs\FEW\FEW.CFG | 11-16-2001 | 14:44:20 | | 5216 | 1412fb10
+File Copy: H:\Apps32\FAATP41NET\libs\FEW\FEWfp.dbf | 11-16-2001 | 14:44:16 | | 98 | 631b7246
+File Copy: H:\Apps32\FAATP41NET\libs\FEW\FEWimg.dbt | 06-17-2001 | 15:02:14 | | 1024 | 16e7301d
+File Copy: H:\Apps32\FAATP41NET\libs\FEW\FEW.dbf | 11-16-2001 | 14:44:18 | | 443431 | 4b2c0455
+File Copy: H:\Apps32\FAATP41NET\libs\FIG\FIGimg.dbt | 06-17-2001 | 15:02:20 | | 1024 | 16e7301d
+File Copy: H:\Apps32\FAATP41NET\libs\FIG\fig.img | 11-15-2001 | 17:59:42 | | 3360245 | a32ddaf8
+File Copy: H:\Apps32\FAATP41NET\libs\FIG\FIGfp.dbt | 11-16-2001 | 14:44:36 | | 1024 | 6a9255b0
+File Copy: H:\Apps32\FAATP41NET\libs\FIG\FIGimg.dbf | 06-17-2001 | 15:02:20 | | 162 | d84609f5
+File Copy: H:\Apps32\FAATP41NET\libs\FIG\FIG.CFG | 11-16-2001 | 14:44:56 | | 8557 | 1c9a682
+File Copy: H:\Apps32\FAATP41NET\libs\FIG\fig.fig | 11-15-2001 | 17:57:28 | | 529705 | 365016d0
+File Copy: H:\Apps32\FAATP41NET\libs\FIG\FIGfp.dbf | 11-16-2001 | 14:44:36 | | 98 | 631b7246
+File Copy: H:\Apps32\FAATP41NET\libs\FIG\FIG.txt | 06-08-2001 | 16:28:02 | | 1914 | e16ecf66
+File Copy: H:\Apps32\FAATP41NET\libs\FIG\FIG.dbf | 11-16-2001 | 14:44:50 | | 561151 | f22516f4
+File Copy: H:\Apps32\FAATP41NET\libs\FIG\FIG.dbt | 11-16-2001 | 14:44:50 | | 1598976 | 9ff44cd5
+File Copy: H:\Apps32\FAATP41NET\libs\foi\FOIimg.dbf | 06-17-2001 | 15:02:20 | | 162 | d84609f5
+File Copy: H:\Apps32\FAATP41NET\libs\foi\FOI.CFG | 11-16-2001 | 14:44:22 | | 2193 | 780d3127
+File Copy: H:\Apps32\FAATP41NET\libs\foi\FOIfp.dbf | 11-16-2001 | 14:44:22 | | 98 | 631b7246
+File Copy: H:\Apps32\FAATP41NET\libs\foi\FOIimg.dbt | 06-17-2001 | 15:02:20 | | 1024 | 16e7301d
+File Copy: H:\Apps32\FAATP41NET\libs\foi\FOIfp.dbt | 11-16-2001 | 14:44:22 | | 1024 | 6a9255b0
+File Copy: H:\Apps32\FAATP41NET\libs\foi\FOI.dbf | 11-16-2001 | 14:44:22 | | 126895 | 2f0ab3eb
+File Copy: H:\Apps32\FAATP41NET\libs\foi\FOI.dbt | 11-16-2001 | 14:44:22 | | 360960 | f209d0b
+File Copy: H:\Apps32\FAATP41NET\libs\foi\foi.fig | 11-15-2001 | 17:55:48 | | 6655 | 5f4279c4
+File Copy: H:\Apps32\FAATP41NET\libs\foi\foi.img | 11-15-2001 | 17:55:56 | | 221861 | d02924c8
+File Copy: H:\Apps32\FAATP41NET\libs\IPW\ipw.fig | 11-15-2001 | 17:50:06 | | 1821243 | 475a5d5e
+File Copy: H:\Apps32\FAATP41NET\libs\IPW\IPW.CFG | 11-16-2001 | 14:44:34 | | 6789 | a5036ca4
+File Copy: H:\Apps32\FAATP41NET\libs\IPW\IPW.dbt | 11-16-2001 | 14:44:34 | | 1649664 | bc7b2c17
+File Copy: H:\Apps32\FAATP41NET\libs\IPW\IPW.dbf | 11-16-2001 | 14:44:34 | | 602353 | b3496e25
+File Copy: H:\Apps32\FAATP41NET\libs\IPW\IPWimg.dbt | 06-17-2001 | 15:02:26 | | 1024 | 16e7301d
+File Copy: H:\Apps32\FAATP41NET\libs\IPW\IPWfp.dbt | 11-16-2001 | 14:44:30 | | 1024 | 6a9255b0
+File Copy: H:\Apps32\FAATP41NET\libs\IPW\IPWfp.dbf | 11-16-2001 | 14:44:30 | | 98 | 631b7246
+File Copy: H:\Apps32\FAATP41NET\libs\IPW\IPWimg.dbf | 06-17-2001 | 15:02:26 | | 162 | d84609f5
+File Copy: H:\Apps32\FAATP41NET\libs\IPW\ipw.img | 11-15-2001 | 17:54:16 | | 12313382 | d353690b
+File Copy: H:\Apps32\FAATP41NET\libs\PPW\PPWimg.dbf | 06-17-2001 | 15:02:50 | | 162 | d84609f5
+File Copy: H:\Apps32\FAATP41NET\libs\PPW\PPW.dbf | 11-16-2001 | 14:45:30 | | 483325 | cebfd7b8
+File Copy: H:\Apps32\FAATP41NET\libs\PPW\PPW.dbt | 11-16-2001 | 14:45:30 | | 1347072 | 58953324
+File Copy: H:\Apps32\FAATP41NET\libs\PPW\ppw.fig | 11-15-2001 | 18:05:32 | | 696963 | 4f298836
+File Copy: H:\Apps32\FAATP41NET\libs\PPW\PPW.CFG | 11-16-2001 | 14:45:36 | | 6592 | 54acbf63
+File Copy: H:\Apps32\FAATP41NET\libs\PPW\PPWfp.dbt | 11-16-2001 | 14:45:18 | | 1024 | 6a9255b0
+File Copy: H:\Apps32\FAATP41NET\libs\PPW\PPWfp.dbf | 11-16-2001 | 14:45:18 | | 98 | 631b7246
+File Copy: H:\Apps32\FAATP41NET\libs\PPW\ppw.img | 11-15-2001 | 18:07:22 | | 6795596 | 4e39aa6a
+File Copy: H:\Apps32\FAATP41NET\libs\PPW\PPWimg.dbt | 06-17-2001 | 15:02:50 | | 1024 | 16e7301d
+File Copy: H:\Apps32\FAATP41NET\FAAtpw.exe | 11-20-2001 | 11:27:10 | | 4209152 | a8eb2ed6
+File Copy: H:\Apps32\FAATP41NET\FAATPW.CHM | 11-20-2001 | 11:08:58 | | 619399 | f2408715
+File Copy: H:\Apps32\FAATP41NET\FAAtutorial.CHM | 11-19-2001 | 17:14:44 | | 6281262 | 2a9f6db7
+File Copy: H:\Apps32\FAATP41NET\autoupdate.exe | 11-16-2001 | 15:06:54 | | 585728 | 69654631
+File Copy: H:\Apps32\FAATP41NET\FAATPW.cfg | 06-22-2001 | 13:38:44 | | 361 | a47315ab
+File Copy: H:\Apps32\FAATP41NET\FAATPW.DLR | 11-20-2001 | 11:28:22 | | 48798 | f4d051ef
+File Copy: H:\Apps32\FAATP41NET\ILDA32.DLL | 11-08-1997 | 14:44:10 | 1.0.0.0 | 233472 | 2b49a856
+File Copy: H:\Apps32\FAATP41NET\LPNG.DLL | 12-15-1999 | 21:16:06 | | 204800 | 56374eb1
+File Copy: H:\Apps32\FAATP41NET\SSLEAY32.DLL | 10-31-2000 | 19:39:10 | | 151552 | fed20382
+File Copy: H:\Apps32\FAATP41NET\LIBEAY32.DLL | 10-31-2000 | 19:25:00 | | 692224 | 825228a6
+File Copy: H:\Apps32\FAATP41NET\GLEIMBDM.TTF | 12-28-1999 | 16:16:18 | | 5404 | e64a1360
+Could not Self-Register: H:\Apps32\FAATP41NET\ILDA32.DLL
+Could not Self-Register: H:\Apps32\FAATP41NET\LPNG.DLL
+Could not Self-Register: H:\Apps32\FAATP41NET\SSLEAY32.DLL
+Could not Self-Register: H:\Apps32\FAATP41NET\LIBEAY32.DLL
+RegDB Key: SOFTWARE\Gleim\TP40\FAA
+RegDB Val: H:\Apps32\FAATP41NET
+RegDB Name: NETDIR
+RegDB Root: 1
+Icon Group: Gleim Publications
+Icon Name: FAA Test Prep 4.1 FBO-Network
+Icon Cmd: "H:\Apps32\FAATP41NET\FAATPW.EXE"
+Icon Group: Gleim Publications
+Icon Name: FAA Test Prep 4.1 FBO-Network Online Update
+Icon Cmd: "H:\Apps32\FAATP41NET\autoupdate.exe" FAA "H:\Apps32\FAATP41NET\"
+Icon Group: Gleim Publications
+Icon Name: Uninstall FAA Test Prep 4.1 FBO-Network
+Icon Cmd: "H:\Apps32\FAATP41NET\UNWISE.EXE"
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Gleim's FAA Test Prep 4.1
+RegDB Val: 41
+RegDB Name: DisplayVersion
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Gleim's FAA Test Prep 4.1
+RegDB Val: http://www.gleim.com/support/
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Gleim's FAA Test Prep 4.1
+RegDB Val: (800) 874 - 5346 or (352) 375 - 0772
+RegDB Name: HelpTelephone
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Gleim's FAA Test Prep 4.1
+RegDB Val: Gleim Publications
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Gleim's FAA Test Prep 4.1
+RegDB Val: http://www.gleim.com/
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Gleim's FAA Test Prep 4.1
+RegDB Val: Technical Support
+RegDB Name: Contact
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Gleim's FAA Test Prep 4.1
+RegDB Val: Copyright Gleim Publications, Inc. 2001
+RegDB Name: Comments
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Gleim's FAA Test Prep 4.1
+RegDB Val: H:\Apps32\FAATP41NET\FAAtpw.exe,-0
+RegDB Name: DisplayIcon
+RegDB Root: 2
+Delete in-use files: On
+File Copy: H:\Apps32\FAATP41NET\FAATPW.LIC
+File Tree: H:\Apps32\FAATP41NET\libs\ATP\*.*
+File Tree: H:\Apps32\FAATP41NET\libs\CPW\*.*
+File Tree: H:\Apps32\FAATP41NET\libs\FEW\*.*
+File Tree: H:\Apps32\FAATP41NET\libs\FIG\*.*
+File Tree: H:\Apps32\FAATP41NET\libs\IPW\*.*
+File Tree: H:\Apps32\FAATP41NET\libs\PPW\*.*
+File Tree: H:\Apps32\FAATP41NET\libs\FOI\*.*
+RegDB Tree: SOFTWARE\Gleim\TP40\FAA
+RegDB Root: 1
+File Tree: H:\Apps32\FAATP41NET\libs
+File Tree: H:\Apps32\FAATP41NET\user\*.*
+File Tree: H:\Apps32\FAATP41NET\user
+User Rights: Admin
