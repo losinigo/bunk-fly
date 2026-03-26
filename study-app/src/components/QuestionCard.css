@@ -1,0 +1,179 @@
+.question-card {
+  background: var(--card-bg);
+  border-radius: 16px;
+  padding: 24px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.question-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+  font-size: 14px;
+  color: var(--text-muted);
+}
+
+.question-id {
+  font-family: var(--mono);
+  background: var(--tag-bg);
+  padding: 2px 8px;
+  border-radius: 6px;
+  font-size: 12px;
+}
+
+.question-figure {
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.question-figure img {
+  max-width: 100%;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+}
+
+.figure-ref {
+  display: block;
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: 4px;
+}
+
+.question-text {
+  font-size: 17px;
+  line-height: 1.5;
+  color: var(--text-primary);
+  margin: 0 0 20px;
+  text-align: left;
+}
+
+.answers {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.answer-btn {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 14px 16px;
+  border: 2px solid var(--border);
+  border-radius: 12px;
+  background: var(--bg);
+  cursor: pointer;
+  text-align: left;
+  font-size: 15px;
+  line-height: 1.4;
+  color: var(--text-primary);
+  transition: all 0.15s ease;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.answer-btn:active {
+  transform: scale(0.98);
+}
+
+.answer-btn.selected {
+  border-color: var(--accent);
+  background: var(--accent-light);
+}
+
+.answer-btn.correct {
+  border-color: var(--success);
+  background: var(--success-light);
+}
+
+.answer-btn.incorrect {
+  border-color: var(--error);
+  background: var(--error-light);
+}
+
+.answer-letter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: var(--tag-bg);
+  font-weight: 600;
+  font-size: 13px;
+  flex-shrink: 0;
+}
+
+.selected .answer-letter {
+  background: var(--accent);
+  color: #fff;
+}
+
+.correct .answer-letter {
+  background: var(--success);
+  color: #fff;
+}
+
+.incorrect .answer-letter {
+  background: var(--error);
+  color: #fff;
+}
+
+.answer-text {
+  padding-top: 3px;
+}
+
+.explanation {
+  padding: 16px;
+  border-radius: 12px;
+  margin-bottom: 16px;
+  text-align: left;
+}
+
+.explanation.correct {
+  background: var(--success-light);
+  border: 1px solid var(--success);
+}
+
+.explanation.incorrect {
+  background: var(--error-light);
+  border: 1px solid var(--error);
+}
+
+.result-label {
+  font-weight: 600;
+  font-size: 16px;
+  margin: 0 0 8px;
+  color: var(--text-primary);
+}
+
+.explanation-text {
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 0;
+  color: var(--text-secondary);
+}
+
+.submit-btn {
+  width: 100%;
+  padding: 16px;
+  border: none;
+  border-radius: 12px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: opacity 0.15s ease;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.submit-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.submit-btn:not(:disabled):active {
+  opacity: 0.8;
+}
