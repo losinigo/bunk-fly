@@ -1,0 +1,29 @@
+# Gleim session and data files
+*.DTA
+*.ASV
+*.asv
+*.FAA
+*.CFG
+*.cfg
+*.DLR
+*.env
+*.CHM
+*.lic
+*.TTF
+*.DLL
+*.exe
+*.rar
+*.LOG
+*.dbf
+*.dbt
+*.fig
+*.img
+*.txt
+*.pem
+
+# Temp screenshots
+*.png
+
+# Keep figures directory with its contents
+!figures/
+!figures/*.png
