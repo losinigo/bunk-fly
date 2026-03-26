@@ -1,1172 +1,1186 @@
 [
   {
-    "id": "1.1.1",
-    "question": "Onthe taxi check, the magnetic compass should",
-    "answers": {
-      "A": "exhibit the same number of degrees of dip as the latitude.",
-      "B": "swing freely and indicate known headings.",
-      "C": "swing opposite to the direction of turn when turning from north."
-    },
-    "correct_answer": "B",
-    "explanations": {
-      "A": "because compass turning errors occur in\nflight as a result of magnetic dip.",
-      "B": "When taxiing, the magnetic compass\n\nshould be checked to make sure that the compass card is\nswinging freely and indicating known headings.",
-      "C": "because the compass exhibits turning\nerrors only when the airplane is airborne and in a bank."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.1.2",
-    "question": "What should be the indication on the magnetic compass as you roll into a standard-rate turn to the left from an east heading in the Northern Hemisphere?",
-    "answers": {
-      "A": "The compass will remain on east for a short time, then gradually catch up to the magnetic heading of the aircraft.",
-      "B": "The compass will initially indicate a turn to the right.",
-      "C": "The compass will indicate the approximate correct magnetic heading if the roll into the turn is smooth."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because when the airplane is turning from\nan east heading, the compass will immediately indicate a turn, if\nthe roll into the turn is smooth.",
-      "B": "because the compass will initially indicate",
-      "C": "If you roll into a smooth, coordinated,\nstandard-rate turn to the left or right from an east or west heading,\nthe compass will indicate the approximate correct magnetic\n\nheading. There are no turning errors on turns from east or west\nheadings."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.1.3",
-    "question": "What should be the indication on the magnetic compass as you roll into a standard rate turn to the right from an easterly heading in the Northern Hemisphere?",
-    "answers": {
-      "A": "The compass will indicate the approximate correct magnetic heading if the roll into the turn is smooth.",
-      "B": "The compass will remain on east for a short time, then gradually catch up to the magnetic heading of the aircraft.",
-      "C": "The compass will initially indicate a turn to the left."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "If you roll into a smooth, coordinated,\nstandard-rate turn to the left or right from an east or west heading,\nthe compass will normally indicate the approximate correct\nmagnetic heading. Acceleration, not turning, errors are found in\neast or west headings in the Northern Hemisphere.",
-      "B": "because, when turning from an east\n\nheading, the compass will immediately indicate a turn if the roll\ninto the turn is smooth.",
-      "C": "because the compass will initially indicate"
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.1.4",
-    "question": "What should be the indication on the magnetic compass as you roll into a standard rate turn to the right from a south heading in the Northern Hemisphere?",
-    "answers": {
-      "A": "The compass will indicate a turn to the right, but at a faster rate than is actually occurring.",
-      "B": "The compass will remain on south for a short time, then gradually catch up to the magnetic heading of the aircraft.",
-      "C": "The compass will initially indicate a turn to the left."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "In turns from a southerly heading in the\nNorthern Hemisphere, the compass leads the turn. That is, it\nindicates a turn in the proper direction but at a faster rate than is\nactually occurring.",
-      "B": "because it describes a\nshallower-than-standard turn from a north, not south, heading.",
-      "C": "because the compass will initially indicate"
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.1.5",
-    "question": "Onwhat headings will the magnetic compass read most accurately during a level 360° turn, with a bank of approximately 15°?",
-    "answers": {
-      "A": "180° and 0°.",
-      "B": "90° and 270°.",
-      "C": "135° through 225°."
-    },
-    "correct_answer": "B",
-    "explanations": {
-      "A": "because compass turning errors are\ngreatest at north and south headings.",
-      "B": "In a turn through north or south, the\ncompass indication will usually be incorrect. But in a turn through\neast or west, the compass indication is usually accurate.\nTherefore, the compass should be indicating properly when\n\npassing through 90° and 270°. This holds true for only medium to\n‘shallow bank turns, e.g., 15-30°.",
-      "C": "because the compass leads the heading\nin a turn through south."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.1.6",
-    "question": "What causes the northerly turning error in a magnetic compass?",
-    "answers": {
-      "A": "Coriolis force at the mid-latitudes.",
-      "B": "The magnetic dip characteristic.",
-      "C": "Centrifugal force acting on the compass card."
-    },
-    "correct_answer": "B",
-    "explanations": {
-      "A": "because the Coriolis force of the spinning\nEarth affects winds rather than compass indications.",
-      "B": "Magnetic dip causes a compass needle to\n\npoint both down toward the earth and to the magnetic pole. This\ncharacteristic causes turning errors.",
-      "C": "because centrifugal force is not related to\ncompass turning errors."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.1.7",
-    "question": "What should be the indication on the magnetic compass when you roll into a standard rate turn to the left from a south heading in the Northern Hemisphere?",
-    "answers": {
-      "A": "The compass will initially indicate a turn to the right.",
-      "B": "The compass will indicate a turn to the left, but at a faster rate than is actually occurring.",
-      "C": "The compass will remain on south for a short time, then gradually catch up to the magnetic heading of the aircraft."
-    },
-    "correct_answer": "B",
-    "explanations": {
-      "A": "because the compass will initially indicate",
-      "B": "In turns from a southerly heading in the\nNorthern Hemisphere, the compass leads the turn. That is, it\n\nindicates a turn in the proper direction but at a rate faster than the\nactual rate.",
-      "C": "because it describes a\nshallower-than-standard turn from a north, not south, heading."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.1.8",
-    "question": "What should be the indication on the magnetic compass as you roll into a standard rate turn to the right from a westerly heading in the Northern Hemisphere?",
-    "answers": {
-      "A": "The compass will indicate the approximate correct magnetic heading if the roll into the turn is smooth.",
-      "B": "The compass will remain on a westerly heading for a short time, then gradually catch up to the actual heading of the aircraft.",
-      "C": "The compass will initially show a turn in the opposite direction, then turn to a northerly indication but lagging behind the actual heading of the aircraft."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "If you roll into a smooth, coordinated,\nstandard-rate turn to the left or right from an east or west heading,\nthe compass will indicate the approximate correct magnetic\n\nheading. There are no turning errors on turns from east or west\nheadings.",
-      "B": "because when turning from a westerly\n\nheading, the compass will immediately indicate a turn if the roll\ninto the turn is smooth.",
-      "C": "because the compass will initially indicate"
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.1.9",
-    "question": "What should be the indication on the magnetic compass as you roll into a standard rate turn to the right from a northerly heading in the Northern Hemisphere?",
-    "answers": {
-      "A": "The compass will initially indicate a turn to the left.",
-      "B": "The compass will indicate a turn to the right, but at a faster rate than is actually occurring.",
-      "C": "The compass will remain on north for a short time, then gradually catch up to the magnetic heading of the aircraft."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "In turns from a northerly heading in the\nNorthern Hemisphere, the compass will initially indicate a turn to\nthe opposite direction. Then the compass heading will lag behind\n\nthe actual heading until the airplane approaches an east or west\nheading.",
-      "B": "because it describes a turn to the right\nfrom a southerly heading.",
-      "C": "because it describes a\nshallower-than-standard turn from north."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.1.10",
-    "question": "What should be the indication on the magnetic compass as you roll into a standard rate turn to the left from a west heading in the Northern Hemisphere?",
-    "answers": {
-      "A": "The compass will remain on west for a short time, then gradually catch up to the magnetic heading of the aircraft.",
-      "B": "The compass will initially indicate a turn to the right.",
-      "C": "The compass will indicate the approximate correct magnetic heading if the roll into the turn is smooth."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because in a turn from an east heading,\n\nthe compass will immediately indicate a turn if the roll into the turn\nis smooth.",
-      "B": "because the compass will initially indicate",
-      "C": "If you roll into a smooth, coordinated,\nstandard-rate turn to the left or right from an east or west heading,\nthe compass will indicate the approximate correct magnetic\nheading. Turning errors appear on turns from north or south\nheadings, not east or west."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.1.11",
-    "question": "What should be the indication on the magnetic compass as you roll into a standard rate turn to the left from a north heading in the Northern Hemisphere?",
-    "answers": {
-      "B": "The compass will remain on north for a short time, then gradually catch up to the magnetic heading of the aircraft.",
-      "C": "The compass will indicate a turn to the left, but at a faster rate than is actually occurring.",
-      "A": "The compass will initially indicate a turn to the right."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "In turns from a northerly heading in the\nNorthern Hemisphere, the compass will initially indicate a turn to\nthe opposite direction, and the compass heading will lag behind\nactual until the airplane approaches an east or west heading.",
-      "B": "because it describes a\nshallower-than-standard turn from north.",
-      "C": "because it describes a turn to the left\nfrom a southerly heading."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.2.12",
-    "question": "During flight, if the pitot tube becomes clogged with ice, which of the following instruments would be affected?",
-    "answers": {
-      "A": "The airspeed indicator and the altimeter.",
-      "B": "The airspeed indicator only.",
-      "C": "The airspeed indicator, altimeter, and Vertical Speed Indicator."
-    },
-    "correct_answer": "B",
-    "explanations": {
-      "A": "because the pitot tube is connected only\nto the airspeed indicator, not the altimeter.",
-      "B": "The pitot-static system is a source of\npressure for the altimeter, vertical speed indicator, and airspeed\nindicator. The pitot tube is connected directly to the airspeed\nindicator, and the static vents are connected directly to all three.\nThe pressure of air coming into the pitot tube (impact air\npressure) is compared with the air pressure at the static system\nvents to determine airspeed.",
-      "C": "because the pitot tube is connected only\n\nto the airspeed indicator, not the altimeter or vertical speed\nindicator."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.2.13",
-    "question": "If both the ram air input and the drain hole of the pitot system are blocked, what reaction should you observe on the airspeed indicator when power is applied and a climb is initiated out of severe icing conditions?",
-    "answers": {
-      "A": "No change until an actual climb rate is established, then indicated airspeed will increase.",
-      "B": "The indicated airspeed would show a continuous deceleration while climbing.",
-      "C": "The airspeed would drop to, and remain at, zero."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "When the airspeed indicator pitot tube and\ndrain hole are blocked, the airspeed indicator will react as an\naltimeter. There will be a constant pressure within the pitot tube,\nand as the pressure from the static source decreases during a\nclimb, the indicated airspeed on the altimeter will increase.",
-      "B": "because, as there is an increase in\naltitude, the airspeed indicator will show an increase in airspeed\nas the air pressure within the pitot tube is relatively greater than\nthat of the static air.",
-      "C": "because this reaction would occur if the\nram air input, but not the drain hole, were blocked."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.2.14",
-    "question": "What indication should a pilot observe if an airspeed indicator ram air input and drain hole are blocked?",
-    "answers": {
-      "A": "The airspeed indicator will react as an altimeter.",
-      "B": "No airspeed indicator change will occur during climbs or descents.",
-      "C": "The airspeed indicator will show a decrease with an increase in altitude."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "When the airspeed indicator pitot tube and\ndrain hole are blocked, the airspeed indicator will react as an\naltimeter. There will be a constant pressure within the pitot tube,\nand as the pressure from the static source decreases during a\nclimb, the indicated airspeed on the altimeter will increase.",
-      "B": "because differential pressure between\n\nthe pitot tube and static air source changes, and so does\nindicated airspeed.",
-      "C": "because indicated airspeed will\nincrease, not decrease, with increases in altitude."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.2.15",
-    "question": "If both the ram air input and drain hole of the pitot system are blocked, what airspeed indication can be expected?",
-    "answers": {
-      "A": "No variation of indicated airspeed in level flight even if large power changes are made.",
-      "B": "Decrease of indicated airspeed during a climb.",
-      "C": "Constant indicated airspeed during a descent."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "If both the pitot tube input and the drain\n\nhole on the pitot system are blocked, the airspeed indication will\nbe constant at any given altitude.",
-      "B": "because, during a climb, the airspeed\nindicator will indicate an increase, not decrease, due to the\n\nstronger differential pressure in the blocked pitot tube relative to\nthe static vents.",
-      "C": "because indicated airspeed would\nchange with changes in altitude."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.2.16",
-    "question": "Ifthe outside air temperature increases during a flight at constant power and at a constant indicated altitude, the true airspeed will",
-    "answers": {
-      "B": "increase and true altitude will increase.",
-      "C": "decrease and true altitude will increase.",
-      "A": "increase and true altitude will decrease."
-    },
-    "correct_answer": "B",
-    "explanations": {
-      "A": "because true altitude increases, not\n\ndecreases.",
-      "B": "As temperature increases, pressure levels\nrise farther above sea level and true altitude increases given a\n\nconstant indicated altitude. As altitude increases with constant\npower, true airspeed increases.",
-      "C": "because TAS increases, not decreases."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.2.17",
-    "question": "If, while in level flight, it becomes necessary to use an alternate source of static pressure vented inside the airplane, which of the following should the pilot expect?",
-    "answers": {
-      "A": "The vertical speed to momentarily show a descent.",
-      "B": "The altimeter to read higher than normal.",
-      "C": "The vertical speed to show a climb."
-    },
-    "correct_answer": "B",
-    "explanations": {
-      "A": "because the VSI indication will be a\nmomentary climb, not a descent.",
-      "B": "Most aircraft equipped with a pitot-static\nsystem are provided with an alternate source of static pressure\nfor emergency use. This source is usually vented inside the\ncabin. The pressure within an unpressurized cockpit is slightly\nlower than the pressure outside the airplane because of the\nVenturi effect of the air moving past the outside of the cockpit.\nWhen the alternate static source is used, the altimeter and\nairspeed indicator will read higher than actual, and the vertical\nspeed indicator will momentarily show a climb.",
-      "C": "because the VSI will show only a\nmomentary, not a steady-state, climb."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.2.18",
-    "question": "If while in level flight, it becomes necessary to use an alternate source of static pressure vented inside the airplane, which of the following variations in instrument indications should the pilot expect?",
-    "answers": {
-      "A": "The altimeter will read higher than normal, airspeed greater than normal, and the VSI will momentarily show a climb.",
-      "B": "The altimeter will read lower than normal, airspeed greater than normal, and the VSI will momentarily show a climb and then a descent.",
-      "C": "The altimeter will read lower than normal, airspeed lower than normal, and the VSI will momentarily show a descent."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "Most aircraft equipped with a pitot-static\nsystem are provided with an alternate source of static pressure\nfor emergency use. This source is usually vented inside the\ncabin. The pressure within an unpressurized cockpit is slightly\nlower than the pressure outside the airplane because of the\nVenturi effect of the air moving past the outside of the cockpit.\nWhen the alternate static source is used, the altimeter will read\nhigher than actual, and the vertical speed indicator will\nmomentarily show a climb.",
-      "B": "because the altimeter will read higher, not\nlower, than normal, and the vertical speed indicator will show\nlevel flight, not a descent, after the momentary climb.",
-      "C": "because the altimeter and airspeed\nindicators will read higher, not lower, than normal, and the vertical\nspeed indicator will momentarily show a climb, not a descent."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.2.18a",
-    "question": "If, while in level flight, it becomes necessary to use an alternate source of static pressure vented inside the airplane, which of the following should the pilot expect?",
-    "answers": {
-      "B": "The gyroscopic instruments to become inoperative.",
-      "C": "The altimeter and airspeed indicator to become inoperative.",
-      "A": "The vertical speed to momentarily show a climb."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "Most aircraft equipped with a pitot-static\nsystem are provided with an alternate source of static pressure\nfor emergency use. This source is usually vented inside the\ncabin. The pressure within an unpressurized cockpit is slightly\nlower than the pressure outside the airplane because of the\nVenturi effect of the air moving past the outside of the cockpit.\nWhen the alternate static source is used, the altimeter and\nairspeed indicator will read higher than actual, and the vertical\nspeed indicator will momentarily show a climb.",
-      "B": "because the gyroscopic instruments are\nnot affected by changes in the pitot-static system.",
-      "C": "because the altimeter and airspeed\nindicator will read higher than actual, not become inoperative."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.2.19",
-    "question": "What would be the indication on the VSI during entry into a 500 FPM actual descent from level flight if the static ports were iced over?",
-    "answers": {
-      "B": "The indication would be in reverse of the actual rate of descent (500 FPM climb).",
-      "C": "The VSI pointer would remain at zero regardless of the actual rate of descent.",
-      "A": "The initial indication would be a climb, then descent at a rate in excess of 500 FPM."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because, with no change in pressure, the\nindication would be level flight, not a climb or descent.",
-      "B": "because, with no change in pressure, the\nindication would be level flight, not a climb.",
-      "C": "The vertical speed indicator operates from\nthe static pressure source and indicates change in pressure.\nThus, if the static pressure ports became iced over, there would\n\nbe no change in the static pressure, and there would be no\nindication of descent or climb."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.2.20",
-    "question": "You check the flight instruments while taxiing and find the vertical speed indicator (VSI) indicates a descent of 100 feet per minute. In this case, you",
-    "answers": {
-      "A": "may take off and use 100 feet descent as the zero indication.",
-      "B": "must return to the parking area and have the instrument corrected by an authorized instrument repairman.",
-      "C": "may not take off until the instrument is corrected by either the pilot or a mechanic."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "The needle of the vertical speed indicator\n(VSI) should indicate zero when the aircraft is on the ground or is\nmaintaining a constant pressure level in flight. If it does not\nindicate zero, you must allow for the error when interpreting the\nindications in flight. Since the VSI is not a required instrument,\nyou may fly when it is out of adjustment.",
-      "B": "because the VSI can be used by making\nallowances in flight.",
-      "C": "because the VSI can be used by making\nallowances in flight."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.2.21",
-    "question": "What information does a Mach meter present?",
-    "answers": {
-      "A": "The ratio of aircraft equivalent airspeed, corrected for installation error, to the speed of sound.",
-      "B": "The ratio of aircraft indicated airspeed to the speed of sound.",
-      "C": "The ratio of aircraft true airspeed to the speed of sound."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because equivalent airspeed is the\ncalibrated airspeed of an aircraft corrected for compressibility\nflow at a particular altitude. The Mach meter uses true airspeed.",
-      "B": "because the Mach meter uses true\nairspeed, not indicated airspeed.",
-      "C": "The Mach meter indicates the ratio of\naircraft true airspeed to the speed of sound at flight altitude. It\nuses the pressure differential between the impact and static air\nsources and corrects automatically for temperature and altitude."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.22",
-    "question": "How should you preflight check the altimeter prior to an IFR flight?",
-    "answers": {
-      "A": "Set the altimeter first with 29.92\" Hg and then the current altimeter setting. The change in altitude should correspond to the change in setting.",
-      "B": "Set the altimeter to the current altimeter setting. The indication should be within 75 feet of the actual elevation for acceptable accuracy.",
-      "C": "Set the altimeter to 29.92\" Hg. With current temperature and the altimeter indication, determine the true altitude to compare with the field elevation."
-    },
-    "correct_answer": "B",
-    "explanations": {
-      "A": "because only indicated altitude, not\nchange in altitude, is checked.",
-      "B": "Set the altimeter to the local altimeter\nsetting before taking off, and verify that the indication is within 75\nft. of the actual elevation. If the difference is greater than 75 ft.,\nyou should consult an instrument repair shop.",
-      "C": "because setting the altimeter to 29.92\n\nand adjusting for temperature gives density altitude, not true\naltitude."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.23",
-    "question": "How should you preflight check the altimeter prior to an IFR flight?",
-    "answers": {
-      "A": "Set the altimeter to the current altimeter setting. The indication should be within 75 feet of the actual elevation for acceptable accuracy.",
-      "B": "Set the altimeter first with 29.92\" Hg and then the current altimeter setting. The change in altitude should correspond to the change in setting.",
-      "C": "Set the altimeter to the current temperature. With current temperature and the altimeter indication, determine the calibrated altitude to compare with the field elevation."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "Set the altimeter to the local altimeter\nsetting before taking off, and verify that the indication is within 75\nft. of the actual elevation. If the difference is greater than 75 ft.,\nyou should consult an instrument repair shop.",
-      "B": "because only indicated altitude, not\nchange in altitude, is checked.",
-      "C": "because an altimeter can be adjusted for\nnonstandard pressure, not temperature."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.24",
-    "question": "Pressure altitude is the altitude read on your altimeter when the instrument is adjusted to indicate height above",
-    "answers": {
-      "A": "the standard datum plane.",
-      "B": "sea level.",
-      "C": "ground level."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "Pressure altitude is the altitude read on\nyour altimeter when the instrument is adjusted to indicate height\nabove the standard datum plane, i.e., an altimeter setting of\n29.92 in. The standard datum plane is a theoretical level where\nthe weight of the atmosphere is 29.92 in. of Hg.",
-      "B": "because indicated altitude, not pressure\naltitude, is the altitude read on your altimeter (when set to the\ncorrect altimeter setting) to indicate the approximate height\nabove mean sea level.",
-      "C": "because the height above ground\n(absolute altitude) may be indicated directly on a radar altimeter,\nnot by adjusting a pressure altimeter to 29.92 in."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.25",
-    "question": "The local altimeter setting should be used by all pilots in a particular area, primarily to provide for",
-    "answers": {
-      "B": "the cancellation of altimeter error due to nonstandard temperatures aloft.",
-      "C": "better vertical separation of aircraft.",
-      "A": "more accurate terrain clearance in mountainous areas."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because temperatures aloft must also be\nconsidered to assure terrain clearance.",
-      "B": "because the altimeter setting does not\ncompensate for nonstandard temperatures aloft. Rather, all\naltimeters in the area will reflect the same uncompensated\namount.",
-      "C": "Because the altimeter in each airplane is\nequally affected by temperature and pressure variation errors,\nuse of the local altimeter setting in a given area provides for\nbetter vertical separation of aircraft."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.26",
-    "question": "(Refer to figure 84.) Which altimeter depicts 8,000 feet? Af.",
-    "answers": {
-      "B": "2. C.3."
-    },
-    "correct_answer": "B",
-    "explanations": {
-      "A": "because, in altimeter 1, both the thin hand\nand the short hand are on 8, which would indicate something in\nthe vicinity of 88,000 ft.",
-      "B": "When indicating 8,000 ft, an altimeter has\nthe short hand (1,000-ft. intervals) on 8, the long hand (100-ft.\nintervals) on zero, and the thin hand with flared tip (10,000-ft.\nintervals) just below 1, as shown in altimeter 2.",
-      "C": "because, while the short hand is pointing\nto 8 and the long hand is pointing to 0 (i.e., 8,000), the long thin\nneedle with the flared tip (10,000-ft. indicator) is on 0, not on the\nfourth tick mark from the 0 toward the 1. Altimeter 3 is either\nbroken or indicating 108,000 ft."
-    },
-    "figure_ref": "Refer to figure 84",
-    "screenshot": "figures/1.3.26.png"
-  },
-  {
-    "id": "1.3.27",
-    "question": "(Refer to figure 83.) Which altimeter depicts 12,000 feet?",
-    "answers": {
-      "B": "2. c.4.",
-      "A": "3."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because, in altimeter 3, the short hand is\n‘on 1, the long hand is on 2, and the thin hand is above 1,\nindicating about 11,200 ft.",
-      "B": "because, in altimeter 2, the thin hand is\nabove 2 and the short hand is on 1, indicating 21,000 ft.",
-      "C": "When indicating 12,000 ft., an altimeter\nhas the long hand (100-ft. intervals) on 0, the short hand (1,000-ft.\n\nintervals) on 2, and the thin hand with flared tip (10,000-ft.\nintervals) just over 1, as shown in altimeter 4."
-    },
-    "figure_ref": "Refer to figure 83",
-    "screenshot": "figures/1.3.27.png"
-  },
-  {
-    "id": "1.3.28",
-    "question": "Altimeter setting is the value to which the scale of the pressure altimeter is set so the altimeter indicates",
-    "answers": {
-      "B": "pressure altitude at sea level.",
-      "C": "pressure altitude at field elevation.",
-      "A": "true altitude at field elevation."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "The altimeter setting is the value which\npermits the altimeter to indicate the true altitude at field elevation.\nWithin the vicinity of a particular airport, the altimeter setting\nprovides an accurate means of separating traffic vertically and\nalso provides obstruction clearance. Note that the use of the\nword \"true\" here is not completely accurate because the altimeter\nsetting does not correct for nonstandard temperature.",
-      "B": "because the altimeter setting causes the\n\naltimeter to indicate true altitude, not pressure altitude, at field\nelevation, not sea level.",
-      "C": "because the altimeter setting causes the\naltimeter to indicate true altitude, not pressure altitude."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.29",
-    "question": "Altimeter setting is the value to which the scale of the pressure altimeter is set so the altimeter indicates",
-    "answers": {
-      "A": "pressure altitude at field elevation.",
-      "B": "pressure altitude at sea level.",
-      "C": "true altitude at field elevation."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because the altimeter setting causes the\naltimeter to indicate true altitude, not pressure altitude.",
-      "B": "because the altimeter setting causes the\n\naltimeter to indicate true altitude, not pressure altitude, at field\nelevation, not sea level.",
-      "C": "The altimeter setting is the value which\npermits the altimeter to indicate the true altitude at field elevation.\nWithin the vicinity of a particular airport, the altimeter setting\nprovides an accurate means of separating traffic vertically and\nalso provides obstruction clearance. Note that the use of the\nword \"true\" here is not completely accurate because the altimeter\nsetting does not correct for nonstandard temperature."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.30",
-    "question": "If you are departing from an airport where you cannot obtain an altimeter setting, you should set your altimeter",
-    "answers": {
-      "A": "0n 29.92\" Hg.",
-      "B": "on the current airport barometric pressure, if known.",
-      "C": "to the airport elevation."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because setting the altimeter to 29.92\nwould provide only pressure altitude.",
-      "B": "because the altimeter setting is the\ncurrent barometric pressure adjusted to sea level.",
-      "C": "If you cannot obtain an altimeter setting at\n\nan airport, adjust your altimeter so it reads the current airport\nelevation."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.31",
-    "question": "Which altitude is indicated when the altimeter is set to 29.92\" Hg?",
-    "answers": {
-      "B": "Standard.",
-      "C": "Density.",
-      "A": "Pressure."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "Pressure altitude is indicated when the\naltimeter is set to 29.92.",
-      "B": "because standard altitude is a nonsense\nconcept in this context.",
-      "C": "because density altitude is pressure\naltitude corrected for nonstandard temperature."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.32",
-    "question": "The pressure altitude at a given location is indicated on the altimeter after the altimeter is set to",
-    "answers": {
-      "A": "the current altimeter setting.",
-      "B": "the field elevation.",
-      "C": "29.92\" Hg."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because the altitude indicated on the\n\naltimeter after it is set to the current altimeter setting is the\nindicated altitude, not pressure altitude.",
-      "B": "because you set the altimeter to a\nbarometric pressure, not an elevation.",
-      "C": "Pressure altitude by definition is indicated\naltitude when the altimeter setting is 29.92. This is true\nregardless of area or true altitude."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.33",
-    "question": "How can you determine the pressure altitude on an airport without a tower or FSS?",
-    "answers": {
-      "A": "Set the altimeter to 29.92\" Hg and read the altitude indicated.",
-      "B": "Set the altimeter to the current altimeter setting of a station within 100 miles and correct this indicated altitude with local temperature.",
-      "C": "Use your computer and correct the field elevation for temperature."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "The pressure altitude is determined by\nsetting your altimeter to 29.92 and reading the altitude indicated.\nNo matter what altitude or location, the altimeter reads pressure\naltitude when the barometric window is set to 29.92\" Hg.",
-      "B": "because it describes true altitude.",
-      "C": "because correcting field elevation for\ntemperature is a nonsense concept."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.34",
-    "question": "How can you obtain the pressure altitude on flights below 18,000 feet?",
-    "answers": {
-      "A": "Use your computer to change the indicated altitude to pressure altitude.",
-      "B": "Set your altimeter to 29.92\" Hg.",
-      "C": "Contact an FSS and ask for the pressure altitude."
-    },
-    "correct_answer": "B",
-    "explanations": {
-      "A": "because it is much easier to just change\nthe altimeter to 29.92.",
-      "B": "Pressure altitude can be determined\nanywhere by setting the altimeter to 29.92.",
-      "C": "because pressure altitude is determined\nby setting your altimeter to 29.92, not by contacting an FSS."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.35",
-    "question": "Atan altitude of 6,500 feet MSL, the current altimeter setting is 30.42\" Hg. The pressure altitude would be approximately",
-    "answers": {
-      "B": "7,500 feet.",
-      "C": "6,000 feet.",
-      "A": "6,500 feet."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because pressure altitude is equal to\nactual altitude only when the current altimeter setting is 29.92.",
-      "B": "because a pressure change of 0.5\" Hg\nresults in an altitude change of 500 ft., not 1,000 ft.",
-      "C": "Rotating the altimeter's setting knob toa\nhigher (or lower) barometric setting moves the hands to higher\n(or lower) indicated altitude at the rate of 1\" Hg to 1,000 ft. of\naltitude. Given the current altimeter setting of 30.42 and the\nindicated altitude of 6,500 ft., resetting the window to 29.92\nwould lower indicated altitude by 500 ft. (30.42 - 29.92 = 0.5\" Hg\n\n= 500 ft.). The new indicated altitude would be 6,000 ft. MSL,\nwhich would be pressure altitude."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.36",
-    "question": "How does a pilot normally obtain the current altimeter setting during anIFR flight in Class E airspace below 18,000 feet?",
-    "answers": {
-      "A": "ATC periodically advises the pilot of the proper altimeter setting.",
-      "B": "The pilot should contact ARTCC at least every 100 NM and request the altimeter setting.",
-      "C": "FSS's along the route broadcast the weather information at 15 minutes past the hour."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "During IFR flight in Class E airspace below\n18,000 ft. MSL, ATC periodically provides altimeter settings.\n\nThus, you will continually hear the altimeter settings given to other\npilots as you monitor ATC.",
-      "B": "because ATC provides the altimeter\nsetting without being asked.",
-      "C": "because FSSs do not broadcast the\naltimeter setting at 15 min. past the hour."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.37",
-    "question": "Which of the following defines the type of altitude used when maintaining FL 2102",
-    "answers": {
-      "B": "Calibrated.",
-      "C": "Pressure.",
-      "A": "Indicated."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because indicated altitude is the altitude\nshown on the altimeter after it is set to the current altimeter\nsetting. Pressure altitude, not indicated altitude, is used at or\nabove 18,000 ft. MSL.",
-      "B": "because all altimeters are calibrated.",
-      "C": "Above 18,000 ft. MSL (FL 180), pressure\naltitude is used to separate traffic. Pressure altitude is the\naltitude indicated on an altimeter when it is set to 29.92."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.38",
-    "question": "What is the procedure for setting the altimeter when assigned an IFR altitude of 18,000 feet or higher on a direct flight off airways?",
-    "answers": {
-      "A": "Set the altimeter to the current reported setting for climb-out and 29.92\" Hg upon reaching 18,000 feet.",
-      "B": "Set the altimeter to the current altimeter setting until reaching the assigned altitude, then set to 29.92\" Hg.",
-      "C": "Set the altimeter to 29.92\" Hg before takeoff."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "When you are at an altitude of 18,000 ft.\nMSL (FL 180) or higher, the altimeter should be set to 29.92,\nwhich is pressure altitude. It does not matter whether you are on\nan airway.",
-      "B": "because you should set the altimeter to\n\n29.92 upon reaching FL 180, not upon reaching your assigned\naltitude.",
-      "C": "because indicated altitude (using local\naltimeter settings) should be used up to FL 180."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.39",
-    "question": "While you are flying at FL 250, you hear ATC give an altimeter setting of 28.92\" Hg in your area. At what pressure altitude are you flying?",
-    "answers": {
-      "A": "24,000 feet.",
-      "B": "25,000 feet.",
-      "C": "26,000 feet."
-    },
-    "correct_answer": "B",
-    "explanations": {
-      "A": "because FL 250 by definition means a\npressure altitude of 25,000 ft., not 24,000 ft.",
-      "B": "The pressure altitude is 25,000 ft. in your\n\narea because at FL 250 your altimeter should be set at 29.92. A\nflight level (FL) by definition means a pressure altitude.",
-      "C": "because FL 250 by definition means a\npressure altitude of 25,000 ft., not 26,000 ft."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.40",
-    "question": "Enroute at FL 290, the altimeter is set correctly, but not reset to the local altimeter setting of 30.57\" Hg during descent. If the field elevation is 650 feet and the altimeter is functioning properly, what is the approximate indication upon landing?",
-    "answers": {
-      "A": "715 feet.",
-      "B": "1,300 feet.",
-      "C": "Sea level."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because 715 ft. is obtained by adding 65\nft. rather than subtracting 650 ft.",
-      "B": "because 1,300 ft. is obtained by adding\n650 ft. rather than subtracting 650 ft.",
-      "C": "One in. of pressure equals approximately\n1,000 ft. of altitude. If an altimeter should be set to 30.57 but is\nset to 29.92, it is set .65\" Hg too low and thus will indicate 650 ft.\n(1,000 ft. x .65) less than actual altitude. Thus, if the airplane\nlands at an airport with a field elevation of 650 ft., the altimeter\nwill indicate sea level, i.e., 650 ft. elevation minus the 650 ft.\naltimeter setting error."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.41",
-    "question": "Enroute at FL 290, your altimeter is set correctly, but you fail to reset it to the local altimeter setting of 30.26\" Hg during descent. If the field elevation is 134 feet and your altimeter is functioning properly, what will it indicate after landing?",
-    "answers": {
-      "A": "100 feet MSL.",
-      "B": "474 feet MSL.",
-      "C": "206 feet below MSL."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because 100 ft. is obtained by\nsubtracting 34 ft. rather than subtracting 340 ft.",
-      "B": "because 474 ft. is obtained by adding\n340 ft. rather than subtracting 340 ft.",
-      "C": "One in. of pressure equals approximately\n1,000 ft. of altitude. If an altimeter should be set to 30.26 but is\nset to 29.92, it is set 34\" Hg too low and thus will indicate 340 ft.\n(1,000 ft. x .34) less than actual altitude. Thus, if the airplane\nlands at an airport with a field elevation of 134 ft., the altimeter\nwill indicate 206 ft. below sea level (134 ft. airport elevation - 340\nft. altimeter setting error)."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.42",
-    "question": "Under which condition will pressure altitude be equal to true altitude?",
-    "answers": {
-      "A": "When indicated altitude is equal to the pressure altitude.",
-      "B": "When standard atmospheric conditions exist.",
-      "C": "When the atmospheric pressure is 29.92\" Hg."
-    },
-    "correct_answer": "B",
-    "explanations": {
-      "A": "because nonstandard temperatures will\nmake indicated altitude deviate from true altitude.",
-      "B": "Pressure altitude will equal true altitude\n\nwhen standard atmospheric conditions exist at the current\naltitude, ie, 29.92\" Hg and 15°C at sea level.",
-      "C": "because, to get true altitude from an\naltimeter, both temperature and pressure must be standard."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.43",
-    "question": "Under what condition is pressure altitude and density altitude the same value?",
-    "answers": {
-      "A": "At standard temperature.",
-      "B": "When indicated, and pressure altitudes are the same value on the altimeter.",
-      "C": "When the altimeter setting is 29.92\" Hg."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "Density altitude, by definition, is pressure\naltitude adjusted for nonstandard temperature. Accordingly,\npressure altitude will equal density altitude at standard\ntemperature.",
-      "B": "because neither indicated nor pressure\naltitude is adjusted for nonstandard temperature.",
-      "C": "because pressure altitude has not been\nadjusted for nonstandard temperature."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.44",
-    "question": "Under what condition will true altitude be lower than indicated altitude with an altimeter setting of 29.92\" Hg?",
-    "answers": {
-      "A": "When density altitude is higher than indicated altitude.",
-      "B": "In colder than standard air temperature.",
-      "C": "In warmer than standard air temperature."
-    },
-    "correct_answer": "B",
-    "explanations": {
-      "A": "because, assuming an altimeter setting of\n29.92, if density altitude is higher than indicated altitude, the air is\nthinner and thus warmer. When you are in warmer-than-standard\nair, the true altitude is above indicated altitude.",
-      "B": "When temperature lowers en route, you\nare lower than your altimeter indicates. Similarly, when you are in\n\ncolder-than-standard air temperatures, true altitude is lower than\npressure altitude.",
-      "C": "because, when you are in\n\nwarmer-than-standard air, the true altitude is above pressure\naltitude."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.45",
-    "question": "When an altimeter is changed from 30.11\" Hg to 29.96\" Hg, in which direction will the indicated altitude change and by what value?",
-    "answers": {
-      "B": "Altimeter will indicate 150 feet higher.",
-      "C": "Altimeter will indicate 15 feet lower.",
-      "A": "Altimeter will indicate 150 feet lower."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "Altimeter settings vary approximately 1\"\nHg for each 1,000 ft. of altitude. When the altimeter setting is\nchanged from 30.11 to 29.96, it is lower by .15\" Hg. Thus, the\naltimeter will indicate 150 ft. lower (1,000 ft. x .15). Remember\nthat the indicated altitude and altimeter setting vary directly; i.e.,\nwhen the altimeter setting is adjusted up, indicated altitude\nincreases and vice versa.",
-      "B": "because, when the altimeter setting is\nlowered, indicated altitude decreases, not increases.",
-      "C": "because .15\" Hg is equal to 150 ft., not\n15 ft."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.3.46",
-    "question": "Which condition would cause the altimeter to indicate a lower altitude than actually flown (true altitude)?",
-    "answers": {
-      "A": "Air temperature warmer than standard.",
-      "B": "Atmospheric pressure lower than standard.",
-      "C": "Air temperature lower than standard."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "When temperatures are warmer than\nstandard, the pressure levels are raised. That is, the altimeter will\nindicate an altitude lower than that at which the aircraft is actually\nflying.",
-      "B": "because using the correct altimeter\nsetting adjusts for nonstandard pressure.",
-      "C": "because in colder-than-standard air,\n\npressure levels drop. Thus, the altimeter reads higher, not lower,\nthan true altitude."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.4.47",
-    "question": "Which practical test should be made on the electric gyro instruments prior to starting an engine?",
-    "answers": {
-      "A": "Check that the attitude of the miniature aircraft is wings level before turning on electrical power.",
-      "B": "Check that the electrical connections are secure on the back of the instruments.",
-      "C": "Turn on the electrical power and listen for any unusual or irregular mechanical noise."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because, due to the construction of the\nturn coordinator, the miniature aircraft will be wings level before\nturning on the electrical power. Thus, this indication would not be",
-      "B": "because pilots should not be handling or\ntouching electrical connections behind the instrument panel.",
-      "C": "Electric gyro instruments can be checked\nfor irregular noises by listening to them after the battery is turned\non but before the engine is started. You should notice any\nbearing clatters, clicks, or other unusual noises. Additionally, you\ncan look at the instruments to see if they are in their expected\n\nPositions. There are additional tests to pursue after the engine is\nstarted."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.4.48",
-    "question": "One characteristic that a properly functioning gyro depends upon for operation is the",
-    "answers": {
-      "A": "ability to resist precession 90° to any applied force.",
-      "B": "deflecting force developed from the angular velocity of the spinning wheel.",
-      "C": "resistance to deflection of the spinning wheel or disc."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because precession is the name for the\nreaction to deflection. The gyro uses precession, not resists it.",
-      "B": "because the deflective force is applied to,\nnot developed by, the gyro.",
-      "C": "Newton's second law of motion states that\nthe deflection of a moving body is proportional to the deflective\nforce applied and is inversely proportional to its weight and\nspeed. For a gyro, the resistance to deflection is proportional to\nthe defiective force. This property is used by the attitude indicator."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.5.49",
-    "question": "What pre-takeoff check should be made of a vacuum-driven heading indicator in preparation for an IFR flight?",
-    "answers": {
-      "A": "After 5 minutes, check that the heading indicator card aligns itself with the magnetic heading of the aircraft.",
-      "B": "Determine that the heading indicator does not precess more than 2° in 5 minutes of ground operation.",
-      "C": "After 5 minutes, set the indicator to the magnetic heading of the aircraft and check for proper alignment after taxi turns."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because non-slaved heading indicators\nmust be manually set to the correct magnetic heading.",
-      "B": "because a precession error of no more\nthan 3° in 15 min., not 2° in 5 min., is acceptable for normal\noperations.",
-      "C": "Vacuum-driven gyros take several minutes\nto get up to speed. After about 5 min., set the heading indicator\nto the correct magnetic heading. After taxiing to the runup area,\n\nverify that the heading indicator still indicates the correct\nmagnetic heading."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.5.50",
-    "question": "Clockwise Slave and Free Counterclockwise Adjustment Gyro Pushbutton Adjustment 51. (Refer to figure 143.) The heading on a remote indicating compass is 120 | and the magnetic compass indicates 110 | . What action is required to correctly align the heading indicator with the magnetic compass?",
-    "answers": {
-      "A": "Select the free gyro mode and depress the clockwise heading drive button.",
-      "B": "Select the free gyro mode and depress the counter-clockwise heading drive button.",
-      "C": "Select the slaved gyro mode and depress the clockwise heading drive button."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "Some remote indicating compasses (RIC)\nhave a separate slaving control and compensator unit with a\ndeviation meter. The instrument shows any difference between\nthe displayed heading and the magnetic heading. It also provides\nthe controls shown in Fig. 143 to correct any errors. To correct\nfrom 120° indicated on the RIC to the magnetic heading of 110°,\nselect the free gyro mode and depress the clockwise heading\ndrive button until 110° heading on RIC is indicated and the\ndeviation meter is centered.",
-      "B": "because using the counter-clockwise\ndrive button would increase the indicated headings, e.g., from\n120° to 130° indicated.",
-      "C": "because the RIC must be in the free gyro\nmode to use the heading drive button."
-    },
-    "figure_ref": "Refer to figure 143",
-    "screenshot": "figures/1.5.50.png"
-  },
-  {
-    "id": "1.5.51",
-    "question": "Clockwise Slave and Free Counterclockwise Adjustment Gyro Pushbutton Adjustment 52. (Refer to figure 143.) When the system is in the free gyro mode, depressing the clockwise manual heading drive button will rotate the remote indicating compass card to the",
-    "answers": {
-      "A": "right to eliminate right compass card error.",
-      "B": "left to eliminate left compass card error.",
-      "C": "right to eliminate left compass card error."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because you adjust to the right for left, not\nright, error.",
-      "B": "because the clockwise manual heading\ndrive button rotates the compass card to the right, not left.",
-      "C": "A left compass card error means that the\ncard has rotated too far to the left; i-e., it reads too higha\nheading. The clockwise adjustment rotates the indicating\ncompass card to the right to eliminate left compass card error.\nFor example, this would change a 120° heading to 110°."
-    },
-    "figure_ref": "Refer to figure 143",
-    "screenshot": "figures/1.5.51.png"
-  },
-  {
-    "id": "1.5.52",
-    "question": "Clockwise Slave and Free Counterclockwise Adjustment Gyro Pushbutton Adjustment 53. (Refer to figure 143.) The heading on a remote indicating compass is 5° to the left of that desired. What action is required to move the desired heading under the heading reference?",
-    "answers": {
-      "A": "Select the free gyro mode and depress the counter-clockwise heading drive button.",
-      "B": "Select the slaved gyro mode and depress the clockwise heading drive button.",
-      "C": "Select the free gyro mode and depress the clockwise heading drive button."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "If the heading on the compass is left of that\ndesired, the compass has rotated too far to the right, whichis a\nright compass error. Thus, the slaving control must be placed in\nthe free mode, and the counterclockwise drive button must be\ndepressed.",
-      "B": "because the RIC must be in the free gyro\nmode to use the heading drive button and the counterclockwise\nheading drive button should be depressed.",
-      "C": "because the clockwise heading drive\nbutton would correct a left, not a right, card error."
-    },
-    "figure_ref": "Refer to figure 143",
-    "screenshot": "figures/1.5.52.png"
-  },
-  {
-    "id": "1.6.53",
-    "question": "What pre-takeoff check should be made of the attitude indicator in preparation for an IFR flight?",
-    "answers": {
-      "A": "The miniature airplane should erect and become stable within 5 minutes.",
-      "B": "The horizon bar does not vibrate during warmup.",
-      "C": "The horizon bar should erect and become stable within 5 minutes."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because the miniature airplane can be\nadjusted manually but otherwise remains stationary. It is the\nhorizon bar that moves within the instrument face.",
-      "B": "because the horizon bar usually vibrates\nduring warm-up as the gyro gets up to speed.",
-      "C": "The pretakeoff check for attitude indicators\nis that, within the 5-min. warm-up, the horizon bar should erect to\nthe horizontal position and remain at the correct position. It\nshould remain stable during straight taxiing and taxi turns."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.6.54",
-    "question": "Which condition during taxi is an indication that an attitude indicator is unreliable?",
-    "answers": {
-      "A": "The horizon bar vibrates during warmup.",
-      "B": "The horizon bar does not align itself with the miniature airplane after warmup.",
-      "C": "The horizon bar tilts more than 5° while making taxi turns."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because the horizon bar will vibrate as\nthe gyros get up to speed during warm-up.",
-      "B": "because the horizon bar aligns itself with\nthe center of the dial, indicating level flight. Then the miniature\nairplane must be adjusted to align with the horizon bar from the\npilot's perspective.",
-      "C": "The horizon bar in an attitude indicator\nshould not tilt more than 5° during a taxi turn. If it does, itis\nunreliable and should not be used for IFR flight."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.6.55",
-    "question": "During coordinated turns, which force moves the pendulous vanes of a vacuum-driven attitude indicator resulting in precession of the gyro toward the inside of the turn?",
-    "answers": {
-      "A": "Centrifugal.",
-      "B": "Acceleration.",
-      "C": "Deceleration."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "The attitude indicator normally erects itself\n\nby discharging air equally through four exhaust ports, each of\nwhich is partially covered by a pendulous vane. During\n\ncoordinated (and skidding) turns, centrifugal force moves the\nvanes from their vertical position, precessing the gyro toward the\ninside of the turn.",
-      "B": "because acceleration is a force that\ninduces climb/descent errors in the attitude indicator.",
-      "C": "because deceleration is a force that\ninduces climb/descent errors in the attitude indicator."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.6.56",
-    "question": "Ifa 180° steep turn is made to the right and the aircraft is rolled out to ‘straight-and-level flight by visual references, the attitude indicator",
-    "answers": {
-      "A": "show a slight skid and climb to the right.",
-      "B": "may show a slight climb and turn.",
-      "C": "should immediately show straight-and-level flight."
-    },
-    "correct_answer": "B",
-    "explanations": {
-      "A": "because evidence of a skid error cannot\nbe read from the attitude indicator, and the turn error would be to\nthe left, not to the right.",
-      "B": "In 180° coordinated steep turns, when the\nairplane is rolled out to straight-and-level flight, the attitude\nindicator will indicate a turn to the opposite direction along with a\nslight climb.",
-      "C": "because, when the airplane is rolled out\nof a coordinated 180° steep turn to straight-and-level flight, the\n\nattitude indicator will indicate a turn to the opposite direction with"
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.6.57",
-    "question": "During normal coordinated turns, what error due to precession should you observe when rolling out to straight-and-level flight from a 180° steep turn to the right?",
-    "answers": {
-      "A": "The miniature aircraft would show a slight turn indication to the left.",
-      "B": "The miniature aircraft would show a slight descent and wings-level attitude.",
-      "C": "A straight-and-level coordinated flight indication."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "In 180° coordinated steep turns, when the\nairplane is rolled out to straight-and-level flight, the attitude\nindicator will indicate a turn to the opposite direction along with a\nslight climb. Thus, the indicated turn would be to the left if the\nsteep turn were made to the right.",
-      "B": "because it will indicate a slight climb, not",
-      "C": "because the attitude indicator will show a\n\nslight climb to the left, not straight-and-level flight, and it does not\nindicate coordinated flight."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.6.58",
-    "question": "During normal operation of a vacuum-driven attitude indicator, what attitude indication should you see when rolling out from a 180° skidding turn to straight-and-level coordinated flight?",
-    "answers": {
-      "A": "Anose-high indication relative to level flight.",
-      "B": "The miniature aircraft shows a turn in the direction opposite the skid.",
-      "C": "A straight-and-level coordinated flight indication."
-    },
-    "correct_answer": "B",
-    "explanations": {
-      "A": "because a nose-high indication will result\nonly when the aircraft is rolling out of a coordinated turn.",
-      "B": "Similarly to coordinated turns, the attitude\nindicator will show a bank in the opposite direction when the\naircraft is rolled out of a skidding turn. However, there will be no\nnose-up indication.",
-      "C": "because the attitude indicator will show a\nslight turn in the opposite direction, not straight-and-level flight,\nand it does not indicate coordinated flight."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.6.59",
-    "question": "Errors in both pitch and bank indication on an attitude indicator are usually at a maximum as the aircraft rolls out of a",
-    "answers": {
-      "A": "270° tum.",
-      "B": "360° turn.",
-      "C": "180° turn."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because pitch and bank errors are usually\nthe greatest after 180°, not 270°, of turn.",
-      "B": "because pitch and bank errors are usually\nthe greatest after 180°, not 360°, of turn.",
-      "C": "Errors for both pitch and bank indication\non an attitude indicator are greatest when rolling out of a 180°\nturn. This precession error, normally between 3° and 5°, is\nself-correcting by the part of the heading indicator called the\nerecting mechanism."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.6.60",
-    "question": "When an aircraft is decelerated, some attitude indicators will precess and incorrectly indicate a",
-    "answers": {
-      "B": "climb.",
-      "C": "descent.",
-      "A": "left turn."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because acceleration and deceleration\nresult in erroneous pitch readings, not turning errors.",
-      "B": "because acceleration, not deceleration,\nmay result in precession-related errors indicating a climb.",
-      "C": "Deceleration affects some attitude\nindicators through precession to incorrectly indicate a descent."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.6.61",
-    "question": "When an aircraft is accelerated, some attitude indicators will precess and incorrectly indicate a",
-    "answers": {
-      "A": "climb.",
-      "B": "descent.",
-      "C": "right turn."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "Acceleration affects some attitude\nindicators through precession to incorrectly indicate a climb.",
-      "B": "because deceleration, not acceleration,\nmay result in precession-related errors indicating a descent.",
-      "C": "because acceleration and deceleration\nresult in erroneous pitch readings, not turning errors."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.7.62",
-    "question": "Prior to starting an engine, you should check the turn-and-slip indicator to determine if the",
-    "answers": {
-      "A": "ball will move freely from one end of the tube to the other when the aircraft is rocked.",
-      "B": "needle is approximately centered and the tube is full of fluid.",
-      "C": "needle indication properly corresponds to the angle of the wings or rotors with the horizon."
-    },
-    "correct_answer": "B",
-    "explanations": {
-      "A": "because rocking the aircraft is not\nnecessary. Freedom of movement of the ball is checked during\ntaxi.",
-      "B": "Prior to starting an engine, you should\ndetermine that the needle of the turn-and-slip indicator is\napproximately centered and that the tube is full of fluid with the\nball also approximately centered if the airplane is ona level\nsurface.",
-      "C": "because the needle corresponds to rate\nand direction of turn, not wing or rotor angle."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.7.63",
-    "question": "What indications should you observe on the turn-and-slip indicator during taxi?",
-    "answers": {
-      "A": "The ball moves freely opposite the turn, and the needle deflects in the direction of the turn.",
-      "B": "The ball deflects opposite the turn, but the needle remains centered.",
-      "C": "The needle deflects in the direction of the turn, but the ball remains centered."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "During taxi, the turn-and-slip indicator ball\nshould move freely opposite the direction of any turn since\ncentrifugal force forces the ball to the outside. Also, the rate of\nturn indicator should indicate a turn in the proper direction.",
-      "B": "because the needle deflects in the\ndirection of the turn.",
-      "C": "because the ball will deflect opposite to\nthe direction of the turn."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.8.64",
-    "question": "What indications are displayed by the miniature aircraft of a turn coordinator?",
-    "answers": {
-      "A": "Indirect indication of bank angle and pitch attitude.",
-      "B": "Direct indication of bank angle and pitch attitude.",
-      "C": "Rate of roll and rate of turn."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because the turn coordinator has no\nfelationship to pitch attitude.",
-      "B": "because the turn coordinator only\n\nindirectly indicates bank angle and has no relationship to pitch\nattitude.",
-      "C": "The turn coordinator indicates rate of roll\nand rate of turn. When the bank is constant, the rate of turnis\n\nindicated. When the bank is changing, the rate of roll is also\nindicated."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.8.65",
-    "question": "What does the miniature aircraft of the turn coordinator directly display?",
-    "answers": {
-      "B": "Angle of bank.",
-      "C": "Angle of bank and rate of turn.",
-      "A": "Rate of roll and rate of turn."
-    },
-    "correct_answer": "A",
-    "explanations": {
-      "A": "The turn coordinator indicates rate of roll\nand rate of turn. When the bank is constant, the rate of turn is\nindicated. When the bank is changing, the rate of roll is also\nindicated.",
-      "B": "because the angle of bank is not directly\nindicated by the turn coordinator.",
-      "C": "because the angle of bank is not directly\nindicated by the turn coordinator."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.8.66",
-    "question": "What indication is presented by the miniature aircraft of the turn coordinator?",
-    "answers": {
-      "A": "Direct indication of the bank attitude and the quality of the turn.",
-      "B": "Indirect indication of the bank attitude.",
-      "C": "Quality of the turn."
-    },
-    "correct_answer": "B",
-    "explanations": {
-      "A": "because the turn coordinator does NOT\nprovide a direct indication of bank.",
-      "B": "The miniature aircraft of the turn\ncoordinator indicates the rate of roll when bank is changing.\nWhen the rotation around the longitudinal axis is zero, the\ninstrument indicates the rate of turn. Thus, it provides only an\nindirect indication of the angle of bank.",
-      "C": "because the ball in the turn coordinator,\n\nnot the miniature aircraft, provides information on the quality of\nthe turn."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.8.67",
-    "question": "The displacement of a turn coordinator during a coordinated turn will",
-    "answers": {
-      "A": "indicate the angle of bank.",
-      "B": "increase as angle of bank increases.",
-      "C": "remain constant for a given bank regardless of airspeed."
-    },
-    "correct_answer": "B",
-    "explanations": {
-      "A": "because the angle of bank is only\nindirectly indicated.",
-      "B": "The displacement of a turn coordinator\n\nincreases as angle of bank (in coordinated flight) increases\n\nbecause the turn coordinator shows rate of turn, which increases\nas angle of bank increases.",
-      "C": "because, when the rate of roll is zero, the\nturn coordinator provides information concerning the rate of turn,\n\nwhich in turn changes as airspeed changes given a constant\nbank."
-    },
-    "figure_ref": null,
-    "screenshot": null
-  },
-  {
-    "id": "1.8.68",
-    "question": "What indication should be observed on a turn coordinator during a left turn while taxiing?",
-    "answers": {
-      "B": "Both the miniature aircraft and the ball will remain centered.",
-      "C": "The miniature aircraft will show a turn to the left and the ball moves to the right.",
-      "A": "The miniature aircraft will show a turn to the left and the ball remains centered."
-    },
-    "correct_answer": "C",
-    "explanations": {
-      "A": "because the ball moves to the outside of\nthe turn due to centrifugal force.",
-      "B": "because the miniature aircraft reacts to\n\nyaw and shows a tum to the left, and the ball reacts to centrifugal\nforce by moving right.",
-      "C": "On a taxiing turn to the left, the turn\ncoordinator shows a turn to the left, and the ball moves to the\nright. The centrifugal force of the turn, which is not offset by bank\nwhen taxiing, forces the ball opposite to the turn."
-    },
-    "figure_ref": null,
-    "screenshot": null
+    "library": "Instrument Pilot",
+    "chapters": [
+      {
+        "chapter": "1",
+        "section": "Airplane Instruments",
+        "questions": [
+          {
+            "id": "1.1.1",
+            "question": "On the taxi check, the magnetic compass should",
+            "answers": {
+              "A": "swing opposite to the direction of turn when turning from north.",
+              "B": "exhibit the same number of degrees of dip as the latitude.",
+              "C": "swing freely and indicate known headings."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because the compass exhibits turning errors only when the airplane is airborne and in a bank.",
+              "B": "because compass turning errors occur in flight as a result of magnetic dip.",
+              "C": "When taxiing, the magnetic compass should be checked to make sure that the compass card is swinging freely and indicating known headings."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.1.2",
+            "question": "What should be the indication on the magnetic compass as you roll into a standard-rate turn to the left from an east heading in the Northern Hemisphere?",
+            "answers": {
+              "A": "The compass will initially indicate a turn to the right.",
+              "B": "The compass will remain on east for a short time, then gradually catch up to the magnetic heading of the aircraft.",
+              "C": "The compass will indicate the approximate correct magnetic heading if the roll into the turn is smooth."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because the compass will initially indicate",
+              "B": "because when the airplane is turning from an east heading, the compass will immediately indicate a turn, if the roll into the turn is smooth.",
+              "C": "If you roll into a smooth, coordinated, standard-rate turn to the left or right from an east or west heading, the compass will indicate the approximate correct magnetic heading. There are no turning errors on turns from east or west headings."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.1.3",
+            "question": "What should be the indication on the magnetic compass as you roll into a standard rate turn to the right from an easterly heading in the Northern Hemisphere?",
+            "answers": {
+              "A": "The compass will initially indicate a turn to the left.",
+              "B": "The compass will remain on east for a short time, then gradually catch up to the magnetic heading of the aircraft.",
+              "C": "The compass will indicate the approximate correct magnetic heading if the roll into the turn is smooth."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because the compass will initially indicate",
+              "B": "because, when turning from an east heading, the compass will immediately indicate a turn if the roll into the turn is smooth.",
+              "C": "If you roll into a smooth, coordinated, standard-rate turn to the left or right from an east or west heading, the compass will normally indicate the approximate correct magnetic heading. Acceleration, not turning, errors are found in east or west headings in the Northern Hemisphere."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.1.4",
+            "question": "What should be the indication on the magnetic compass as you roll into a standard rate turn to the right from a south heading in the Northern Hemisphere?",
+            "answers": {
+              "A": "The compass will indicate a turn to the right, but at a faster rate than is actually occurring.",
+              "B": "The compass will initially indicate a turn to the left.",
+              "C": "The compass will remain on south for a short time, then gradually catch up to the magnetic heading of the aircraft."
+            },
+            "correct_answer": "A",
+            "explanations": {
+              "A": "In turns from a southerly heading in the Northern Hemisphere, the compass leads the turn. That is, it indicates a turn in the proper direction but at a faster rate than is actually occurring.",
+              "B": "because the compass will initially indicate",
+              "C": "because it describes a shallower-than-standard turn from a north, not south, heading."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.1.5",
+            "question": "Onwhat headings will the magnetic compass read most accurately during a level 360° turn, with a bank of approximately 15°?",
+            "answers": {
+              "A": "135° through 225°",
+              "B": "90° and 270°.",
+              "C": "180° and 0°."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because the compass leads the heading in a turn through south.",
+              "B": "In a turn through north or south, the compass indication will usually be incorrect. But in a turn through east or west, the compass indication is usually accurate. Therefore, the compass should be indicating properly when passing through 90° and 270°. This holds true for only medium to ‘shallow bank turns, e.g., 15-30°.",
+              "C": "because compass turning errors are greatest at north and south headings."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.1.6",
+            "question": "What causes the northerly turning error in a magnetic compass?",
+            "answers": {
+              "A": "Coriolis force at the mid-latitudes.",
+              "B": "Centrifugal force acting on the compass card.",
+              "C": "The magnetic dip characteristic."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because the Coriolis force of the spinning Earth affects winds rather than compass indications.",
+              "B": "because centrifugal force is not related to compass turning errors.",
+              "C": "Magnetic dip causes a compass needle to point both down toward the earth and to the magnetic pole. This characteristic causes turning errors."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.1.7",
+            "question": "What should be the indication on the magnetic compass when you roll into a standard rate turn to the left from a south heading in the Northern Hemisphere?",
+            "answers": {
+              "A": "The compass will indicate a turn to the left, but at a faster rate than is actually occurring.",
+              "B": "The compass will initially indicate a turn to the right.",
+              "C": "The compass will remain on south for a short time, then gradually catch up to the magnetic heading of the aircraft."
+            },
+            "correct_answer": "A",
+            "explanations": {
+              "A": "In turns from a southerly heading in the Northern Hemisphere, the compass leads the turn. Thatis, it indicates a turn in the proper direction but at a rate faster than the actual rate.",
+              "B": "because the compass will initially indicate",
+              "C": "because it describes a shallower-than-standard turn from a north, not south, heading."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.1.8",
+            "question": "What should be the indication on the magnetic compass as you roll into a standard rate turn to the right from a westerly heading in the Northern Hemisphere?",
+            "answers": {
+              "A": "The compass will initially show a turn in the opposite direction, then turn to a northerly indication but lagging behind the actual heading of the aircraft.",
+              "B": "The compass will remain on a westerly heading for a short time, then gradually catch up to the actual heading of the aircraft.",
+              "C": "The compass will indicate the approximate correct magnetic heading if the roll into the turn is smooth."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because the compass will initially indicate",
+              "B": "because when turning from a westerly heading, the compass will immediately indicate a tum if the roll into the turn is smooth.",
+              "C": "If you roll into a smooth, coordinated, ‘standard-rate turn to the left or right from an east or west heading, the compass will indicate the approximate correct magnetic heading. There are no turning errors on turns from east or west headings."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.1.9",
+            "question": "What should be the indication on the magnetic compass as you roll into a standard rate turn to the right from a northerly heading in the Northern Hemisphere?",
+            "answers": {
+              "A": "The compass will indicate a turn to the right, but at a faster rate than is actually occurring.",
+              "B": "The compass will initially indicate a turn to the left.",
+              "C": "The compass will remain on north for a short time, then gradually catch up to the magnetic heading of the aircraft."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because it describes a turn to the right from a southerly heading.",
+              "B": "In turns from a northerly heading in the Northern Hemisphere, the compass will initially indicate a turn to the opposite direction. Then the compass heading will lag behind ‘the actual heading until the airplane approaches an east or west heading.",
+              "C": "because it describes a shallower-than-standard turn from north."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.1.10",
+            "question": "What should be the indication on the magnetic compass as you roll into a standard rate turn to the left from a west heading in the Northern Hemisphere?",
+            "answers": {
+              "A": "The compass will initially indicate a turn to the right.",
+              "B": "The compass will remain on west for a short time, then gradually catch up to the magnetic heading of the aircraft.",
+              "C": "The compass will indicate the approximate correct magnetic heading if the roll into the turn is smooth."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because the compass will initially indicate",
+              "B": "because in a turn from an east heading, the compass will immediately indicate a turn if the roll into the turn is smooth.",
+              "C": "If you roll into a smooth, coordinated, standard-rate turn to the left or right from an east or west heading, the compass will indicate the approximate correct magnetic heading. Turning errors appear on turns from north or south headings, not east or west."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.1.11",
+            "question": "What should be the indication on the magnetic compass as you roll into a standard rate turn to the left from a north heading in the Northern Hemisphere?",
+            "answers": {
+              "A": "The compass will indicate a turn to the left, but at a faster rate than is actually occurring.",
+              "B": "The compass will initially indicate a turn to the right.",
+              "C": "The compass will remain on north for a short time, then gradually catch up to the magnetic heading of the aircraft."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because it describes a turn to the left from a southerly heading.",
+              "B": "In turns from a northerly heading in the Northern Hemisphere, the compass will initially indicate a turn to the opposite direction, and the compass heading will lag behind actual until the airplane approaches an east or west heading.",
+              "C": "because it describes a shallower-than-standard turn from north."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.2.12",
+            "question": "During flight, if the pitot tube becomes clogged with ice, which of the following instruments would be affected?",
+            "answers": {
+              "A": "The airspeed indicator only.",
+              "B": "The airspeed indicator and the altimeter.",
+              "C": "The airspeed indicator, altimeter, and Vertical Speed Indicator."
+            },
+            "correct_answer": "A",
+            "explanations": {
+              "A": "The pitot-static system is a source of pressure for the altimeter, vertical speed indicator, and airspeed indicator. The pitot tube is connected directly to the airspeed indicator, and the static vents are connected directly to all three. The pressure of air coming into the pitot tube (impact air pressure) is compared with the air pressure at the static system vents to determine airspeed.",
+              "B": "because the pitot tube is connected only to the airspeed indicator, not the altimeter.",
+              "C": "because the pitot tube is connected only to the airspeed indicator, not the altimeter or vertical speed indicator."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.2.13",
+            "question": "If both the ram air input and the drain hole of the pitot system are blocked, what reaction should you observe on the airspeed indicator when power is applied and a climb is initiated out of severe icing conditions?",
+            "answers": {
+              "A": "The indicated airspeed would show a continuous deceleration while climbing.",
+              "B": "The airspeed would drop to, and remain at, zero.",
+              "C": "No change until an actual climb rate is established, then indicated airspeed will increase."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because, as there is an increase in altitude, the airspeed indicator will show an increase in airspeed as the air pressure within the pitot tube is relatively greater than that of the static air.",
+              "B": "because this reaction would occur if the ram air input, but not the drain hole, were blocked.",
+              "C": "When the airspeed indicator pitot tube and drain hole are blocked, the airspeed indicator will react as an altimeter. There will be a constant pressure within the pitot tube, and as the pressure from the static source decreases during a climb, the indicated airspeed on the altimeter will increase."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.2.14",
+            "question": "What indication should a pilot observe if an airspeed indicator ram air input and drain hole are blocked?",
+            "answers": {
+              "A": "The airspeed indicator will react as an altimeter.",
+              "B": "The airspeed indicator will show a decrease with an increase in altitude.",
+              "C": "No airspeed indicator change will occur during climbs or descents."
+            },
+            "correct_answer": "A",
+            "explanations": {
+              "A": "When the airspeed indicator pitot tube and drain hole are blocked, the airspeed indicator will react as an altimeter. There will be a constant pressure within the pitot tube, and as the pressure from the static source decreases during a climb, the indicated airspeed on the altimeter will increase.",
+              "B": "because indicated airspeed will increase, not decrease, with increases in altitude.",
+              "C": "because differential pressure between the pitot tube and static air source changes, and so does indicated airspeed."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.2.15",
+            "question": "If both the ram air input and drain hole of the pitot system are blocked, what airspeed indication can be expected?",
+            "answers": {
+              "A": "No variation of indicated airspeed in level flight even if large power changes are made.",
+              "B": "Decrease of indicated airspeed during a climb.",
+              "C": "Constant indicated airspeed during a descent."
+            },
+            "correct_answer": "A",
+            "explanations": {
+              "A": "If both the pitot tube input and the drain hole on the pitot system are blocked, the airspeed indication will be constant at any given altitude.",
+              "B": "because, during a climb, the airspeed indicator will indicate an increase, not decrease, due to the stronger differential pressure in the blocked pitot tube relative to the static vents.",
+              "C": "because indicated airspeed would change with changes in altitude."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.2.16",
+            "question": "If the outside air temperature increases during a flight at constant power and at a constant indicated altitude, the true airspeed will",
+            "answers": {
+              "B": "increase and true altitude will decrease.",
+              "C": "increase and true altitude will increase.",
+              "A": "decrease and true altitude will increase."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because TAS increases, not decreases.",
+              "B": "because true altitude increases, not decreases.",
+              "C": "As temperature increases, pressure levels tise farther above sea level and true altitude increases given a constant indicated altitude. As altitude increases with constant power, true airspeed increases."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.2.17",
+            "question": "If, while in level flight, it becomes necessary to use an alternate source of static pressure vented inside the airplane, which of the following should the pilot expect?",
+            "answers": {
+              "A": "The vertical speed to show a climb.",
+              "B": "The vertical speed to momentarily show a descent.",
+              "C": "The altimeter to read higher than normal."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because the VSI will show only a momentary, not a steady-state, climb.",
+              "B": "because the VSI indication will be a momentary climb, not a descent.",
+              "C": "Most aircraft equipped with a pitot-static system are provided with an alternate source of static pressure for emergency use. This source is usually vented inside the cabin. The pressure within an unpressurized cockpit is slightly lower than the pressure outside the airplane because of the Venturi effect of the air moving past the outside of the cockpit. When the alternate static source is used, the altimeter and airspeed indicator will read higher than actual, and the vertical ‘speed indicator will momentarily show a climb."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.2.18",
+            "question": "If while in level flight, it becomes necessary to use an alternate source of static pressure vented inside the airplane, which of the following variations in instrument indications should the pilot expect?",
+            "answers": {
+              "A": "The altimeter will read lower than normal, airspeed lower than normal, and the VSI will momentarily show a descent.",
+              "B": "The altimeter will read higher than normal, airspeed greater than normal, and the VSI will momentarily show a climb.",
+              "C": "The altimeter will read lower than normal, airspeed greater than normal, and the VSI will momentarily show a climb and then a descent."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because the altimeter and airspeed indicators will read higher, not lower, than normal, and the vertical speed indicator will momentarily show a climb, not a descent.",
+              "B": "Most aircraft equipped with a pitot-static system are provided with an alternate source of static pressure for emergency use. This source is usually vented inside the cabin. The pressure within an unpressurized cockpit is slightly lower than the pressure outside the airplane because of the Venturi effect of the air moving past the outside of the cockpit. When the alternate static source is used, the altimeter will read higher than actual, and the vertical speed indicator will momentarily show a climb.",
+              "C": "because the altimeter will read higher, not lower, than normal, and the vertical speed indicator will show level flight, not a descent, after the momentary climb."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.2.18a",
+            "question": "If, while in level flight, it becomes necessary to use an alternate source of static pressure vented inside the airplane, which of the following should the pilot expect?",
+            "answers": {
+              "B": "The gyroscopic instruments to become inoperative.",
+              "C": "The altimeter and airspeed indicator to become inoperative.",
+              "A": "The vertical speed to momentarily show a climb."
+            },
+            "correct_answer": "A",
+            "explanations": {
+              "A": "Most aircraft equipped with a pitot-static system are provided with an alternate source of static pressure for emergency use. This source is usually vented inside the cabin. The pressure within an unpressurized cockpit is slightly lower than the pressure outside the airplane because of the Venturi effect of the air moving past the outside of the cockpit. When the alternate static source is used, the altimeter and airspeed indicator will read higher than actual, and the vertical speed indicator will momentarily show a climb.",
+              "B": "because the gyroscopic instruments are not affected by changes in the pitot-static system.",
+              "C": "because the altimeter and airspeed indicator will read higher than actual, not become inoperative."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.2.19",
+            "question": "What would be the indication on the VSI during entry into a 500 FPM actual descent from level flight if the static ports were iced over?",
+            "answers": {
+              "B": "The initial indication would be a climb, then descent at a rate in excess of 500 FPM.",
+              "C": "The VSI pointer would remain at zero regardless of the actual rate of descent.",
+              "A": "The indication would be in reverse of the actual rate of descent (500 FPM climb)."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because, with no change in pressure, the indication would be level flight, not a climb.",
+              "B": "because, with no change in pressure, the indication would be level flight, not a climb or descent.",
+              "C": "The vertical speed indicator operates from the static pressure source and indicates change in pressure. Thus, if the static pressure ports became iced over, there would be no change in the static pressure, and there would be no indication of descent or climb."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.2.20",
+            "question": "You check the flight instruments while taxiing and find the vertical speed indicator (VSI) indicates a descent of 100 feet per minute. In this case, you",
+            "answers": {
+              "A": "must return to the parking area and have the instrument corrected by an authorized instrument repairman.",
+              "B": "may take off and use 100 feet descent as the zero indication.",
+              "C": "may not take off until the instrument is corrected by either the pilot or a mechanic."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because the VSI can be used by making allowances in flight.",
+              "B": "The needle of the vertical speed indicator (VSI) should indicate zero when the aircraft is on the ground or is maintaining a constant pressure level in flight. If it does not indicate zero, you must allow for the error when interpreting the indications in flight. Since the VSI is not a required instrument, you may fly when it is out of adjustment.",
+              "C": "because the VSI can be used by making allowances in flight."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.2.21",
+            "question": "What information does a Mach meter present?",
+            "answers": {
+              "A": "The ratio of aircraft true airspeed to the speed of sound.",
+              "B": "The ratio of aircraft indicated airspeed to the speed of sound.",
+              "C": "The ratio of aircraft equivalent airspeed, corrected for installation error, to the speed of sound."
+            },
+            "correct_answer": "A",
+            "explanations": {
+              "A": "The Mach meter indicates the ratio of aircraft true airspeed to the speed of sound at flight altitude. It uses the pressure differential between the impact and static air sources and corrects automatically for temperature and altitude.",
+              "B": "because the Mach meter uses true airspeed, not indicated airspeed.",
+              "C": "because equivalent airspeed is the calibrated airspeed of an aircraft corrected for compressibility flow at a particular altitude. The Mach meter uses true airspeed."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.22",
+            "question": "How should you preflight check the altimeter prior to an IFR flight?",
+            "answers": {
+              "A": "Set the altimeter to 29.92\" Hg. With current temperature and the altimeter indication, determine the true altitude to compare with the field elevation.",
+              "B": "Set the altimeter first with 29.92\" Hg and then the current altimeter setting. The change in altitude should correspond to the change in setting.",
+              "C": "Set the altimeter to the current altimeter setting. The indication should be within 75 feet of the actual elevation for acceptable accuracy."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because setting the altimeter to 29.92 and adjusting for temperature gives density altitude, not true altitude.",
+              "B": "because only indicated altitude, not change in altitude, is checked.",
+              "C": "Set the altimeter to the local altimeter setting before taking off, and verify that the indication is within 75 ft. of the actual elevation. If the difference is greater than 75 ft., you should consult an instrument repair shop."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.23",
+            "question": "How should you preflight check the altimeter prior to an IFR flight?",
+            "answers": {
+              "A": "Set the altimeter to the current temperature. With current temperature and the altimeter indication, determine the calibrated altitude to compare with the field elevation.",
+              "B": "Set the altimeter first with 29.92\" Hg and then the current altimeter setting. The change in altitude should correspond to the change in setting.",
+              "C": "Set the altimeter to the current altimeter setting. The indication should be within 75 feet of the actual elevation for acceptable accuracy."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because an altimeter can be adjusted for nonstandard pressure, not temperature.",
+              "B": "because only indicated altitude, not change in altitude, is checked.",
+              "C": "Set the altimeter to the local altimeter setting before taking off, and verify that the indication is within 75 ft. of the actual elevation. If the difference is greater than 75 ft., you should consult an instrument repair shop."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.24",
+            "question": "Pressure altitude is the altitude read on your altimeter when the instrument is adjusted to indicate height above",
+            "answers": {
+              "B": "the standard datum plane.",
+              "C": "ground level.",
+              "A": "sea level."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because indicated altitude, not pressure altitude, is the altitude read on your altimeter (when set to the correct altimeter setting) to indicate the approximate height above mean sea level.",
+              "B": "Pressure altitude is the altitude read on your altimeter when the instrument is adjusted to indicate height above the standard datum plane, i.e., an altimeter setting of 29.92 in. The standard datum plane is a theoretical level where the weight of the atmosphere is 29.92 in. of Hg.",
+              "C": "because the height above ground (absolute altitude) may be indicated directly on a radar altimeter, not by adjusting a pressure altimeter to 29.92 in."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.25",
+            "question": "The local altimeter setting should be used by all pilots in a particular area, primarily to provide for",
+            "answers": {
+              "A": "the cancellation of altimeter error due to nonstandard temperatures aloft.",
+              "B": "better vertical separation of aircraft.",
+              "C": "more accurate terrain clearance in mountainous areas."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because the altimeter setting does not compensate for nonstandard temperatures aloft. Rather, all altimeters in the area will reflect the same uncompensated amount.",
+              "B": "Because the altimeter in each airplane is equally affected by temperature and pressure variation errors, use of the local altimeter setting in a given area provides for better vertical separation of aircraft.",
+              "C": "because temperatures aloft must also be considered to assure terrain clearance."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.26",
+            "question": "(Refer to figure 84.) Which altimeter depicts 8,000 feet? Af.",
+            "answers": {
+              "A": "1.",
+              "B": "2.",
+              "C": "3."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because, in altimeter 1, both the thin hand and the short hand are on 8, which would indicate something in the vicinity of 88,000 ft.",
+              "B": "When indicating 8,000 ft, an altimeter has the short hand (1,000-ft. intervals) on 8, the long hand (100-ft. intervals) on zero, and the thin hand with flared tip (10,000-ft. intervals) just below 1, as shown in altimeter 2.",
+              "C": "because, while the short hand is pointing to 8 and the long hand is pointing to 0 (i.e., 8,000), the long thin needle with the flared tip (10,000-ft. indicator) is on 0, not on the fourth tick mark from the 0 toward the 1. Altimeter 3 is either broken or indicating 108,000 ft."
+            },
+            "figure_ref": "Refer to figure 84",
+            "screenshot": "figures/1.3.26.png"
+          },
+          {
+            "id": "1.3.27",
+            "question": "(Refer to figure 83.) Which altimeter depicts 12,000 feet? A2.",
+            "answers": {
+              "A": "2.",
+              "B": "3.",
+              "C": "4."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because, in altimeter 2, the thin hand is above 2 and the short hand is on 1, indicating 21,000 ft.",
+              "B": "because, in altimeter 3, the short hand is on 1, the long hand is on 2, and the thin hand is above 1, indicating about 11,200 ft.",
+              "C": "When indicating 12,000 ft., an altimeter has the long hand (100-ft. intervals) on 0, the short hand (1,000-ft. intervals) on 2, and the thin hand with flared tip (10,000-ft. intervals) just over 1, as shown in altimeter 4."
+            },
+            "figure_ref": "Refer to figure 83",
+            "screenshot": "figures/1.3.27.png"
+          },
+          {
+            "id": "1.3.28",
+            "question": "Altimeter setting is the value to which the scale of the pressure altimeter is set so the altimeter indicates",
+            "answers": {
+              "A": "pressure altitude at sea level.",
+              "B": "true altitude at field elevation.",
+              "C": "pressure altitude at field elevation."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because the altimeter setting causes the altimeter to indicate true altitude, not pressure altitude, at field elevation, not sea level.",
+              "B": "The altimeter setting is the value which permits the altimeter to indicate the true altitude at field elevation. Within the vicinity of a particular airport, the altimeter setting provides an accurate means of separating traffic vertically and also provides obstruction clearance. Note that the use of the word \"true\" here is not completely accurate because the altimeter setting does not correct for nonstandard temperature.",
+              "C": "because the altimeter setting causes the altimeter to indicate true altitude, not pressure altitude."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.29",
+            "question": "Altimeter setting is the value to which the scale of the pressure altimeter is set so the altimeter indicates",
+            "answers": {
+              "B": "pressure altitude at field elevation.",
+              "C": "pressure altitude at sea level.",
+              "A": "true altitude at field elevation."
+            },
+            "correct_answer": "A",
+            "explanations": {
+              "A": "The altimeter setting is the value which permits the altimeter to indicate the true altitude at field elevation. Within the vicinity of a particular airport, the altimeter setting provides an accurate means of separating traffic vertically and also provides obstruction clearance. Note that the use of the word \"true\" here is not completely accurate because the altimeter setting does not correct for nonstandard temperature.",
+              "B": "because the altimeter setting causes the altimeter to indicate true altitude, not pressure altitude.",
+              "C": "because the altimeter setting causes the altimeter to indicate true altitude, not pressure altitude, at field elevation, not sea level."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.30",
+            "question": "If you are departing from an airport where you cannot obtain an altimeter setting, you should set your altimeter",
+            "answers": {
+              "A": "0n 29.92\" Hg.",
+              "B": "on the current airport barometric pressure, if known.",
+              "C": "to the airport elevation."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because setting the altimeter to 29.92 would provide only pressure altitude.",
+              "B": "because the altimeter setting is the current barometric pressure adjusted to sea level.",
+              "C": "If you cannot obtain an altimeter setting at an airport, adjust your altimeter so it reads the current airport elevation."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.31",
+            "question": "Which altitude is indicated when the altimeter is set to 29.92\" Hg?",
+            "answers": {
+              "A": "Density.",
+              "B": "Pressure.",
+              "C": "Standard."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because density altitude is pressure altitude corrected for nonstandard temperature.",
+              "B": "Pressure altitude is indicated when the altimeter is set to 29.92.",
+              "C": "because standard altitude is a nonsense concept in this context."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.32",
+            "question": "The pressure altitude at a given location is indicated on the altimeter after the altimeter is set to",
+            "answers": {
+              "B": "29.92\" Hg.",
+              "C": "the current altimeter setting.",
+              "A": "the field elevation."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because you set the altimeter to a barometric pressure, not an elevation.",
+              "B": "Pressure altitude by definitior altitude when the altimeter setting is 29.92. This is true regardless of area or true altitude.",
+              "C": "because the altitude indicated on the altimeter after it is set to the current altimeter setting is the indicated altitude, not pressure altitude."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.33",
+            "question": "How can you determine the pressure altitude on an airport without a tower or FSS?",
+            "answers": {
+              "A": "Set the altimeter to 29.92\" Hg and read the altitude indicated.",
+              "B": "Set the altimeter to the current altimeter setting of a station within 100 miles and correct this indicated altitude with local temperature.",
+              "C": "Use your computer and correct the field elevation for temperature."
+            },
+            "correct_answer": "A",
+            "explanations": {
+              "A": "The pressure altitude is determined by setting your altimeter to 29.92 and reading the altitude indicated. No matter what altitude or location, the altimeter reads pressure altitude when the barometric window is set to 29.92\" Hg.",
+              "B": "because it describes true altitude.",
+              "C": "because correcting field elevation for temperature is a nonsense concept."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.34",
+            "question": "How can you obtain the pressure altitude on flights below 18,000 feet?",
+            "answers": {
+              "A": "Set your altimeter to 29.92\" Hg.",
+              "B": "Use your computer to change the indicated altitude to pressure altitude.",
+              "C": "Contact an FSS and ask for the pressure altitude."
+            },
+            "correct_answer": "A",
+            "explanations": {
+              "A": "Pressure altitude can be determined anywhere by setting the altimeter to 29.92.",
+              "B": "because it is much easier to just change the altimeter to 29.92.",
+              "C": "because pressure altitude is determined by setting your altimeter to 29.92, not by contacting an FSS."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.35",
+            "question": "At an altitude of 6,500 feet MSL, the current altimeter setting is 30.42\" Hg. The pressure altitude would be approximately",
+            "answers": {
+              "B": "6,000 feet.",
+              "C": "6,500 feet.",
+              "A": "7,500 feet."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because a pressure change of 0.5\" Hg results in an altitude change of 500 ft., not 1,000 ft.",
+              "B": "Rotating the altimeter's setting knob to a higher (or lower) barometric setting moves the hands to higher (or lower) indicated altitude at the rate of 1\" Hg to 1,000 ft. of altitude. Given the current altimeter setting of 30.42 and the indicated altitude of 6,500 ft., resetting the window to 29.92 would lower indicated altitude by 500 ft. (30.42 - 29.92 = 0.5\" Hg = 500 ft.). The new indicated altitude would be 6,000 ft. MSL, which would be pressure altitude.",
+              "C": "because pressure altitude is equal to actual altitude only when the current altimeter setting is 29.92."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.36",
+            "question": "How does a pilot normally obtain the current altimeter setting during an IFR flight in Class E airspace below 18,000 feet?",
+            "answers": {
+              "A": "The pilot should contact ARTCC at least every 100 NM and request the altimeter setting.",
+              "B": "FSS's along the route broadcast the weather information at 15 minutes past the hour.",
+              "C": "ATC periodically advises the pilot of the proper altimeter setting."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because ATC provides the altimeter setting without being asked.",
+              "B": "because FSSs do not broadcast the altimeter setting at 15 min. past the hour.",
+              "C": "During IFR flight in Class E airspace below 18,000 ft. MSL, ATC periodically provides altimeter settings. Thus, you will continually hear the altimeter settings given to other pilots as you monitor ATC."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.37",
+            "question": "Which of the following defines the type of altitude used when maintaining FL 2102",
+            "answers": {
+              "B": "Pressure.",
+              "C": "Calibrated.",
+              "A": "Indicated."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because indicated altitude is the altitude shown on the altimeter after it is set to the current altimeter setting. Pressure altitude, not indicated altitude, is used at or above 18,000 ft. MSL.",
+              "B": "Above 18,000 ft. MSL (FL 180), pressure altitude is used to separate traffic. Pressure altitude is the altitude indicated on an altimeter when it is set to 29.92.",
+              "C": "because all altimeters are calibrated."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.38",
+            "question": "What is the procedure for setting the altimeter when assigned an IFR altitude of 18,000 feet or higher on a direct flight off airways?",
+            "answers": {
+              "A": "Set the altimeter to 29.92\" Hg before takeoff.",
+              "B": "Set the altimeter to the current altimeter setting until reaching the assigned altitude, then set to 29.92\" Hg.",
+              "C": "Set the altimeter to the current reported setting for climb-out and 29.92\" Hg upon reaching 18,000 feet."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because indicated altitude (using local altimeter settings) should be used up to FL 180.",
+              "B": "because you should set the altimeter to 29.92 upon reaching FL 180, not upon reaching your assigned altitude.",
+              "C": "When you are at an altitude of 18,000 ft. MSL (FL 180) or higher, the altimeter should be set to 29.92, which is pressure altitude. It does not matter whether you are on an airway."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.39",
+            "question": "While you are flying at FL 250, you hear ATC give an altimeter setting of 28.92\" Hg in your area. At what pressure altitude are you flying?",
+            "answers": {
+              "A": "24,000 feet.",
+              "B": "25,000 feet.",
+              "C": "26,000 feet."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because FL 250 by definition means a pressure altitude of 25,000 ft., not 24,000 ft.",
+              "B": "The pressure altitude is 25,000 ft. in your area because at FL 250 your altimeter should be set at 29.92. A flight level (FL) by definition means a pressure altitude.",
+              "C": "because FL 250 by definition means a pressure altitude of 25,000 ft., not 26,000 ft."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.40",
+            "question": "Enroute at FL 290, the altimeter is set correctly, but not reset to the local altimeter setting of 30.57\" Hg during descent. If the field elevation is 650 feet and the altimeter is functioning properly, what is the approximate indication upon landing?",
+            "answers": {
+              "A": "715 feet.",
+              "B": "1,300 feet.",
+              "C": "Sea level."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because 715 ft. is obtained by adding 65 ft. rather than subtracting 650 ft.",
+              "B": "because 1,300 ft. is obtained by adding 650 ft. rather than subtracting 650 ft.",
+              "C": "One in. of pressure equals approximately 1,000 ft. of altitude. If an altimeter should be set to 30.57 but is set to 29.92, it is set .65\" Hg too low and thus will indicate 650 ft. (1,000 ft. x .65) less than actual altitude. Thus, if the airplane lands at an airport with a field elevation of 650 ft., the altimeter will indicate sea level, i.e., 650 ft. elevation minus the 650 ft. altimeter setting error."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.41",
+            "question": "Enroute at FL 290, your altimeter is set correctly, but you fail to reset it to the local altimeter setting of 30.26\" Hg during descent. If the field elevation is 134 feet and your altimeter is functioning properly, what will it indicate after landing?",
+            "answers": {
+              "A": "100 feet MSL.",
+              "B": "474 feet MSL.",
+              "C": "206 feet below MSL."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because 100 ft. is obtained by subtracting 34 ft. rather than subtracting 340 ft.",
+              "B": "because 474 ft. is obtained by adding 340 ft. rather than subtracting 340 ft.",
+              "C": "One in. of pressure equals approximately 1,000 ft. of altitude. If an altimeter should be set to 30.26 but is set to 29.92, it is set 34\" Hg too low and thus will indicate 340 ft. (1,000 ft. x .34) less than actual altitude. Thus, if the airplane lands at an airport with a field elevation of 134 ft., the altimeter will indicate 206 ft. below sea level (134 ft. airport elevation - 340 ft. altimeter setting error)."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.42",
+            "question": "Under which condition will pressure altitude be equal to true altitude?",
+            "answers": {
+              "A": "When the atmospheric pressure is 29.92\" Hg.",
+              "B": "When standard atmospheric conditions exist.",
+              "C": "When indicated altitude is equal to the pressure altitude."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because, to get true altitude from an altimeter, both temperature and pressure must be standard.",
+              "B": "Pressure altitude will equal true altitude when standard atmospheric conditions exist at the current altitude, ie, 29.92\" Hg and 15°C at sea level.",
+              "C": "because nonstandard temperatures will make indicated altitude deviate from true altitude."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.43",
+            "question": "Under what condition is pressure altitude and density altitude the same value?",
+            "answers": {
+              "A": "At standard temperature.",
+              "B": "When the altimeter setting is 29.92\" Hg.",
+              "C": "When indicated, and pressure altitudes are the same value on the altimeter."
+            },
+            "correct_answer": "A",
+            "explanations": {
+              "A": "Density altitude, by definition, is pressure altitude adjusted for nonstandard temperature. Accordingly, pressure altitude will equal density altitude at standard temperature.",
+              "B": "because pressure altitude has not been adjusted for nonstandard temperature.",
+              "C": "because neither indicated nor pressure altitude is adjusted for nonstandard temperature."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.44",
+            "question": "Under what condition will true altitude be lower than indicated altitude with an altimeter setting of 29.92\" Hg?",
+            "answers": {
+              "A": "In warmer than standard air temperature.",
+              "B": "In colder than standard air temperature.",
+              "C": "When density altitude is higher than indicated altitude."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because, when you are in warmer-than-standard air, the true altitude is above pressure altitude.",
+              "B": "When temperature lowers en route, you are lower than your altimeter indicates. Similarly, when you are in colder-than-standard air temperatures, true altitude is lower than pressure altitude.",
+              "C": "because, assuming an altimeter setting of 29.92, if density altitude is higher than indicated altitude, the air is thinner and thus warmer. When you are in warmer-than-standard air, the true altitude is above indicated altitude."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.45",
+            "question": "When an altimeter is changed from 30.11\" Hg to 29.96\" Hg, in which direction will the indicated altitude change and by what value?",
+            "answers": {
+              "B": "Altimeter will indicate 150 feet lower.",
+              "C": "Altimeter will indicate 150 feet higher.",
+              "A": "Altimeter will indicate 15 feet lower."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because .15\" Hg is equal to 150 ft., not 15 ft.",
+              "B": "Altimeter settings vary approximately 1\" Hg for each 1,000 ft. of altitude. When the altimeter setting is changed from 30.11 to 29.96, it is lower by .15\" Hg. Thus, the altimeter will indicate 150 ft. lower (1,000 ft. x .15). Remember that the indicated altitude and altimeter setting vary directly; i-e., when the altimeter setting is adjusted up, indicated altitude increases and vice versa.",
+              "C": "because, when the altimeter setting is lowered, indicated altitude decreases, not increases."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.3.46",
+            "question": "Which condition would cause the altimeter to indicate a lower altitude than actually flown (true altitude)?",
+            "answers": {
+              "A": "Air temperature lower than standard.",
+              "B": "Atmospheric pressure lower than standard.",
+              "C": "Air temperature warmer than standard."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because in colder-than-standard air, pressure levels drop. Thus, the altimeter reads higher, not lower, than true altitude.",
+              "B": "because using the correct altimeter setting adjusts for nonstandard pressure.",
+              "C": "When temperatures are warmer than standard, the pressure levels are raised. That is, the altimeter will indicate an altitude lower than that at which the aircraft is actually fiying."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.4.47",
+            "question": "Which practical test should be made on the electric gyro instruments prior to starting an engine?",
+            "answers": {
+              "A": "Check that the electrical connections are secure on the back of the instruments.",
+              "B": "Check that the attitude of the miniature aircraft is wings level before turning on electrical power.",
+              "C": "Turn on the electrical power and listen for any unusual or irregular mechanical noise."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because pilots should not be handling or touching electrical connections behind the instrument panel.",
+              "B": "because, due to the construction of the turn coordinator, the miniature aircraft will be wings level before turning on the electrical power. Thus, this indication would not be",
+              "C": "Electric gyro instruments can be checked for irregular noises by listening to them after the battery is turned on but before the engine is started. You should notice any bearing clatters, clicks, or other unusual noises. Additionally, you can look at the instruments to see if they are in their expected Positions. There are additional tests to pursue after the engine is started."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.4.48",
+            "question": "One characteristic that a properly functioning gyro depends upon for operation is the",
+            "answers": {
+              "A": "ability to resist precession 90° to any applied force.",
+              "B": "resistance to deflection of the spinning wheel or disc.",
+              "C": "deflecting force developed from the angular velocity of the spinning wheel."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because precession is the name for the reaction to deflection. The gyro uses precession, not resists it.",
+              "B": "Newton's second law of motion states that the deflection of a moving body is proportional to the deflective force applied and is inversely proportional to its weight and speed. For a gyro, the resistance to deflection is proportional to the deflective force. This property is used by the attitude indicator.",
+              "C": "because the deflective force is applied to, not developed by, the gyro."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.5.49",
+            "question": "What pre-takeoff check should be made of a vacuum-driven heading indicator in preparation for an IFR flight?",
+            "answers": {
+              "A": "After 5 minutes, set the indicator to the magnetic heading of the aircraft and check for proper alignment after taxi turns.",
+              "B": "After 5 minutes, check that the heading indicator card aligns itself with the magnetic heading of the aircraft.",
+              "C": "Determine that the heading indicator does not precess more than 2° in 5 minutes of ground operation."
+            },
+            "correct_answer": "A",
+            "explanations": {
+              "A": "Vacuum-driven gyros take several minutes to get up to speed. After about 5 min., set the heading indicator to the correct magnetic heading. After taxiing to the runup area, verify that the heading indicator still indicates the correct magnetic heading.",
+              "B": "because non-slaved heading indicators must be manually set to the correct magnetic heading.",
+              "C": "because a precession error of no more than 3° in 15 min., not 2° in 5 min., is acceptable for normal operations."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.5.50",
+            "question": "Clockwise Slave and Free Counterclockwise Adjustment Gyro Pushbutton Adjustment 51. (Refer to figure 143.) The heading on a remote indicating compass is 120 | and the magnetic compass indicates 110 | . What action is required to correctly align the heading indicator with the magnetic compass?",
+            "answers": {
+              "A": "Select the free gyro mode and depress the counter-clockwise heading drive button.",
+              "B": "Select the slaved gyro mode and depress the clockwise heading drive button.",
+              "C": "Select the free gyro mode and depress the clockwise heading drive button."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because using the counter-clockwise drive button would increase the indicated headings, e.g., from 120° to 130° indicated.",
+              "B": "because the RIC must be in the free gyro mode to use the heading drive button.",
+              "C": "Some remote indicating compasses (RIC) have a separate slaving control and compensator unit with a deviation meter. The instrument shows any difference between the displayed heading and the magnetic heading. It also provides the controls shown in Fig. 143 to correct any errors. To correct"
+            },
+            "figure_ref": "Refer to figure 143",
+            "screenshot": "figures/1.5.50.png"
+          },
+          {
+            "id": "1.5.51",
+            "question": "Clockwise Slave and Free Counterclockwise Adjustment Gyro Pushbutton Adjustment 52. (Refer to figure 143.) When the system is in the free gyro mode, depressing the clockwise manual heading drive button will rotate the remote indicating compass card to the",
+            "answers": {
+              "A": "right to eliminate left compass card error.",
+              "B": "right to eliminate right compass card error.",
+              "C": "left to eliminate left compass card error."
+            },
+            "correct_answer": "A",
+            "explanations": {
+              "A": "A left compass card error means that the card has rotated too far to the left; i.e., it reads too high a heading. The clockwise adjustment rotates the indicating compass Card to the right to eliminate left compass card error. For example, this would change a 120° heading to 110°.",
+              "B": "because you adjust to the right for left, not right, error.",
+              "C": "because the clockwise manual heading drive button rotates the compass card to the right, not left."
+            },
+            "figure_ref": "Refer to figure 143",
+            "screenshot": "figures/1.5.51.png"
+          },
+          {
+            "id": "1.5.52",
+            "question": "Clockwise Slave and Free Counterclockwise Adjustment Gyro Pushbutton Adjustment 53. (Refer to figure 143.) The heading on a remote indicating compass is 5° to the left of that desired. What action is required to move the desired heading under the heading reference?",
+            "answers": {
+              "A": "Select the free gyro mode and depress the clockwise heading drive button.",
+              "B": "Select the slaved gyro mode and depress the clockwise heading drive button.",
+              "C": "Select the free gyro mode and depress the counter-clockwise heading drive button."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because the clockwise heading drive button would correct a left, not a right, card error.",
+              "B": "because the RIC must be in the free gyro mode to use the heading drive button and the counterclockwise heading drive button should be depressed.",
+              "C": "If the heading on the compass is left of that desired, the compass has rotated too far to the right, whichis a right compass error. Thus, the slaving control must be placed in the free mode, and the counterclockwise drive button must be depressed. be"
+            },
+            "figure_ref": "Refer to figure 143",
+            "screenshot": "figures/1.5.52.png"
+          },
+          {
+            "id": "1.6.53",
+            "question": "What pre-takeoff check should be made of the attitude indicator in preparation for an IFR flight?",
+            "answers": {
+              "A": "The horizon bar does not vibrate during warmup.",
+              "B": "The miniature airplane should erect and become stable within 5 minutes.",
+              "C": "The horizon bar should erect and become stable within 5 minutes."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because the horizon bar usually vibrates during warm-up as the gyro gets up to speed.",
+              "B": "because the miniature airplane can be adjusted manually but otherwise remains stationary. It is the horizon bar that moves within the instrument face.",
+              "C": "The pretakeoff check for attitude indicators is that, within the 5-min. warm-up, the horizon bar should erect to the horizontal position and remain at the correct position. It should remain stable during straight taxiing and taxi turns."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.6.54",
+            "question": "Which condition during taxi is an indication that an attitude indicator is unreliable?",
+            "answers": {
+              "A": "The horizon bar tilts more than 5° while making taxi turns.",
+              "B": "The horizon bar vibrates during warmup.",
+              "C": "The horizon bar does not align itself with the miniature airplane after warmup."
+            },
+            "correct_answer": "A",
+            "explanations": {
+              "A": "The horizon bar in an attitude indicator should not tilt more than 5° during a taxi turn. If it does, itis unreliable and should not be used for IFR flight.",
+              "B": "because the horizon bar will vibrate as the gyros get up to speed during warm-up.",
+              "C": "because the horizon bar aligns itself with the center of the dial, indicating level flight. Then the miniature airplane must be adjusted to align with the horizon bar from the pilot's perspective."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.6.55",
+            "question": "During coordinated turns, which force moves the pendulous vanes of a vacuum-driven attitude indicator resulting in precession of the gyro toward the inside of the turn?",
+            "answers": {
+              "B": "Deceleration.",
+              "C": "Centrifugal.",
+              "A": "Acceleration."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because acceleration is a force that induces climb/descent errors in the attitude indicator.",
+              "B": "because deceleration is a force that induces climb/descent errors in the attitude indicator.",
+              "C": "The attitude indicator normally erects itself by discharging air equally through four exhaust ports, each of which is partially covered by a pendulous vane. During coordinated (and skidding) turns, centrifugal force moves the vanes from their vertical position, precessing the gyro toward the inside of the turn."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.6.56",
+            "question": "If a 180° steep turn is made to the right and the aircraft is rolled out to ‘straight-and-level flight by visual references, the attitude indicator",
+            "answers": {
+              "A": "should immediately show straight-and-level flight.",
+              "B": "may show a slight climb and turn.",
+              "C": "show a slight skid and climb to the right."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because, when the airplane is rolled out of a coordinated 180° steep turn to straight-and-level flight, the attitude indicator will indicate a turn to the opposite direction with",
+              "B": "In 180° coordinated steep turns, when the airplane is rolled out to straight-and-level flight, the attitude indicator will indicate a turn to the opposite direction along with a slight climb.",
+              "C": "because evidence of a skid error cannot be read from the attitude indicator, and the turn error would be to the left, not to the right."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.6.57",
+            "question": "During normal coordinated turns, what error due to precession should you observe when rolling out to straight-and-level flight from a 180° steep turn to the right?",
+            "answers": {
+              "A": "Astraight-and-level coordinated flight indication.",
+              "B": "The miniature aircraft would show a slight turn indication to the left.",
+              "C": "The miniature aircraft would show a slight descent and wings-level attitude."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because the attitude indicator will show a slight climb to the left, not straight-and-level flight, and it does not indicate coordinated flight.",
+              "B": "In 180° coordinated steep turns, when the airplane is rolled out to straight-and-level flight, the attitude indicator will indicate a turn to the opposite direction along with a slight climb. Thus, the indicated turn would be to the left if the steep turn were made to the right.",
+              "C": "because it will indicate a slight climb, not"
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.6.58",
+            "question": "During normal operation of a vacuum-driven attitude indicator, what attitude indication should you see when rolling out from a 180° skidding turn to straight-and-level coordinated flight?",
+            "answers": {
+              "A": "Astraight-and-level coordinated flight indication.",
+              "B": "Anose-high indication relative to level flight.",
+              "C": "The miniature aircraft shows a turn in the direction opposite the skid."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because the attitude indicator will show a slight turn in the opposite direction, not straight-and-level flight, and it does not indicate coordinated flight.",
+              "B": "because a nose-high indication will result only when the aircraft is rolling out of a coordinated turn.",
+              "C": "Similarly to coordinated turns, the attitude indicator will show a bank in the opposite direction when the aircraft is rolled out of a skidding turn. However, there will be no nose-up indication."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.6.59",
+            "question": "Errors in both pitch and bank indication on an attitude indicator are usually at a maximum as the aircraft rolls out of a",
+            "answers": {
+              "A": "180° turn.",
+              "B": "270° turn.",
+              "C": "360° turn."
+            },
+            "correct_answer": "A",
+            "explanations": {
+              "A": "Errors for both pitch and bank indication on an attitude indicator are greatest when rolling out of a 180° turn. This precession error, normally between 3° and 5°, is self-correcting by the part of the heading indicator called the erecting mechanism.",
+              "B": "because pitch and bank errors are usually the greatest after 180°, not 270°, of turn.",
+              "C": "because pitch and bank errors are usually the greatest after 180°, not 360°, of turn."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.6.60",
+            "question": "When an aircraft is decelerated, some attitude indicators will precess and incorrectly indicate a",
+            "answers": {
+              "B": "climb.",
+              "C": "descent.",
+              "A": "left turn."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because acceleration and deceleration result in erroneous pitch readings, not turning errors.",
+              "B": "because acceleration, not deceleration, may result in precession-related errors indicating a climb.",
+              "C": "Deceleration affects some attitude indicators through precession to incorrectly indicate a descent."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.6.61",
+            "question": "When an aircraft is accelerated, some attitude indicators will precess and incorrectly indicate a",
+            "answers": {
+              "A": "climb.",
+              "B": "descent.",
+              "C": "right turn."
+            },
+            "correct_answer": "A",
+            "explanations": {
+              "A": "Acceleration affects some attitude indicators through precession to incorrectly indicate a climb.",
+              "B": "because deceleration, not acceleration, may result in precession-related errors indicating a descent.",
+              "C": "because acceleration and deceleration result in erroneous pitch readings, not turning errors."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.7.62",
+            "question": "Prior to starting an engine, you should check the turn-and-slip indicator to determine if the",
+            "answers": {
+              "A": "needle indication properly corresponds to the angle of the wings or rotors with the horizon.",
+              "B": "needle is approximately centered and the tube is full of fluid.",
+              "C": "ball will move freely from one end of the tube to the other when the aircraft is rocked."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because the needle corresponds to rate and direction of turn, not wing or rotor angle.",
+              "B": "Prior to starting an engine, you should determine that the needle of the turn-and-slip indicator is approximately centered and that the tube is full of fluid with the ball also approximately centered if the airplane is ona level surface.",
+              "C": "because rocking the aircraft is not necessary. Freedom of movement of the ball is checked during taxi."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.7.63",
+            "question": "What indications should you observe on the turn-and-slip indicator during taxi?",
+            "answers": {
+              "A": "The ball moves freely opposite the turn, and the needle deflects in the direction of the turn.",
+              "B": "The needle deflects in the direction of the turn, but the ball remains centered.",
+              "C": "The ball deflects opposite the turn, but the needle remains centered."
+            },
+            "correct_answer": "A",
+            "explanations": {
+              "A": "During taxi, the turn-and-slip indicator ball should move freely opposite the direction of any turn since centrifugal force forces the ball to the outside. Also, the rate of turn indicator should indicate a turn in the proper direction.",
+              "B": "because the ball will deflect opposite to the direction of the turn.",
+              "C": "because the needle deflects in the direction of the turn."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.8.64",
+            "question": "What indications are displayed by the miniature aircraft of a turn coordinator?",
+            "answers": {
+              "B": "Direct indication of bank angle and pitch attitude.",
+              "C": "Indirect indication of bank angle and pitch attitude.",
+              "A": "Rate of roll and rate of turn."
+            },
+            "correct_answer": "A",
+            "explanations": {
+              "A": "The turn coordinator indicates rate of roll and rate of turn. When the bank is constant, the rate of turn is indicated. When the bank is changing, the rate of roll is also indicated.",
+              "B": "because the turn coordinator only indirectly indicates bank angle and has no relationship to pitch attitude.",
+              "C": "because the turn coordinator has no relationship to pitch attitude."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.8.65",
+            "question": "What does the miniature aircraft of the turn coordinator directly display?",
+            "answers": {
+              "B": "Angle of bank and rate of turn.",
+              "C": "Angle of bank.",
+              "A": "Rate of roll and rate of turn."
+            },
+            "correct_answer": "A",
+            "explanations": {
+              "A": "The turn coordinator indicates rate of roll and rate of turn. When the bank is constant, the rate of turn is indicated. When the bank is changing, the rate of roll is also indicated.",
+              "B": "because the angle of bank is not directly indicated by the turn coordinator.",
+              "C": "because the angle of bank is not directly indicated by the turn coordinator."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.8.66",
+            "question": "What indication is presented by the miniature aircraft of the turn coordinator?",
+            "answers": {
+              "B": "Direct indication of the bank attitude and the quality of the turn.",
+              "C": "Quality of the turn.",
+              "A": "Indirect indication of the bank attitude."
+            },
+            "correct_answer": "A",
+            "explanations": {
+              "A": "The miniature aircraft of the turn coordinator indicates the rate of roll when bank is changing. When the rotation around the longitudinal axis is zero, the instrument indicates the rate of turn. Thus, it provides only an indirect indication of the angle of bank.",
+              "B": "because the turn coordinator does NOT provide a direct indication of bank.",
+              "C": "because the ball in the turn coordinator, not the miniature aircraft, provides information on the quality of the turn."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.8.67",
+            "question": "The displacement of a turn coordinator during a coordinated turn will",
+            "answers": {
+              "A": "indicate the angle of bank.",
+              "B": "remain constant for a given bank regardless of airspeed.",
+              "C": "increase as angle of bank increases."
+            },
+            "correct_answer": "C",
+            "explanations": {
+              "A": "because the angle of bank is only indirectly indicated.",
+              "B": "because, when the rate of roll is zero, the turn coordinator provides information concerning the rate of turn, which in turn changes as airspeed changes given a constant bank.",
+              "C": "The displacement of a turn coordinator increases as angle of bank (in coordinated flight) increases because the turn coordinator shows rate of turn, which increases as angle of bank increases."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          },
+          {
+            "id": "1.8.68",
+            "question": "What indication should be observed on a turn coordinator during a left turn while taxiing?",
+            "answers": {
+              "B": "The miniature aircraft will show a turn to the left and the ball moves to the right.",
+              "C": "Both the miniature aircraft and the ball will remain centered.",
+              "A": "The miniature aircraft will show a turn to the left and the ball remains centered."
+            },
+            "correct_answer": "B",
+            "explanations": {
+              "A": "because the ball moves to the outside of the turn due to centrifugal force.",
+              "B": "On a taxiing turn to the left, the turn coordinator shows a turn to the left, and the ball moves to the right. The centrifugal force of the turn, which is not offset by bank when taxiing, forces the ball opposite to the turn.",
+              "C": "because the miniature aircraft reacts to yaw and shows a turn to the left, and the ball reacts to centrifugal force by moving right."
+            },
+            "figure_ref": null,
+            "screenshot": null
+          }
+        ]
+      }
+    ]
   }
 ]
