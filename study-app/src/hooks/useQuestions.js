@@ -18,8 +18,7 @@ export function useQuestions(chapterId) {
           question_id,
           question,
           correct_answer,
-          figure_id,
-          figures (figure_ref, image_url),
+          question_figures (figures (figure_ref, image_url)),
           answers (letter, answer),
           explanations (letter, explanation)
         `)

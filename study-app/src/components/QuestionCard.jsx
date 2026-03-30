@@ -40,10 +40,14 @@ export default function QuestionCard({ question, index, total, onAnswer }) {
         <span className="question-id">{question.question_id}</span>
       </div>
 
-      {question.figures?.image_url && (
-        <div className="question-figure">
-          <img src={question.figures.image_url} alt={question.figures.figure_ref} />
-          <span className="figure-ref">{question.figures.figure_ref}</span>
+      {question.question_figures?.length > 0 && (
+        <div className="question-figures">
+          {question.question_figures.map((qf, i) => (
+            <div className="question-figure" key={i}>
+              <img src={qf.figures.image_url} alt={qf.figures.figure_ref} />
+              <span className="figure-ref">{qf.figures.figure_ref}</span>
+            </div>
+          ))}
         </div>
       )}
 

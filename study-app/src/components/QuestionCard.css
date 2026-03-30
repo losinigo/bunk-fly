@@ -23,8 +23,14 @@
   font-size: 12px;
 }
 
-.question-figure {
+.question-figures {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
   margin-bottom: 16px;
+}
+
+.question-figure {
   text-align: center;
 }
 
