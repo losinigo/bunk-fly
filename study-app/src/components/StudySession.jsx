@@ -5,13 +5,14 @@ import './StudySession.css'
 
 export default function StudySession({ questions, chapter, onBack }) {
   const [currentIndex, setCurrentIndex] = useState(0)
-  const [score, setScore] = useState(0)
-  const [answered, setAnswered] = useState(0)
+  const [answers, setAnswers] = useState({})
   const [finished, setFinished] = useState(false)
 
+  const score = Object.values(answers).filter(a => a === 'correct').length
+  const answered = Object.keys(answers).length
+
   function handleAnswer(isCorrect) {
-    if (isCorrect) setScore(s => s + 1)
-    setAnswered(a => a + 1)
+    setAnswers(prev => ({ ...prev, [currentIndex]: isCorrect ? 'correct' : 'incorrect' }))
   }
 
   function handleNext() {
@@ -24,8 +25,7 @@ export default function StudySession({ questions, chapter, onBack }) {
 
   function handleRestart() {
     setCurrentIndex(0)
-    setScore(0)
-    setAnswered(0)
+    setAnswers({})
     setFinished(false)
   }
 
@@ -42,7 +42,7 @@ export default function StudySession({ questions, chapter, onBack }) {
   }
 
   const current = questions[currentIndex]
-  const hasAnswered = answered > currentIndex
+  const hasAnswered = currentIndex in answers
 
   return (
     <div className="study-session">
@@ -61,11 +61,13 @@ export default function StudySession({ questions, chapter, onBack }) {
       </div>
 
       <QuestionCard
-        key={current.id}
+        key={`${current.id}-${currentIndex}`}
         question={current}
         index={currentIndex}
         total={questions.length}
+        answers={answers}
         onAnswer={handleAnswer}
+        onNavigate={setCurrentIndex}
       />
 
       {hasAnswered && (
