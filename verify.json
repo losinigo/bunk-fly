@@ -1,0 +1,1542 @@
+[
+  {
+    "id": "11.1.1",
+    "question": "FLIGHT LOG (Refer to figures 21, 22, and 24.) (Refer to FD excerpt below, and use the wind entry closest to the flight planned altitude.) Determine the time to be entered in block 10 of the flight from GJT to DRO. Route of flight = _. Figure 21 Flight log & MAG VAR .. .. Figure 22 (Set teri. SR ee Se NN Figure 24 FT 12,000 18,000 FNM 2408-05 2208-21",
+    "answers": {
+      "A": "1 hour 08 minutes.",
+      "B": "1 hour 03 minutes.",
+      "C": "58 minutes."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "Complete the flight log for GUT to DRO\n(Fig. 22). Note that the wind has been interpolated for you from\n\neS PRS ee a eae Ty\n\n—\n\nbile"
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.1.2",
+    "question": "(Refer to figures 21, 21A, 22, 22A, 23, 24, 25, and 26.) After departing GJT and arriving at Durango Co., La Plata Co. Airport, you are unable to land because of weather. How long can you hold over DRO before departing for return flight to the alternate, Grand Junction Co., Walker Field Airport? Total useable fuel on board, 68 gallons. Average fuel consumption 15 GPH. Wind and velocity at 16,000, 2308-16\".",
+    "answers": {
+      "A": "1 hour 33 minutes.",
+      "B": "1 hour 37 minutes.",
+      "C": "1 hour 42 minutes."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "To solve this problem, you must calculate\ntimes en route and fuel consumption for both trips, GJT-DRO and\nDRO-G\\JT, add 45 min. reserve, and subtract the total fuel used\nfrom 68 gal.",
+      "B": "because to be able to hold for 1 hr. 37\n\nmin. would require an average fuel consumption of approximately\n4148 GPH not 15 GPH.",
+      "C": "because to be able to hold for 1 hr. 42\n\npa a SO , ES ea. a a"
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.1.3",
+    "question": "(Refer to figures 21, 22, and 24.) What fuel would be consumed on the flight between Grand Junction Co. and Durango, Co. if the average fuel consumption is 15 GPH?",
+    "answers": {
+      "A": "17 gallons.",
+      "B": "20 gallons.",
+      "C": "25 gallons."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "Complete the flight log by computing the\n\nfuel con sumption at 15 GPH.\nTi Fuel (gal.>\n\nHERRM INT. 6.0\nMANGA INT. 615\nApproach and landing 4:6\n\nTotal T?4\n\nG = Given",
+      "B": "because 20 gal. of fuel would require an\naverage fuel consumption of 17.5 GPH, not 15 GPH.",
+      "C": "because 25 gal. of fuel would require an\naverage fuel consumption of approximately 22 GPH, not 15 GPH."
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.1.4",
+    "question": "(Refer to figure 24.) Proceeding southbound on V'187, (vicinity of Cortez VOR) contact is lost with Denver Center. You should attempt to contact Denver Center on:",
+    "answers": {
+      "A": "133.425 MHz.",
+      "B": "122.1 MHz and receive on 108.4 MHz.",
+      "C": "122.35 MHz."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "To the northwest of the Cortez VOR and\nsouth of Dove Creek VORTAC is a box with serrated edges. This\nbox shows the frequency for Denver Center in the Cortez VOR\narea as 133.425.",
+      "B": "because 122.1 is not shown on the chart,\nand 108.4 is the frequency for the Cortez VOR, not Denver\nCenter. Additionally, 108.4 is underlined, indicating that the VOR\n\nhas no voice capability (i.e., that there would be nothing to\nreceive on 108.4).",
+      "C": "because 122.35 is the frequency you\n\nwould use to contact Denver Flight Service when in the vicinity of\nthe Durango VOR, not Denver Center."
+    },
+    "figure_ref": "Refer to figure 24",
+    "screenshot": "figures/11.1.4.png"
+  },
+  {
+    "id": "11.1.5",
+    "question": "FLIGHT LOG (Refer to figures 22 and 24.) For planning purposes, what would be the highest MEA on V187 between Grand Junction, Walker Airport, and Durango, La Plata Co. Airport?",
+    "answers": {
+      "A": "12,000 feet.",
+      "B": "15,000 feet.",
+      "C": "16,000 feet."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because 12,000 ft. MSL is the MEA\nbetween JNC and HERRM INT., but is not the highest.",
+      "B": "The highest MEA along the route is 15,000\nft. MSL along V187 between HERRM INT. and MANCA INT.",
+      "C": "because 16,000 ft. MSL is not an MEA\nalong any part of this route."
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.1.6",
+    "question": "(Refer to figure 24.) At what point should a VOR changeover be made from JNC VOR to MANCA intersection southbound on V187?",
+    "answers": {
+      "A": "36 NM south of JNC.",
+      "B": "52 NM south of JNC.",
+      "C": "74 NM south of JNC."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because the COP is depicted as 52 NM,\nnot 36 NM, south of JNC.",
+      "B": "The VOR changeover point is depicted on\n187, south of HERRM INT and depicts the mileage between the\n\nVORTAC stations. It shows the COP as being 52 NM south of\nJNC.",
+      "C": "because the COP is depicted as 52 NM,\nnot 74 NM, south of JNC."
+    },
+    "figure_ref": "Refer to figure 24",
+    "screenshot": "figures/11.1.6.png"
+  },
+  {
+    "id": "11.1.7",
+    "question": "(Refer to figure 24.) What is the MOCA between JNC and MANCA intersection on V187?",
+    "answers": {
+      "A": "10,900 feet MSL.",
+      "B": "12,000 feet MSL.",
+      "C": "13,700 feet MSL."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because 10,900 ft. MSL is the MEA, not\nMOCA, between MANCA and RIZAL intersections.",
+      "B": "because 12,000 ft. MSL is the MEA, not\nMOCA, between JNC and HERRM INT.",
+      "C": "The MOCA (minimum obstruction\n\nclearance altitude) appears with an asterisk under the MEA on\nV 187. Itis 13,700 ft. MSL."
+    },
+    "figure_ref": "Refer to figure 24",
+    "screenshot": "figures/11.1.7.png"
+  },
+  {
+    "id": "11.2.8",
+    "question": "(Refer to figure 27.) What aircraft equipment code should be entered in block 3 of the flight plan? AT. B.U. CA.",
+    "answers": {},
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because T indicates only a transponder\nwith no encoding capability and no DME.",
+      "B": "because U indicates a transponder with\nencoding capability but no DME.\n\nCA",
+      "C": "In block 3 of the flight plan, you enter the\ndesignation of the aircraft followed by a slash (/ ) and a letter for\nthe equipment code. The bottom portion of Fig. 27 indicates you\nhave a transponder with Mode C and DME, which requires code"
+    },
+    "figure_ref": "Refer to figure 27",
+    "screenshot": "figures/11.2.8.png"
+  },
+  {
+    "id": "11.2.9",
+    "question": "(Refer to figures 27 and 28.) What CAS must be used to maintain the filed TAS at the flight planned altitude if the outside air temperature is -5°C?",
+    "answers": {
+      "A": "134 KCAS.",
+      "B": "139 KCAS.",
+      "C": "142 KCAS."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because maintaining 134 KCAS would\nresult in a TAS of 150 kt, not 155 kt.",
+      "B": "In the center of the computer side of your\nflight computer, on the right side, put the air temperature of -5°C\n‘over the altitude of 8,000 ft. (given in block 7 of the flight plan). On\nthe outer scale, find TAS of 155 (from block 4), which is over\ncalibrated airspeed (CAS) on the inner scale of 139 KCAS.",
+      "C": "because maintaining 142 KCAS would\nresult ina TAS of 158 kt., not 155 kt."
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.2.10",
+    "question": "(Refer to figures 27, 28, 29, 30, and 31.) (Refer to the FD excerpt below, and use the wind entry closest to the flight planned altitude.) Determine the time to be entered in block 10 of the flight plan. Route of flight Figures 27, 28, 29, 30, & 31 Flight log & MAG VAR Figure 28 GNATS ONE DEPARTURE ix and ExcerptfromAFD ... Figure 30 FT 3000 6000 9000 OTH 0507 2006+03 2215-05",
+    "answers": {},
+    "correct_answer": null,
+    "explanations": {},
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.2.11",
+    "question": "(Refer to figure 30.) During the arc portion of the instrument departure procedure (GNATS1.MOURN), a left crosswind is encountered. Where should the bearing pointer of an RMI be referenced relative to the wing-tip to compensate for wind drift and maintain the 15 DME arc?",
+    "answers": {
+      "A": "Behind the right wing-tip reference point.",
+      "B": "On the right wing-tip reference point.",
+      "C": "Behind the left wing-tip reference point."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "Normally when flying a DME arc, the RMI\nneedle will point exactly to 090° or 270° in wind-free conditions.\nGiven a crosswind from the left, you will have to make a\ncorrection to the left, which will mean that the needle is behind the\nright wing while on an arc to the right.",
+      "B": "because it will be on the right wingtip only\nwhen there is no wind.",
+      "C": "because the VOR is to the right and the\nRMI points directly to the VOR."
+    },
+    "figure_ref": "Refer to figure 30",
+    "screenshot": "figures/11.2.11.png"
+  },
+  {
+    "id": "11.2.12",
+    "question": "(Refer to figure 30.) Using an average groundspeed of 120 knots, what minimum rate of climb must be maintained to meet the required climb rate (feet per NM) to 4,100 feet as specified on the instrument departure procedure?",
+    "answers": {
+      "A": "400 feet per minute.",
+      "B": "500 feet per minute.",
+      "C": "800 feet per minute."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because a 400 fpm rate of climb at an\naverage groundspeed of 120 kt. would result in a climb rate of\n200 ft. per NM, not 400 ft. per NM.",
+      "B": "because a 500 fpm rate of climb at an\naverage groundspeed of 120 kt. would result in a climb rate of\n250 ft. per NM, not 400 ft. per NM.",
+      "C": "The instrument departure procedure in Fig.\n30 has a note which indicates a minimum climb of 400 ft. per NM\nto 4,100 ft. To convert this to a rate of climb (fpm), use Legend\n16. Find the 400 ft. per NM column on the left margin and move\n\nright to the 120-kt. groundspeed column to determine a rate of\nclimb of 800 fpm.\n\nbile"
+    },
+    "figure_ref": "Refer to figure 30",
+    "screenshot": "figures/11.2.12.png"
+  },
+  {
+    "id": "11.2.13",
+    "question": "(Refer to figure 30.) Which restriction to the use of the OED VORTAC would be applicable to the (GNATS1.MOURN) departure?",
+    "answers": {
+      "A": "R-333 beyond 30 NM below 6,500 feet.",
+      "B": "R-210 beyond 35 NM below 8,500 feet. C.R-251 within 15 NM below 6,100 feet."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "On Fig. 30, in the A/FD under the Radio\nAids to Navigation for the OED VORTAC, the VORTAC is\nlisted as being unusable in certain segments. For example, it\nindicates that radials 280° to 345° are not usable below 6,500 ft.\nbeyond 30 NM. This includes R-333.",
+      "B": "because there is no restriction to R-210.",
+      "C": "because the restriction to R-251 is\nbeyond 25 NM, not within 15 NM."
+    },
+    "figure_ref": "Refer to figure 30",
+    "screenshot": "figures/11.2.13.png"
+  },
+  {
+    "id": "11.2.14",
+    "question": "(Refer to figures 27 and 30.) To which maximum service volume distance from the OED VORTAC should you expect to receive adequate signal coverage for navigation at the flight planned altitude?",
+    "answers": {
+      "A": "100 NM.",
+      "B": "80 NM.",
+      "C": "40 NM."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because 100 NM applies to 14,500 ft.\n‘AGL up to 18,000 ft. AGL, and from 45,000 ft. AGL up to 60,000\nft. AGL.",
+      "B": "because 80 NM is not given as a range\nfor VORs.",
+      "C": "The flight plan in Fig. 27 shows a planned\naltitude of 8,000 ft. OED VORTAC is an H-type (high altitude)\nVORTAC as indicated in the A/FD in Fig. 30 by (H) ABVORTAC\nin the first line of Radio Aids to Navigation. For such\nVORTACs, the altitude and range boundaries are from 1,000 ft.\nAGL up to and including 14,500 ft. AGL at distances out to 40\nNM.\n\nbile"
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.2.15",
+    "question": "(Refer to figures 30 and 30A.) What is your position relative to GNATS intersection and the instrument departure routing?",
+    "answers": {
+      "A": "On departure course and past GNATS.",
+      "B": "Right of departure course and past GNATS.",
+      "C": "Left of departure course and have not passed GNATS."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because the ADF needle indicates the\n280° MB FROM, which is right of, not on, the departure course.",
+      "B": "On the RMI, the fat needle is tuned to the\nOED VOR (113.6). The tail of the needle is on 224°, which\nmeans that the airplane is on R-224. Accordingly, the airplane is\npast GNATS (which is on R-216). The thin needle is tuned to the\nVIOLE LMM (356). The tail of the needle is on 280°, which\nmeans that the airplane is on the 280° MB FROM. Thus, the\nairplane is to the right of the departure course (which is the 270°\nMB FROM).",
+      "C": "because the ADF needle indicates the\n280° MB FROM, which is right, not left, of the departure course,\nand the VOR needle indicates R-24, which is past, not\napproaching, GNATS."
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.2.16",
+    "question": "(Refer to figure 29.) What is the TDZ elevation for RWY 16 on Eugene/Mahion Sweet Field?",
+    "answers": {
+      "A": "363 feet MSL.",
+      "B": "365 feet MSL.",
+      "C": "396 feet MSL."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "On the IAP chart, the TDZE is shown in the\nairport diagram near the approach end of the landing runway.\nThe TDZE for RWY 16 at EUG is 363 ft.",
+      "B": "because 365 ft. MSL is the airport\nelevation.",
+      "C": "because 396 ft. MSL is the height of an\nobstacle to the right of the approach end of RWY 16."
+    },
+    "figure_ref": "Refer to figure 29",
+    "screenshot": "figures/11.2.16.png"
+  },
+  {
+    "id": "11.2.17",
+    "question": "(Refer to figure 29.) What are the hours of operation (local standard time) of the control tower at Eugene/Mahlon Sweet Field? A_ 0800 - 2300.",
+    "answers": {
+      "B": "0600 - 0000.",
+      "C": "0700 - 0100."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because 0800 - 2300 are not related\nhours at this airport.",
+      "B": "The hours of operation of the control tower\nat Eugene/Mahlon Sweet Field are listed on Fig. 29 in the A/FD\nunder Eugene tower. It operates from 1400Z to 0800Z. To\nconvert to local standard time, use the conversion code on the\nfirst line of the A/FD: GMT-8(-7DT). This means that, to adjust\nGreenwich mean time (GMT) to local standard time, you subtract\n8 hr., which is 0600 - 0000.",
+      "C": "because 0700 - 0100 are the hours of\noperation converted to daylight, not standard, time. Note the\nsymbol ( v ) indicates that, during periods of daylight saving time,\n\neffective hours will be 1 hr. earlier than shown (i.e., standard\ntime)."
+    },
+    "figure_ref": "Refer to figure 29",
+    "screenshot": "figures/11.2.17.png"
+  },
+  {
+    "id": "11.2.18",
+    "question": "(Refer to figure 29.) Using a groundspeed of 90 knots on the ILS final approach course, what rate of descent should be used as a reference to maintain the ILS glide slope?",
+    "answers": {
+      "A": "415 feet per minute.",
+      "B": "480 feet per minute.",
+      "C": "555 feet per minute."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because 415 fpm is the rate of descent\nrequired for a glide slope between 2.5° and 3.0°, not a 3.0° glide\nslope.",
+      "B": "The profile view of the NOS chart shows a\nglide slope (GS) angle of 3.00°. Legend 21 gives rates of\ndescent based on various glide slope angles and groundspeeds.\nFind the 3.0° glide slope at the left margin and move right to the\n90-kt. groundspeed column to determine a rate of descent of 480\nfpm.",
+      "C": "because 555 fpm is the required rate of\ndescent at 90 kt. on a 3.5°, not 3.0°, glide slope."
+    },
+    "figure_ref": "Refer to figure 29",
+    "screenshot": "figures/11.2.18.png"
+  },
+  {
+    "id": "11.3.19",
+    "question": "(Refer to figure 44.) What aircraft equipment code should be entered in block 3 of the flight plan? AA B.C. CL.",
+    "answers": {},
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because A means Mode C trans-ponder\nand DME, but no RNAV.",
+      "B": "because C indicates RNAV anda\ntransponder with no altitude encoding capability.\n\nCL",
+      "C": "In block 3 of the flight plan, you enter the\ndesignation of the aircraft followed by a slash (/ ) and a letter for\nan equipment mode. Fig. 44 indicates the airplane has a\n\ntransponder with Mode C and RNAV, which requires code R.\n(See Legend 26.)"
+    },
+    "figure_ref": "Refer to figure 44",
+    "screenshot": "figures/11.3.19.png"
+  },
+  {
+    "id": "11.3.20",
+    "question": "(Refer to figure 44.) What CAS must be used to maintain the filed TAS at the flight planned altitude if the outside air temperature is +5°C?",
+    "answers": {
+      "B": "150 KCAS.",
+      "C": "154 KCAS.",
+      "A": "147 KCAS."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "In the center of the slide rule side of your\nflight computer, on the right side, put the air temperature of +5°C.\nover the altitude of 12,000 ft. (given in block 7 of the flight plan).\n\nOn the outer scale, find TAS of 180 kt. (from block 4), which is\nover calibrated airspeed (CAS) on the inner scale of 147 KCAS.",
+      "B": "because maintaining 150 KCAS would\nresult in a TAS of 185 kt, not 180 kt.",
+      "C": "because maintaining 154 KCAS would\nresult ina TAS of 190 kt, not 180 kt."
+    },
+    "figure_ref": "Refer to figure 44",
+    "screenshot": "figures/11.3.20.png"
+  },
+  {
+    "id": "11.3.21",
+    "question": "(Refer to figure 46.) Using an average ground speed of 140 knots, what minimum indicated rate of climb must be maintained to meet the required climb rate (feet per NM) to 6,300 feet as specified on the instrument departure procedure?",
+    "answers": {
+      "A": "350 feet per minute.",
+      "B": "583 feet per minute.",
+      "C": "816 feet per minute."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because a 350 fpm climb rate at a\n\ngroundspeed of 60 Kt., not 140 kt., would result in a climb rate of\n350 ft. per NM.",
+      "B": "because a 583 fpm climb rate at an\n\naverage groundspeed of 140 kt. would result in a climb rate of\n250 ft. per NM, not 350 ft. per NM.",
+      "C": "The DP in Fig. 46 has a note which\nindicates a minimum climb of 350 ft. per NM to 6,300 ft. To\nconvert this to a rate of climb (fpm), use Legend 16. Find the 350\nft. per NM column on the left margin and move right to the 140-kt.\ngroundspeed column to determine a rate of climb of 816 fpm."
+    },
+    "figure_ref": "Refer to figure 46",
+    "screenshot": "figures/11.3.21.png"
+  },
+  {
+    "id": "11.3.22",
+    "question": "L <1 22. (Refer to figures 44, 45, 46, and 47.) Determine the time to be entered in block 10 of the flight plan. (Refer to the FD excerpt below, and use the wind entry closest to the flight planned altitude.) Route of flight Figures 44, 45, 46, and 47 Figure 45 Flight log & MAG VAR GROMO TWO. DEPARTURE and Excerpt from AFD Figure 46 FT 3000 6000 9000 12000 a YKM 1615 1926+12 2032+08 2035+05",
+    "answers": {},
+    "correct_answer": null,
+    "explanations": {},
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.3.23",
+    "question": "(Refer to figures 46 and 48.) What is your position relative to the 9 DME ARC. and the 206° radial of the instrument departure procedure?",
+    "answers": {
+      "A": "Onthe 9 DME arc and approaching R-206.",
+      "B": "Outside the 9 DME arc and past R-206.",
+      "C": "Inside the 9 DME arc and approaching R-206."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "The HSI shows that you are currently on a\n130° heading, thus flying in a southeasterly direction. The OBS.\nselector is set on R-206, and a left deflection is indicated. This\nmeans you are west and north of R-206. (If you were flying out the\nR-206 with a left deflection, you would turn left to intercept.) You\nare approaching R-206 because you are flying in a southeasterly\ndirection. The DME indicates 9 NM out, so you are on the 9 DME\narc.",
+      "B": "because you are on, not outside, the arc\nand approaching, not past, R-206.",
+      "C": "because you are on, not inside, the arc."
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.3.24",
+    "question": "(Refer to figure 46.) What are the hours of operation (local time) of the ATIS for the Yakima Air Terminal when daylight savings time is in effect?",
+    "answers": {
+      "A": "0500 to 2100 local.",
+      "B": "0600 to 2200 local.",
+      "C": "0700 to 2300 local."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because you must subtract 8 hr., not 9 hr.,\nfrom Zulu to convert to local time.",
+      "B": "The hours of operation of the ATIS at\nYakima Air Terminal are listed on Fig. 46 in the A/FD on the\nCommunications line at ATIS. It operates from 1400Z to 0600Z.\nNote that the v symbol indicates that, during periods of daylight\nsaving time, effective hours of operation are 1 hr. earlier than\nthose shown (i.e., standard time). For example, the ATIS will\nbegin operation at 6:00 a.m. local time, regardless of whether\ndaylight saving time is in effect. Thus, you should always use the\nstandard conversion; e.g., GMT-8 = 0600-2200 local.\n\nbile",
+      "C": "because you must always use the\nstandard, not daylight, conversion."
+    },
+    "figure_ref": "Refer to figure 46",
+    "screenshot": "figures/11.3.24.png"
+  },
+  {
+    "id": "11.3.25",
+    "question": "(Refer to figure 47.) En route on V112 from BTG VORTAC to LTJ VORTAC, the minimum altitude crossing Gymme intersection is",
+    "answers": {
+      "A": "6,400 feet.",
+      "B": "6,500 feet.",
+      "C": "7,000 feet."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because 6,400 ft. is the MOCA, not the\nMEA, along V112.",
+      "B": "because 6,500 ft. is the MEA west of\nGYMME when westbound, not eastbound.",
+      "C": "When no minimum crossing altitude\n(MCA) is specified, e.g., at GYMME intersection, the intersection\nmay be crossed at or above the preceding MEA. Since the MEA\nalong V112 eastbound is 7,000 ft, GYMME may be crossed no\nlower than 7,000 ft."
+    },
+    "figure_ref": "Refer to figure 47",
+    "screenshot": "figures/11.3.25.png"
+  },
+  {
+    "id": "11.3.26",
+    "question": "(Refer to figure 47.) When en route on V448 from YKM VORTAC to BTG VORTAC, what minimum navigation equipment is required to identify ANGOO intersection?",
+    "answers": {
+      "A": "One VOR receiver.",
+      "B": "One VOR receiver and DME.",
+      "C": "Two VOR receivers."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "To identify ANGOO INT, only one VOR\nreceiver is required. It is important to establish yourself on V448\nand maintain heading while you orient yourself to LTJ VORTAC\nR-330. Your position checks and tuning will need to be done\nquickly and accurately.",
+      "B": "because, since ANGOO INT can be\n\ndetermined by cross radials, only one VOR receiver is required;",
+      "C": "because only one VOR receiver, not two,\nis required to identify ANGOO INT."
+    },
+    "figure_ref": "Refer to figure 47",
+    "screenshot": "figures/11.3.26.png"
+  },
+  {
+    "id": "11.3.27",
+    "question": "(Refer to figure 47.) En route on V468 from BTG VORTAC to YKM VORTAC, the minimum altitude at TROTS intersection is",
+    "answers": {
+      "A": "7,100 feet.",
+      "B": "10,000 feet.",
+      "C": "11,500 feet."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because 7,100 ft. is the MOCA along\n468, not the MCA at TROTS.",
+      "B": "because 10,000 ft. is the MEA before\nTROTS, not the MCA at TROTS.",
+      "C": "TROTS intersection (45 NM northeast of\n\nBTG VORTAC on V468 in Fig. 47) shows a minimum crossing\naltitude (MCA) of 11,500 ft. when northeastbound on V468."
+    },
+    "figure_ref": "Refer to figure 47",
+    "screenshot": "figures/11.3.27.png"
+  },
+  {
+    "id": "11.3.28",
+    "question": "(Refer to figure 49.) What determines the MAP on the LOC/DME RWY 21 approach at Portland International Airport? A.-GPO 1.2 DME.",
+    "answers": {
+      "B": "5.8 NM from ROBOT FAF.",
+      "C": "160° radial of BTG VORTAC."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "The MAP on the LOC/DME RWY 21\napproach is the 1.2 DME fix on the localizer (I-GPO).",
+      "B": "because, while the MAP is located 5.8\n\nNM from ROBOT FAF, the MAP is the 1.2 DME fix on the\nlocalizer.",
+      "C": "because the 160° radial of BTG\n\nVORTAC is part of the missed approach procedure, not the\nmissed approach point (MAP)."
+    },
+    "figure_ref": "Refer to figure 49",
+    "screenshot": "figures/11.3.28.png"
+  },
+  {
+    "id": "11.3.29",
+    "question": "(Refer to figures 44 and 49.) What is the MDA and visibility criteria for a straight-in LOC/DME RWY 21 approach at Portland International?",
+    "answers": {
+      "A": "1,100 ft. MSL; visibility 1 SM.",
+      "B": "680 ft. MSL; visibility 1 SM.",
+      "C": "680 ft. MSL; visibility 1 NM."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because 1,100 ft. MSL is the minimum\naltitude after crossing ROBOT FAF, but before reaching the 4\nDME fix on the localizer.",
+      "B": "Refer to Fig. 44 to determine the aircraft\ncategory. Vso is 77 kt.; thus, 1.3 Vso is 100.1 kt., which puts the\nairplane in Category B. The minimums for the LOC/DME RWY\n\n21 approach, Category B, are 680 ft. MSL and one statute mile\nvisibility.",
+      "C": "because visibility minimums are given in\n‘statute miles, not nautical miles."
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.3.30",
+    "question": "(Refer to figure 49.) When conducting the LOC/DME RWY 21 approach at PDX, what is the Minimum Safe Altitude (MSA) while maneuvering between the BTG VORTAC and CREAK intersection?",
+    "answers": {
+      "A": "3,400 feet MSL.",
+      "B": "5,700 feet MSL.",
+      "C": "6,100 feet MSL."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because 3,400 ft. MSL is the minimum\n‘safe sector altitude in the area between the 120° and 330°\nradials in a clockwise direction. CREAK intersection, which is\ndefined by the intersection of the 054° radial of the BTG\nVORTAC and the localizer, is not in this area.",
+      "B": "because 5,700 ft. MSL is the minimum\n\naltitude for flying the charted feeder route, not maneuvering,\nbetween BTG VORTAC and CREAK intersection.",
+      "C": "The circle in the lower right corner of the\nplan view of the LOC/DME RWY 21 approach into PDX indicates\nthat the minimum safe sector altitudes for this approach are\nbased on the BTG VORTAC. The circle also indicates that the\nminimum safe sector altitude in the area between the 310° and\n120° radials in a clockwise direction is 6,100 ft. MSL (note that\nthe 310° and 120° radials are the reciprocals of the 130° and\n300° inbound courses shown on the plan view. respectively)."
+    },
+    "figure_ref": "Refer to figure 49",
+    "screenshot": "figures/11.3.30.png"
+  },
+  {
+    "id": "11.3.31",
+    "question": "(Refer to figure 49.) You have been cleared to the CREAK intersection via the BTG 054° radial at 7,000 ft. Approaching CREAK, you are cleared for the LOC/DME RWY 21 approach to PDX. Descent to procedure turn altitude should not begin prior to",
+    "answers": {
+      "A": "completion of the procedure turn, and established on the localizer.",
+      "B": "intercepting the glide slope.",
+      "C": "CREAK outbound."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because you should be at the procedure\nturn altitude (5,700 ft. MSL) at or before the completion of the\nprocedure turn. Descent to the first step-down fix minimum\naltitude (not the procedure turn altitude) should begin after\ncompletion of the procedure turn and when established on the\nlocalizer (if you are past CREAK intersection).",
+      "B": "because the LOC/DME RWY 21\napproach has no glide slope. Additionally, descent to the\nprocedure turn altitude may begin after crossing CREAK\nintersection.",
+      "C": "CREAK intersection is an initial approach\nfix, identified by the letters IAF. It is the fix at which the procedure\nturn should begin. Because you were cleared to CREAK\nintersection at an altitude of 7,000 ft., you should remain at that\naltitude until you reach the intersection. Since you have been\ncleared for the approach, you may then turn to the northeast and\ntrack the localizer outbound (the first portion of the procedure"
+    },
+    "figure_ref": "Refer to figure 49",
+    "screenshot": "figures/11.3.31.png"
+  },
+  {
+    "id": "11.3.32",
+    "question": "(Refer to figure 49.) With a ground speed of 120 knots, approximately what minimum rate of descent will be required between I-GPO 7 DME fix (ROBOT) and the I-GPO 4 DME fix?",
+    "answers": {
+      "A": "1,200 fpm.",
+      "B": "500 fpm.",
+      "C": "800 fpm."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because a 1,200 fpm descent rate would\nbe required if your ground speed were 180 Kt., not 120 kt.",
+      "B": "because a 500 fpm descent rate would\nbe required if your ground speed were 75 kt., not 120 kt.",
+      "C": "The LOC/DME RWY 21 approach chart\ndoes not provide descent angle information, so you must\ncalculate the required rate of descent. From the chart, you can\nsee that the 7 DME fix and the 4 DME fix off L-GPO are 3 NM\napart. If your ground speed is 120 kt., you will cover 2 NM every\nminute. Thus, it will take you 1.5 minutes to cover 3 NM. The\nminimum altitude at ROBOT is 2,300 ft. MSL, and the minimum\naltitude at the 4 DME fix is 1.100 ft MSL. a difference of 1.200 ft."
+    },
+    "figure_ref": "Refer to figure 49",
+    "screenshot": "figures/11.3.32.png"
+  },
+  {
+    "id": "11.3.33",
+    "question": "(Refer to figure 49.) What is the usable runway length for landing on runway 21 at PDX?",
+    "answers": {
+      "B": "7,000 ft C.5,957 ft",
+      "A": "7,900 ft"
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because 7,900 ft. is not a runway length\nor runway length available for landing at Portland International\n(PDX).",
+      "B": "because 7,000 ft. is the total length of\nrunway 21, not the runway length available for landing.",
+      "C": "In the upper right corner of the airport\ndiagram, there is a notation that says \"Rwy 21 Idg 5957'.\" This\nnotation signifies that the runway length available for landing is\n5,957 ft; the remainder of the 7,000 ft. runway length is a\ndisplaced threshold."
+    },
+    "figure_ref": "Refer to figure 49",
+    "screenshot": "figures/11.3.33.png"
+  },
+  {
+    "id": "11.4.34",
+    "question": "(Refers to figure 52 and figure 54.) What is the aircraft's position relative to the HABUT intersection? (The VOR-2 is tuned to 116.5.)",
+    "answers": {
+      "A": "South of the localizer and past the GVO R-163.",
+      "B": "North of the localizer and approaching the GVO R-163.",
+      "C": "South of the localizer and approaching the GVO R-163."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because, when you are flying outbound on\nthe front course, there is reverse sensing, so you are north, not\n‘south, of the localizer. Since you are on R-130 from GVO, you are\napproaching, not past, R-163.",
+      "B": "On the RMI (Fig. 54), VOR-2 is tuned to\n116.5, which is the GVO VORTAC, and the tail indicates that the\nairplane is on R-130, which means it is to the east of HABUT INT.\nThe VOR is tuned to 110.3, which is the localizer, and you are\nflying outbound on the front course (our heading is 240 as shown\nby the RMI). This means there is a reverse sensing indicated,\nand the airplane is to the north or right of the localizer as flying\noutbound.\n\nCc South of the localizer and anproachina the GVO R-163.",
+      "C": "because, when you are flying outbound\n\non the front course, there is reverse sensing, so you are north, not\nsouth, of the localizer."
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.4.35",
+    "question": "(Refer to figure 52.) Using an average ground speed of 100 knots, what minimum rate of climb would meet the required minimum climb rate per NM as specified by the instrument departure procedure?",
+    "answers": {
+      "A": "425 feet per minute.",
+      "B": "580 feet per minute.",
+      "C": "642 feet per minute."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because a 425 fpm climb rate at an\naverage ground speed of 100 kt. would result in a climb rate of\n255 ft. per NM, not 385 ft. per NM.",
+      "B": "because a 580 fpm climb rate at an\n\naverage ground speed of 100 kt. would result in a climb rate of\napproximately 350 ft. per NM, not 385 ft. per NM.",
+      "C": "The DP on Fig. 52 has a note which\nindicates a minimum climb rate of 385 ft. per NM to 6,000 ft. To\nconvert this to a rate of climb (fpm), use Legend 16. Since 385 ft.\nper NM is not listed on the left margin, use 350 and 400 and\ninterpolate between them. Move right to the 100-kt. ground speed\ncolumn to see a rate of climb between 583 and 667 fpm, but\ncloser to 667. By interpolation, the minimum rate of climb\nrequired would be 642 fom."
+    },
+    "figure_ref": "Refer to figure 52",
+    "screenshot": "figures/11.4.35.png"
+  },
+  {
+    "id": "11.4.36",
+    "question": "(Refer to figure 50.) What aircraft equipment code should be entered in block 3 of the flight plan? Al Bots C.U.",
+    "answers": {},
+    "correct_answer": "A",
+    "explanations": {
+      "A": "In block 3 of the flight plan, you enter the\ndesignation of the aircraft followed by a slash (/ ) and a letter for\nthe equipment code. Fig. 50 indicates the airplane has a\ntransponder with Mode C and RNAV, which requires Code |.\n(See Legend 26.)",
+      "B": "because a T indicates only a transponder\nwith no Mode C.\n\nCU.",
+      "C": "because a U indicates a transponder with\nMode C, but no DME."
+    },
+    "figure_ref": "Refer to figure 50",
+    "screenshot": "figures/11.4.36.png"
+  },
+  {
+    "id": "11.4.37",
+    "question": "(Refer to figure 50.) What CAS must be used to maintain the filed TAS at the flight planned altitude? (Temperature 0°C.)",
+    "answers": {
+      "B": "140 KCAS.",
+      "C": "147 KCAS.",
+      "A": "136 KCAS."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because maintaining 136 KCAS would\nresult ina TAS of 154 kt, not 158 Kt.",
+      "B": "In the center of the slide rule side of your\nflight computer, on the right side, put the air temperature of 0°C.\nover the altitude of 8,000 ft. (given in block 7 of fiight plan). On the\n\nouter scale, find TAS of 158 kt. (from block 4), which is over CAS\non the inner scale of 140 KCAS.",
+      "C": "because maintaining 147 KCAS would\nresult in a TAS of 168 kt, not 158 kt."
+    },
+    "figure_ref": "Refer to figure 50",
+    "screenshot": "figures/11.4.37.png"
+  },
+  {
+    "id": "11.4.38",
+    "question": "a FLIGHT LOG <0 = S007 BARRARA MUNI TPASO ROBLES MONE TIT ora bata fuss NOT ao. van =) «| >| <I 38. (Refer to figures 50, 51, 52, and 53.) Determine the time to be entered in block 10 of the flight plan. (Refer to the FD excerpt below, and use the wind entry closest to the flight planned altitude.) Figures 50, 51, 52, Route of flight : See Res, ene and 53 Flight log and MAG VAR * Figure 51 HABUT ONE BERARTURE Sr ait < eG aa Cee Figure 52 and Excerpt from AFD ~~\" FT 3000 6000 9000 SBA 0610 2115+05 2525+00",
+    "answers": {},
+    "correct_answer": null,
+    "explanations": {},
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.4.39",
+    "question": "(Refer to figure 53.) Where is the VOR COP on V27 between the GVO and MQO VORTACs?",
+    "answers": {
+      "A": "20 DME from GVO VORTAC.",
+      "B": "20 DME from MQO VORTAC.",
+      "C": "30 DME from SBA VORTAC."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "When going north from GVO VORTAC to\nMQO VORTAC, there is a VOR changeover point (COP) 20 NM\nnorthwest of GVO VORTAC and 34 NM southeast of MQO\nVORTAC.",
+      "B": "because the COP is 20 NM from GVO,\nnot MQO.",
+      "C": "because SBA is Santa Barbara localizer,\nwhich is not on V27."
+    },
+    "figure_ref": "Refer to figure 53",
+    "screenshot": "figures/11.4.39.png"
+  },
+  {
+    "id": "11.4.40",
+    "question": "(Refer to figure 53.) What service is indicated by the inverse radio aids to navigation box for PRB VORTAC?",
+    "answers": {
+      "A": "VOR with TACAN compatible DME.",
+      "B": "Availability of HIWAS.",
+      "C": "En Route Flight Advisory Service available. symbol in the"
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because the VORTAC symbol itself\nindicates TACAN-compatible DME.\n\nsymbol in the",
+      "B": "See also Legend 23. The inverse \"H\"\nsymbol in the upper right corner of the VOR communication box\n\nindicates the availability of HIWAS (Hazardous Inflight Weather\nAdvisory Service).",
+      "C": "because En Route Flight Advisory\nService (Flight Watch) is available nationwide on 122.0.\n\nsymbol in the"
+    },
+    "figure_ref": "Refer to figure 53",
+    "screenshot": "figures/11.4.40.png"
+  },
+  {
+    "id": "11.4.41",
+    "question": "(Refer to figure 55.) Using an average ground speed of 90 knots, what constant rate of descent from 2,400 feet MSL at the 6 DME fix would enable the aircraft to arrive at 2,000 feet MSL at the FAF?",
+    "answers": {
+      "A": "200 feet per minute.",
+      "B": "400 feet per minute.",
+      "C": "600 feet per minute."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "The profile view of the IAP chart shows the\ndistance from the 6 DME fix to the FAF to be 3 NM. At 90 kt. (1%\nNM per min.), this distance would be traveled in 2 min. To\ndescend from 2,400 ft. to 2,000 ft. (400 ft.) in 2 min. would require",
+      "B": "because 400 fpm would require an\naverage ground speed of 180 kt, not 90 kt.",
+      "C": "because 600 fpm would require an\naverage ground speed of 270 kt., not 90 kt."
+    },
+    "figure_ref": "Refer to figure 55",
+    "screenshot": "figures/11.4.41.png"
+  },
+  {
+    "id": "11.4.42",
+    "question": "(Refer to figure 55.) As a guide in making range corrections, how many degrees of relative bearing change should be used for each one-half-mile deviation from the desired arc?",
+    "answers": {
+      "A": "2° to 3°.",
+      "B": "5° maximum.",
+      "C": "10° to 20°."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because 10° to 20° corrections, not 2° to\n3°, should be made for each %-NM deviation.",
+      "B": "because there is no maximum; the\n\namount of correction should be proportional to the amount of\nerror.",
+      "C": "As a guide in making corrections when\n\ntracking DME arcs, turn 10° to 20° toward the arc for each % NM\n‘that you are off the desired arc."
+    },
+    "figure_ref": "Refer to figure 55",
+    "screenshot": "figures/11.4.42.png"
+  },
+  {
+    "id": "11.4.43",
+    "question": "(Refer to figure 55.) Under which condition should a missed approach procedure be initiated if the runway environment (Paso Robles Municipal Airport) is not in sight?",
+    "answers": {
+      "A": "After descending to 1,440 feet MSL.",
+      "B": "After descent to 1,440 feet or reaching the 1 NM DME, whichever occurs first.",
+      "C": "When you reach the established missed approach point and determine the visibility is less than 1 mile."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because the MAP is PRB VORTAC, not\narrival at the MDA.",
+      "B": "because the MAP is PRB VORTAC, not\narrival at the MDA or the 1 DME fix.",
+      "C": "The missed approach point is the point\nprescribed in each instrument approach procedure at which a\nmissed approach procedure shall be executed if the required\nvisual reference has not been sighted or the flight visibility is less\nthan visibility prescribed in the IAP. The MAP for VOR/DME-B is\nthe PRB VORTAC. Thus. when you reach the VORTAC and you"
+    },
+    "figure_ref": "Refer to figure 55",
+    "screenshot": "figures/11.4.43.png"
+  },
+  {
+    "id": "11.4.43a",
+    "question": "(Refer to figure 55.) Under which condition should a missed approach procedure be initiated if the runway environment (Paso Robles Municipal Airport) is not in sight?",
+    "answers": {
+      "A": "When you reach the established missed approach point and determine the visibility is less than 1/2 mile.",
+      "B": "After descent to 1,440 feet or reaching the 1 NM DME, whichever occurs first.",
+      "C": "After descending to 1,440 feet MSL."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "The missed approach point is the point\nprescribed in each instrument approach procedure at which a\nmissed approach procedure shall be executed if the required\nvisual reference has not been sighted or the flight visibility is less\nthan visibility prescribed in the IAP. The MAP for VOR/DME-B is\nthe PRB VORTAC. Thus, when you reach the VORTAC and you\ndetermine the visibility is less than 1/2 SM, which is below the\nvisibility minimum of 1 SM, you must execute the missed\napproach procedure.",
+      "B": "because the MAP is PRB VORTAC, not\narrival at the MDA or the 1 DME fix.",
+      "C": "because the MAP is PRB VORTAC, not\narrival at the MDA."
+    },
+    "figure_ref": "Refer to figure 55",
+    "screenshot": "figures/11.4.43a.png"
+  },
+  {
+    "id": "11.5.44",
+    "question": "FLIGHT LOG b= T= fe io oa os 45. (Refer to figures 32, 33, 34, 35, 35A, and 36.) (Refer to the FD excerpt below, and use the wind entry closest to the flight planned altitude.) Determine the time to be entered in block 10 of the flight plan. Route offight 9 sce ee 32, 33, 34, 35, 35A, & Flightlog&MAG =... eee _ VAR : Figure 33 NAVI RWY-38 naa\" OS is re & Excerpt from AFD . Figure 36 FT 3000 6000 9000 12000 DAL 2027 2239+13 2240+08 2248+05",
+    "answers": {
+      "A": "1 hour 35 minutes. b>"
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "To determine the estimated time en route to be enterec\nlog in Fig. 33. As you compare the flight log with the en route and arrival charts\n1 |"
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.5.45",
+    "question": "(Refer to figure 32.) What aircraft equipment code should be entered in block 3 of the flight plan? AA B.C. CL.",
+    "answers": {},
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because A indicates DME and\ntransponder with Mode C, but no RNAV.",
+      "B": "because C indicates RNAV and\ntransponder, but with no Mode C.\n\nCL",
+      "C": "In block 3 of the flight plan, you enter the\ndesignation of the aircraft followed by a slash (/ ) and a letter for\n\nthe equipment code. Fig. 32 indicates a transponder with Mode"
+    },
+    "figure_ref": "Refer to figure 32",
+    "screenshot": "figures/11.5.45.png"
+  },
+  {
+    "id": "11.5.46",
+    "question": "(Refer to figure 32.) What CAS must be used to maintain the filed TAS at the flight planned altitude if the outside air temperature is +8°C?",
+    "answers": {
+      "B": "157 KCAS.",
+      "C": "163 KCAS.",
+      "A": "154 KCAS."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because maintaining 154 KCAS would\nresult ina TAS of 176 kt., not 180 Kt.",
+      "B": "In the center of the slide rule side of your\nflight computer, on the right side, put the air temperature of +8°C.\nover the altitude of 8,000 ft. (see block 7 of the flight plan in Fig.\n32). On the outer scale, find TAS of 180 (from block 4), which is\nover calibrated airspeed on the inner scale of 157 KCAS.",
+      "C": "because maintaining 163 KCAS would\nresult ina TAS of 187 kt, not 180 kt."
+    },
+    "figure_ref": "Refer to figure 32",
+    "screenshot": "figures/11.5.46.png"
+  },
+  {
+    "id": "11.5.47",
+    "question": "Figure 34A, 48. (Refer to figures 34 and 34A.) At which altitude and location on V573 would you expect the navigational signal of the HOT VOR/DME to be unreliable?",
+    "answers": {
+      "A": "3,000 feet at APINE intersection.",
+      "B": "2,600 feet at MARKI intersection.",
+      "C": "4,000 feet at ELMMO intersection."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "The A/FD in Fig. 34A, under Radio Aids\nto Navigation, does not indicate that the HOT VOR/DME is\nunusable in any quadrants. APINE intersection is 26 NM from\nHOT, which means that the MEA, not MOCA, is the lowest\naltitude that assures acceptable navigational signals. The MEA\nat APINE is 3,500 ft, therefore 3,000 ft. is 500 ft. below the\nminimum required to receive acceptable navigational signals.",
+      "B": "because MARK! is 21 NM from HOT\nVORIDME, and the MOCA is 2,600 ft. The MOCA assures\nacceptable navigation signals within 22 NM of the VOR.",
+      "C": "because the MEA at ELMMO is 4,000 ft,\n\nwhich assures acceptable navigation signals and meets obstacle\nclearance requirements."
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.5.48",
+    "question": "(Refer to figures 35 and 37.). What is your position relative to the CONNY intersection on the BUJ.BUJ3 transition?",
+    "answers": {
+      "B": "Left of the TXK R-266 and past the BUJ R-065.",
+      "C": "Right of the TXK R-270 and approaching the BUJ R-245.",
+      "A": "Left of the TXK R-272 and approaching the BUJ R-059°."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "Refer to Figs. 35 and 35A and note that\nthis is actually the TXK _BU4J3 transition (to the BUJ.BUJ3 arrival).\nIn Fig. 37, NAV 4 (an HSI) is tuned to 114.9 (BUJ VORTAC) and\nset to 239°. Since the bar is deflected to the northwest, you are\nsoutheast of the BUJ R-059, and thus approaching it (note the\n270° heading). NAV 2 (an RMI) has the fat needle tuned to 116.3\n(TXK VORTAC). The tail of the needle indicates R-270, which is\n‘south of R-272 and thus to the left.",
+      "B": "because the R-270 of TXK is right not left\nof the TXK R-266 and you are on, not past, the BUJ R-065.",
+      "C": "because you are on, not right of, the\nR-270 of TXK and approaching R-244 of LIT, not BUJ."
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.5.49",
+    "question": "(Refer to figure 36A.) Under which condition should the missed approach procedure for the VOR/DME RNAV RWY 33 approach be initiated?",
+    "answers": {
+      "A": "Immediately upon reaching the 5.0 DME from the FAF.",
+      "B": "When passage of the MAP way point is shown on the ambiguity indicator.",
+      "C": "After the MDA is reached and 1.8 DME fix from the MAP way point."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because the FAF is identified as 5.0\nDME from the MAP, not vice versa.",
+      "B": "The missed approach point (MAP) is the\npoint prescribed in each instrument approach procedure at which",
+      "C": "because 1.8 DME from the MAP way\n\npoint is where you would arrive at MDA, assuming a 2.85° glide\npath."
+    },
+    "figure_ref": "Refer to figure 36A",
+    "screenshot": "figures/11.5.49.png"
+  },
+  {
+    "id": "11.5.50",
+    "question": "Figure 36 51. (Refer to figures 32, 36, and 36A.) What is the MDA and visibility criteria respectively for the S-33 approach procedure?",
+    "answers": {
+      "A": "1,240 feet MSL; 1 SM.",
+      "B": "1,280 feet MSL; 1 and % SM.",
+      "C": "1,300 feet MSL; 1 SM."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "Refer to Fig. 32 to determine the aircraft\ncategory. Vso is 74 kt.; thus 1.3 Vso is 96.2 kt., which puts the\nairplane in Category B (91-120). The minimums for the straight-in\nRWY 33 approach, Category B, are 1,240 ft. MSL and 1 SM on\nthe approach chart (Fig. 36A).",
+      "B": "because 1,280 ft. is the MDA for circling\nCategory D on the approach chart, and 1% SM is not an\napplicable minimum.",
+      "C": "because 1,300 ft. and 1 SM are the\nminimums for using the Dallas Love Field altimeter setting."
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.5.51",
+    "question": "(Refer to figure 36A.) What is the minimum number of way points required for the complete RNAV RWY 33 approach procedure including the IAF's and missed approach procedure?",
+    "answers": {
+      "A": "One way point.",
+      "B": "Two way points.",
+      "C": "Three way points."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because the MAP is a way point (as\nshown by the box) even though it has no way point star.",
+      "B": "Two way points are given for the RNAV\nRWY 33 approach: ADDIS and the MAP.",
+      "C": "because the FAF is not a way point; it is"
+    },
+    "figure_ref": "Refer to figure 36A",
+    "screenshot": "figures/11.5.51.png"
+  },
+  {
+    "id": "11.5.52",
+    "question": "Aide moce TREE ARRIVAL [BU 8u/9 _ cause wou wos 4 Pe ee 53. (Refer to figures 35 and 35A.) At which point does the BUJ.BUJ3 arrival begin?",
+    "answers": {
+      "A": "Atthe TXK VORTAC.",
+      "B": "At BOGAR intersection.",
+      "C": "At the BUJ VORTAC."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because the Texarkana transition, XK\nBUJ8, begins over the TXK VORTAC.",
+      "B": "because BOGAR INT does not appear on\nthe BUJ.BUJ3 arrival chart.",
+      "C": "The arrival, in contrast to the transition,\nbegins over the BUJ VORTAC as explained in the written\ndescription in Fig. 35A."
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.5.53",
+    "question": "(Refer to figure 34.) For planning purposes, what is the highest useable altitude for an IFR flight on V573 from the HOT VORTAC to the TXK VORTAC?",
+    "answers": {
+      "A": "16,000 feet MSL.",
+      "B": "14,500 feet MSL.",
+      "C": "13,999 feet MSL."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "The VOR airway system consists of\nairways designated from 1,200 ft. AGL up to, but not including,\n18,000 ft. MSL. Flying on V573 from HOT to TXK is a generally\nwesterly course which requires an even-thousands altitude. Thus,\n16,000 ft. MSL is the highest usable altitude.",
+      "B": "because 14,500 ft. MSL is a VFR, not\nIFR, cruising altitude from 180° to 359°.",
+      "C": "because IFR altitudes are even or odd\nthousands of feet."
+    },
+    "figure_ref": "Refer to figure 34",
+    "screenshot": "figures/11.5.53.png"
+  },
+  {
+    "id": "11.5.53a",
+    "question": "(Refer to figure 36A on page 404.) What is the MDA and visibility criteria respectively for the S 33 approach procedure?",
+    "answers": {
+      "A": "1,240 feet MSL; 1/2 SM.",
+      "B": "1,240 feet MSL; 1 SM.",
+      "C": "1,280 feet MSL; 1 and 1/4 SM."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because the minimum visibility is not\nshown to be 1/2 SM for any category of aircraft using the\n‘straight-in RNAV RWY 33 approach into ADS.",
+      "B": "The MDA and visi criteria are found in\nthe minimums section of the RNAV RWY 33 approach chart. The\nstraight-in (S-33) MDA and visibility criteria for Category A and B\naircraft are 1,240 ft. MSL and 1 SM respectively (note that the\nquestion does not specify the aircraft category).",
+      "C": "because 1,280 ft. MSL is the MDA for a\ncircling approach, not a straight-in approach, and because the\nminimum visibility is not shown to be 1 and 1/4 SM for any\n\ncategory of aircraft using the straight-in RNAV RWY 33 approach\ninto ADS."
+    },
+    "figure_ref": "Refer to figure 36A",
+    "screenshot": "figures/11.5.53a.png"
+  },
+  {
+    "id": "11.6.54",
+    "question": "(Refer to figure 38.) What aircraft equipment code should be entered in block 3 of the flight plan? AC. B.L CA",
+    "answers": {},
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because C indicates RNAV and\ntransponder, but with no Mode C.",
+      "B": "In block 3 of the flight plan, you enter the\ndesignation of the aircraft followed by a slash (/ ) and a letter for\n\nthe equipment code. Fig. 38 indicates there is a transponder with\nMode C and RNAV. Thus, you need Code I. (See Legend 26.)\n\nCA",
+      "C": "because A indicates DME and\ntransponder with Mode C, but no RNAV."
+    },
+    "figure_ref": "Refer to figure 38",
+    "screenshot": "figures/11.6.54.png"
+  },
+  {
+    "id": "11.6.55",
+    "question": "(Refer to figure 38.) What CAS must be used to maintain the filed TAS at the flight planned altitude if the outside air temperature is +05°C?",
+    "answers": {
+      "B": "133 KCAS.",
+      "C": "139 KCAS.",
+      "A": "129 KCAS."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "In the center of the slide rule side of your\nflight computer, on the right side, put the air temperature of +5°C.\nover the altitude of 11,000 ft. (from block 7 of the flight plan, Fig.\n38). On the outer scale, find TAS of 156 (from block 4), which is\nover calibrated airspeed on the inner scale of 129 KCAS.",
+      "B": "because maintaining 133 KCAS would\nresult in a TAS of 161 kt., not 156 Kt.",
+      "C": "because maintaining 139 KCAS would\nresult ina TAS of 168 kt, not 156 kt."
+    },
+    "figure_ref": "Refer to figure 38",
+    "screenshot": "figures/11.6.55.png"
+  },
+  {
+    "id": "11.6.56",
+    "question": "<1 58. (Refer to figures 38, 39, 40, and 41.) (Refer to the FD excerpt below, and use the wind entry closest to the flight planned altitude.) Determine the time to be entered in block 10 of the flight plan. Route offiight 9 ccctcccceeeteeccse a 38, 39, and Flight log & MAG VAR 5800s Figure 39 ACTON TWO ogee Sa re es Sa . ARRIVAL x Figure 41 FT 3000 6000 9000 12000 ABI 2033+13 2141413 2142+05 —y",
+    "answers": {
+      "A": "1 hour 24 minutes."
+    },
+    "correct_answer": null,
+    "explanations": {},
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.6.57",
+    "question": "Figure 40 59. (Refer to figure 40.) For planning purposes, what is the highest useable altitude for an IFR flight on V16 from the BGS VORTAC to ABI VORTAC?",
+    "answers": {
+      "A": "17,000 feet MSL.",
+      "B": "18,000 feet MSL.",
+      "C": "6,500 feet MSL."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "The VOR airway system consists of\nairways designated from 1,200 ft. AGL up to, but not including,\n\n18,000 ft. MSL.",
+      "B": "because Victor airways go up through\n17,999 ft. but do not include 18,000 ft.",
+      "C": "because 6,500 ft. is the MRA at LORAN\n\nintersection."
+    },
+    "figure_ref": "Refer to figure 40",
+    "screenshot": "figures/11.6.57.png"
+  },
+  {
+    "id": "11.6.58",
+    "question": "[ACTON TWO ARRIVAL WGN AGHZ] ——— oasaowr won wa Tarnow YAY OMT Ag AO",
+    "answers": {
+      "B": "ACTON VORTAC.",
+      "C": "CREEK intersection.",
+      "A": "AC oom AM VORA 8. ad onus Taree NAS ASN) Pam ne EONAS ACN RPE Sint uaveon Toe Acie fen ve Ba VORTAC vi NK, TOA SSL Tas Ea sod nan wa vow ‘inte Sn Wot Seas RY aT apt ST iinncaa con Tom WOE sre, ANOTON, 49 DALAS Siete oa rae mobo seco aan Stace AGN BOM Im Rag oom what er 60. (Refer to figures 41 and 41A.) At which point does the AQN.AQN2 arrival begin? A ABIVORTAC."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because the ABI VORTAC is the\n\nbeginning of the Abilene transition.",
+      "B": "The arrival, in contrast to the transition,\nbegins over the AQN VORTAC, as explained in the written\ndescription in Fig. 41A.\n\n). (Refer to figures 41 and 41A.) At which point does the AQN.AQN2 arrival"
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.6.59",
+    "question": "[ACTON TWO ARRIVAL WGN AGHZ] ——— oasaowr won wa Tarnow YAY OMT Ag AO A AC oom AM VORA 8. ad onus Taree NAS ASN) Pam ne EONAS ACN RPE Sint uaveon Toe Acie fen ve Ba VORTAC vi NK, TOA SSL Tas Ea sod nan wa vow ‘inte Sn Wot Seas RY aT apt ST iinncaa con Tom WOE sre, ANOTON, 49 DALAS Siete oa rae mobo seco aan Stace AGN BOM Im Rag oom what er 61. (Refer to figures 41 and 41A.) Which frequency would you anticipate using to contact Regional Approach Control? (ACTON TWO ARRIVAL).",
+    "answers": {
+      "A": "119.05.",
+      "B": "124.15.",
+      "C": "1258."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because 119.05 is for aircraft\n\napproaching from an easterly direction.",
+      "B": "because 124.15 is the DFW tower, not\nTegional approach control, frequency for aircraft approaching\n\nfrom the west.",
+      "C": "The upper left-hand corner of the STAR\nchart (Fig. 41) shows the pertinent frequencies to be used. Since\naircraft using this arrival are approaching from the west, the\nappropriate approach frequency is 125.8."
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.6.60",
+    "question": "[ACTON TWO ARRIVAL WGN AGHZ] ——— oasaowr won wa Tarnow YAY OMT Ag AO",
+    "answers": {
+      "B": "040°.",
+      "C": "350°.",
+      "A": "AC oom AM VORA 8. ad onus Taree NAS ASN) Pam ne EONAS ACN RPE Sint uaveon Toe Acie fen ve Ba VORTAC vi NK, TOA SSL Tas Ea sod nan wa vow ‘inte Sn Wot Seas RY aT apt pecaperslpikord iinncaa con Tom WOE sre, ANOTON, 49 DALAS ROHS Pat on now aan Stace AGN BOM Im Rag oom what er 62. (Refer to figures 41 and 41A.) On which heading should you plan to depart CREEK intersection? A.010°."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because 010° is not an applicable\n\nheading in this STAR.",
+      "B": "because 040° is the course from AQN to\nCREEK INT, not after CREEK INT.",
+      "C": "Presumably, you should assume that you\nare flying a jet aircraft since non-jet aircraft (such as the C-402 in\nthis flight) do not fly to CREEK INT (refer to Fig. 41A). The\nturbojet arrival indicates that you should maintain a heading of\n350° after CREEK. Non-turbojet aircraft will proceed from AQN\nVORTAC via AQN R-040 to CREEK INT and should expect\nradar vectors at BRYAR INT (i.e., before CREEK INT)."
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.6.61",
+    "question": "Tay now YAY O*AI NOD . (Refer to figures 41, 42, and 42A.) Approaching DFW from Abilene, which frequencies should you expect to use for regional approach control, control tower, and ground control respectively?",
+    "answers": {
+      "A": "119.05; 126.55; 121.65.",
+      "B": "119.05; 124.15; 121.8.",
+      "C": "125.8; 124.15; 121.8."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because 119.05 is for approach control\n\nfrom the east, not west, and 126.55 is for tower from the east, not\nwest.",
+      "B": "because 119.05 is for approach control\nfrom the east, not west.",
+      "C": "Refer to the Communications section of\nthe A/FD in Fig. 42. Since the ACTON two arrival approaches\nfrom the west, approach control uses 125.8 or 132.1, tower uses\n124.15, and ground uses 121.65 or 121.8."
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.6.62",
+    "question": "(Refer to figure 42A.) Which navigational information and services would be available to the pilot when using the localizer frequency?",
+    "answers": {
+      "A": "Localizer and glide slope, DME, TACAN with no voice capability.",
+      "B": "Localizer information only, ATIS and DME are available.",
+      "C": "Localizer and glide slope, DME, and no voice capability."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because there is no TACAN indicated in\nthe IAP chart. TACAN is the military version of VOR/DME.",
+      "B": "because it is an ILS approach with glide\nslope.",
+      "C": "ILS RWY 36L is an ILS (localizer and glide\n\nslope). On the NOS chart, a channel number indicates DME. The\nline under the I-BXN frequency 111.9 means no voice capability."
+    },
+    "figure_ref": "Refer to figure 42A",
+    "screenshot": "figures/11.6.62.png"
+  },
+  {
+    "id": "11.6.63",
+    "question": "(Refer to figures 42 and 42A.) What is the difference in elevation (in feet MSL) between the airport elevation and the TDZE for RWY 36L?",
+    "answers": {
+      "B": "18 feet.",
+      "C": "22 feet.",
+      "A": "15 feet."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "The airport elevation (603 ft.) is shown in\nthe upper left corner of the airport diagram, and the TDZE (588\nft.) is shown to the left of the approach end of RWY 36L. The\ndifference between the two is 15 ft. (603 - 588).",
+      "B": "because 603 - 588 = 15 ft., not 18 ft.",
+      "C": "because 22 ft. is the difference between\nairport elevation and the TDZE for RWY 36R, not RWY 36L."
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.6.64",
+    "question": "(Refer to figure 42A.) What rate of descent should you plan to use initially to establish the glidepath for the ILS RWY 36L approach? (Use 120 knots ground speed.)",
+    "answers": {
+      "A": "425 feet per minute.",
+      "B": "530 feet per minute.",
+      "C": "635 feet per minute."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because 425 fpm is the required rate of\ndescent at 120-kt. ground speed on a 2.0°, not 3.0°, glide slope.",
+      "B": "because 530 fpm is the required rate of\ndescent at 120-kt. ground speed on a 2.5°, not 3.0°, glide slope.",
+      "C": "The profile view of the IAP chart (Fig. 42A)\nshows a glide slope angle of 3.00°. Legend 19 gives rates of\ndescent based on various glide slope angles and ground\nspeeds. Find the 3.0° on the left margin and move right to the\n120-kt. ground speed column to determine a rate of descent of\n635 fpm."
+    },
+    "figure_ref": "Refer to figure 42A",
+    "screenshot": "figures/11.6.64.png"
+  },
+  {
+    "id": "11.6.65",
+    "question": "(Refer to figures 42A and 43.) What is your position relative to CHAAR intersection? The aircraft is level at 3,000 feet MSL.",
+    "answers": {
+      "B": "Left of the localizer course approaching CHAAR intersection and below the glide slope.",
+      "C": "Right of the localizer course, past CHAAR intersection and above the glide slope.",
+      "A": "Right of the localizer course approaching CHAAR intersection and approaching the glide slope."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "NAV-1 (111.9) is on the -BXN localizer\nindicating right of course because of the left deviation. Also, you\nare outside (approaching) CHAAR intersection since the DME\nteadout is 7.5 DME (CHAAR is 7.2 DME). The glide slope is\n3,000 ft. MSL at CHAAR, and thus you are beneath and\napproaching the glide slope. On NAV-2, the ADF frequency 233\ndoes not appear on the approach chart. The VOR (114.3) is\nLOVE VOR, indicating R-230, and CHAAR is R-233, which\nConfirms you are south of CHAAR position.\n\nbile",
+      "B": "because the left localizer deviation\nmeans right, not left, of course.",
+      "C": "because you are below, not above, the\nglide slope and have not passed CHAAR intersection."
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.7.66",
+    "question": "(Refer to figure 69.) What aircraft equipment code should be entered in block 3 of the flight plan? AA B.B. C.U.",
+    "answers": {},
+    "correct_answer": "A",
+    "explanations": {
+      "A": "In block 3 of the flight plan, you enter the\ndesignation of the aircraft followed by a slash (/ ) and a letter for\nthe equipment code. Fig. 69 indicates that you have a\ntransponder with Mode C and DME, which requires code A. (See\nLegend 26.)",
+      "B": "because code B indicates DME and\ntransponder but no Mode C.\n\nCU.",
+      "C": "because code U indicates only a\ntransponder with Mode C."
+    },
+    "figure_ref": "Refer to figure 69",
+    "screenshot": "figures/11.7.66.png"
+  },
+  {
+    "id": "11.7.67",
+    "question": "(Refer to figure 69.) What CAS should be used to maintain the filed TAS if the outside air temperature is +05°C?",
+    "answers": {
+      "A": "119 KCAS.",
+      "B": "124 KCAS.",
+      "C": "126 KCAS."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "In the center of the slide rule side of your\nflight computer, on the right side, put the air temperature of +5°C.\nover the altitude of 5,000 ft. (from block 7 of the flight plan, Fig.\n69). On the outer scale, find TAS of 128 kt. (from block 4), which\nis over calibrated airspeed on the inner scale of 119 KCAS.",
+      "B": "because maintaining 124 KCAS would\nresult in a TAS of 134 kt, not 128 Kt.",
+      "C": "because maintaining 126 KCAS would\nresult in a TAS of 136 kt, not 128 kt."
+    },
+    "figure_ref": "Refer to figure 69",
+    "screenshot": "figures/11.7.67.png"
+  },
+  {
+    "id": "11.7.68",
+    "question": "FLIGHTLOG =f Jared coer Ivar [oe = | T m a 70. (Refer to figures 69, 70, 71, and 72.) Determine the time to be entered in block 10 of the flight plan. (Refer to the FD excerpt below, and use the wind entry closest to the flight planned altitude.) Route of flight ae Figures 69, 70, and 71 Flight log and MAG VAR .. Figure 70 JUDDS TWO ARRIVAL and ExcerptfromAFD ..................-. Figure 72 FT 3000 6000 9000 BDL 3320 3425+05 3430+00",
+    "answers": {
+      "A": "1 hour 14 minutes.",
+      "B": "58 minutes. Cn) enim te"
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because an ETE of 1 hr. 14 min. requires\n\nSa ea a ee ees a",
+      "B": "To determine the estimated time en route to be enterec |"
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.7.69",
+    "question": "Fine a 71. (Refer to figures 71 and 71A.) What is your position relative to the FLOS! intersection northbound on V213 airway?",
+    "answers": {
+      "A": "West of V213 and approaching the FLOS! intersection.",
+      "B": "East of V213 and approaching the FLOS! intersection.",
+      "C": "West of V213 and past the FLOS! intersection."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "VOR-1 is tuned to IGN VORTAC (117.6)\nwith an OBS setting of 265°. The FROM indication and right\nneedle deflection indicates you are south of the IGN R-265 and\nthus approaching it. VOR-2 is tuned to SAX VORTAC (115.7)\nwith an OBS setting of 029°. The FROM indication and right\nneedle deflection indicates you are to the left or west of the SAX.\nR029.",
+      "B": "because a left, not right, needle deflection\nin VOR-2 would indicate right or east of the V213.",
+      "C": "because a left, not right, needle deflection\n\nin VOR-1 would indicate that you have passed FLOSI\nintersection."
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.7.70",
+    "question": "FLIGHTLOG a. 72. (Refer to figures 70 and 71.) Which VORTAC navigational facility along the proposed route of flight could provide you with HIWAS information?",
+    "answers": {
+      "A": "SPARTA VORTAC.",
+      "B": "HUGUENOT VORTAC.",
+      "C": "KINGSTON VORTAC."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because the Sparta (SAX) VORTAC.\ncommunication box has no small square with an H.",
+      "B": "because the Huguenot VORTAC\ncommunication box has no small square with an H.",
+      "C": "The Kingston VORTAG (IGN)\n\ncommunication box contains a small square with a white H in the\nupper right-hand corner indicating availability of HIWAS."
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.7.71",
+    "question": "(Refer to figure 72.) At which location or condition does the IGN.JUDDS2 arrival begin? A_JUDDS intersection.",
+    "answers": {
+      "B": "IGN VORTAC.",
+      "C": "BRISS intersection."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because the JUDDS INT is in the middle\nof the arrival route.",
+      "B": "The IGN.JUDDS2 arrival on Fig. 72\nindicates \"from over Kingston VORTAC via R-112 ....\" Thus, the\nJUDDS2 arrival begins over the Kingston (IGN) VORTAC.",
+      "C": "because the BRISS INT is in the middle\nof the arrival route."
+    },
+    "figure_ref": "Refer to figure 72",
+    "screenshot": "figures/11.7.71.png"
+  },
+  {
+    "id": "11.7.72",
+    "question": "(Refer to figure 72.) How many precision approach procedures are published for Bradley International Airport?",
+    "answers": {
+      "A": "One.",
+      "B": "Three.",
+      "C": "Four."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because there are three, not one, ILSs.",
+      "B": "To determine the number of precision\napproaches at Bradley International Airport, check the\nappropriate Airport/Facility Directory, which is reproduced in\nFig. 72. At the end of the A/FD, note ILS/DMEs for RWY 6, RWY\n33, and RWY 24.",
+      "C": "because there are three, not four, ILSs."
+    },
+    "figure_ref": "Refer to figure 72",
+    "screenshot": "figures/11.7.72.png"
+  },
+  {
+    "id": "11.7.73",
+    "question": "(Refer to figure 73.) What is the minimum altitude at which you should intercept the glide slope on the ILS RWY 6 approach procedure?",
+    "answers": {
+      "B": "1,800 feet MSL.",
+      "C": "1,690 feet MSL.",
+      "A": "3,000 feet MSL."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because 3,000 ft. MSL is the minimum\naltitude in the holding pattern at PENNA INT.",
+      "B": "In the profile section of the IAP chart, there\nis an 1800 with a lightning bolt pointing to the glide slope. This is\nthe glide slope intercept altitude and final approach fix for\n\nprecision approaches. Thus, here, one should not intercept below\n1,800 ft. MSL.",
+      "C": "because 1,690 ft. MSL is the altitude at\n\nwhich you will cross CHUPP LOM when descending on the glide\nslope."
+    },
+    "figure_ref": "Refer to figure 73",
+    "screenshot": "figures/11.7.73.png"
+  },
+  {
+    "id": "11.7.74",
+    "question": "(Refer to figure 73.) At which indication or occurrence should you initiate the published missed approach procedure for the ILS RWY 6 approach provided the runway environment is not in sight?",
+    "answers": {
+      "A": "When reaching 374 feet MSL indicated altitude.",
+      "B": "When 3 minutes (at 90 knots ground speed) have expired or reaching 374 feet MSL, whichever occurs first.",
+      "C": "Upon reaching 374 feet AGL."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "When flying the ILS RWY 6 approach, you\nshould execute a missed approach when you have reached the\ndecision height of 374 ft. MSL.",
+      "B": "because the ILS is a precision approach\nand timing is only for the backup localizer approach.",
+      "C": "because the decision height is 374 ft.\nMSL, not AGL."
+    },
+    "figure_ref": "Refer to figure 73",
+    "screenshot": "figures/11.7.74.png"
+  },
+  {
+    "id": "11.7.75",
+    "question": "(Refer to figure 73.) Which sequence of marker beacon indicator lights, and their respective codes, will you receive on the ILS RWY 6 approach procedure to the MAP?",
+    "answers": {
+      "A": "Blue - alternate dots and dashes; amber - dashes.",
+      "B": "Amber - alternate dots and dashes; blue - dashes.",
+      "C": "Blue - dashes; amber - alternate dots and dashes."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because the outer marker has dashes,\nnot dots and dashes, and the middle marker has dots and\ndashes, not just dashes.",
+      "B": "because the outer marker is blue with\ndashes, and the middle marker is amber with dots and dashes,\nnot vice versa.",
+      "C": "The outer marker is identified with\ncontinuous dashes at the rate of two dashes per sec. and a blue\nmarker beacon light. The middle marker is identified with\nalternate dots and dashes keyed at the rate of 95 dot/dash\ncombinations per minute and an amber marker beacon light.\nNote that the inner marker, which is identified with continuous\ndots at the rate of six dots per sec. and a white marker beacon a\nliaht. is crossed after (not before) the MAP"
+    },
+    "figure_ref": "Refer to figure 73",
+    "screenshot": "figures/11.7.75.png"
+  },
+  {
+    "id": "11.7.76",
+    "question": "(Refer to figure 73.) Using an average ground speed of 90 knots on the final approach segment, what rate of descent should be used initially to establish the glidepath for the ILS RWY 6 approach procedure?",
+    "answers": {
+      "A": "395 feet per minute.",
+      "B": "480 feet per minute.",
+      "C": "555 feet per minute."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because 395 fpm is the required rate of\ndescent at a groundspeed of 75 kt., not 90 kt.",
+      "B": "The profile view of the IAP chart shows a\nglide slope angle of 3.00°. Legend 21 gives rates of descent\nbased on various glide slope angles and groundspeeds. Find the\n3.0° angle of descent on the left margin and move right to the\n90-kt. groundspeed column to determine a rate of descent of 480\n\nfpm.",
+      "C": "because 555 fpm is the required rate of\ndescent at a groundspeed of 105 kt., not 90 kt."
+    },
+    "figure_ref": "Refer to figure 73",
+    "screenshot": "figures/11.7.76.png"
+  },
+  {
+    "id": "11.7.77",
+    "question": "(Refer to figure 73.) What is the touchdown zone elevation for RWY 6?",
+    "answers": {
+      "A": "174 feet MSL.",
+      "B": "200 feet AGL.",
+      "C": "270 feet MSL."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "The IAP chart shows the TDZE in the\nairport diagram near the approach end of the landing runway.\nThe TDZE is 174 ft. MSL.",
+      "B": "because 200 ft. AGL is the HAT (height\nabove touchdown) at the DH on the ILS.",
+      "C": "because 270 ft. MSL is the height of an\nobstruction near the approach end of RWY 6."
+    },
+    "figure_ref": "Refer to figure 73",
+    "screenshot": "figures/11.7.77.png"
+  },
+  {
+    "id": "11.7.78",
+    "question": "(Refer to figure 73.) After passing the OM, Bradley Approach Control advises you that the MM on the ILS RWY 6 approach is inoperative. Under these circumstances, what adjustments, if any, are required to be made to the DH and visibility?",
+    "answers": {
+      "A": "DH 424/24.",
+      "B": "No adjustments are required.",
+      "C": "DH 374/24."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because no adjustments are required due\nto an inoperative MM.",
+      "B": "Refer to Legend 22, Inoperative\nComponents or Visual Aids Table. Since the MM is not listed in\nthe table, no adjustments are required.",
+      "C": "because no adjustments are required\ndue to an inoperative MM."
+    },
+    "figure_ref": "Refer to figure 73",
+    "screenshot": "figures/11.7.78.png"
+  },
+  {
+    "id": "11.7.79",
+    "question": "(Refer to figure 73.) Which runway and landing environment lighting is available for approach and landing on RWY 6 at Bradley International?",
+    "answers": {
+      "A": "HIRL, REIL, and VASI.",
+      "B": "HIRL and VASI.",
+      "C": "ALSF2 and HIRL."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because REIL and VASI are not\nindicated for RWY 6.",
+      "B": "because VAS is not indicated for RWY 6.",
+      "C": "The airport diagram in Fig. 73 has a circle\nenclosing the letter \"A,\" with a dot above it, near the approach\nend of RWY 6. Legend 19 indicates that this means ALSF-2\napproach lighting. Information listed at the bottom left corner of\n‘the airport diagram (Fig. 73) indicates that RWY 6-24 has\nhigh-intensity runway lights (HIRL)."
+    },
+    "figure_ref": "Refer to figure 73",
+    "screenshot": "figures/11.7.79.png"
+  },
+  {
+    "id": "11.8.80",
+    "question": "(Refer to figure 74.) What aircraft equipment code should be entered in block 3 of the flight plan? AT. B.U. CA",
+    "answers": {},
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because T indicates only a transponder\nwith no Mode C.",
+      "B": "because U indicates only a transponder\nwith Mode C.\n\nCA",
+      "C": "In block 3 of the flight plan, you enter the\ndesignation of the aircraft followed by a slash (/ ) and a letter for\nthe equipment code. Fig. 74 indicates that you have a DME and\n\ntransponder with Mode C, which requires code A. (See Legend\n26.)"
+    },
+    "figure_ref": "Refer to figure 74",
+    "screenshot": "figures/11.8.80.png"
+  },
+  {
+    "id": "11.8.81",
+    "question": "(Refer to figure 74.) What CAS should be used to maintain the filed TAS at the flight planned altitude if the outside air temperature is +5°C?",
+    "answers": {
+      "B": "133 KCAS.",
+      "C": "139 KCAS.",
+      "A": "129 KCAS."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because maintaining 129 KCAS would\nresult ina TAS of 156 kt., not 133 Kt.",
+      "B": "In the center of the slide rule side of your\nflight computer, on the right side, put the air temperature of +5°C.\nover the altitude of 11,000 ft. (from block 7 of the flight plan, Fig.\n74). On the outer scale, find TAS of 160 (from block 4), which is\nover calibrated airspeed on the inner scale of 133 KCAS.",
+      "C": "because maintaining 139 KCAS would\nresult in a TAS of 168 kt, not 133 kt."
+    },
+    "figure_ref": "Refer to figure 74",
+    "screenshot": "figures/11.8.81.png"
+  },
+  {
+    "id": "11.8.82",
+    "question": "cil 1h 84. (Refer to figures 74, 75, 76, 77, and 78.) Determine the time to be entered in block 10 of the flight plan. (Refer to the FD excerpt below, and use the wind entry closest to the flight planned altitude.) Route of flight Flight log & MAG VAR VOR indications and Excerpts from AFD FT 6000 9000 12000 18000 BIL 2414 2422+11 2324+05 2126-11 b> Figures 74, 75, 76, 77, and 78 Figure 75 Figure 76",
+    "answers": {},
+    "correct_answer": null,
+    "explanations": {},
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.8.83",
+    "question": "(Refer to figure 77.) At which point does the basic instrument departure procedure terminate?",
+    "answers": {
+      "A": "When Helena Departure Control establishes radar contact.",
+      "B": "At STAKK intersection.",
+      "C": "Over the BOZEMAN VOR."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because Helena Departure Control will\nestablish contact shortly after you get off the runway.",
+      "B": "On the STAKK Two Departure in Fig. 77,\nthe departure route description at the bottom indicates that, for\ntakeoffs from RWY 9 and RWY 27, you should climb eastbound\non HLN R-087 to cross STAKK INT at or above 10,200 ft.\n“Thence via transition.\"",
+      "C": "because the BOZEMAN VOR is the end\nof the BOZEMAN transition, not the basic DP."
+    },
+    "figure_ref": "Refer to figure 77",
+    "screenshot": "figures/11.8.83.png"
+  },
+  {
+    "id": "11.8.84",
+    "question": "(Refer to figure 76.) Which indication would be an acceptable accuracy check of both VOR receivers when the aircraft is located on the VOR receiver checkpoint at the Helena Regional Airport? AA B.B. c.Cc.",
+    "answers": {},
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because R-180 +4° would be the\nexpected indication when using a VOT, not a ground VOR\ncheckpoint.\n\nBB.",
+      "B": "because the tail, not the head, of the RMI\nneedle indicates the radial.",
+      "C": "To determine the VOR receiver checkpoint\nat the Helena Regional Airport, consult the VOR receiver check\ntable on Fig. 76. The checkpoint is on TWY (taxiway) E, midway\nbetween TWY C and RWY 27, and is on R-237 of Helena\n\nVORTAC. Thus, the RMI should show the tails of both needles on\n237°, +4°."
+    },
+    "figure_ref": "Refer to figure 76",
+    "screenshot": "figures/11.8.84.png"
+  },
+  {
+    "id": "11.8.84a",
+    "question": "$ oa # ais tes Sa 4 a % f * r ae > ~Ceen ce a bien td ; ems Einues 72 87. (Refer to figure 78.) When eastbound on V86 between Whitehall and Livingston, the minimum altitude that you should cross BZN is",
+    "answers": {
+      "A": "9,300 feet.",
+      "B": "10,400 feet.",
+      "C": "8,500 feet."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": "On Fig. 78, the Bozeman (BZN) VOR/DME\nhas a flag with an X, indicating a minimum crossing altitude\n(MCA). Near the center of the diagram, above the BZN\nVOR/DME communications box, is MCA V86-365 9300 SE.\nThus, the minimum crossing altitude over the BZN VOR/DME for",
+      "B": "because 10,400 ft. MSL is the MEA on\n\n86-365 between BZN and LVM, not the MCA at BZN\nVOR/DME.",
+      "C": "because 8,500 ft. MSL is the MEA on\n\n86 prior to BZN VOR/DME. The MEA is not the MCA when an\nMCA is specified."
+    },
+    "figure_ref": "Refer to figure 78",
+    "screenshot": "figures/11.8.84a.png"
+  },
+  {
+    "id": "11.8.85",
+    "question": "(Refer to figure 77.) At which minimum altitude should you cross the STAKK intersection?",
+    "answers": {
+      "B": "1,400 feet MSL.",
+      "C": "10,200 feet MSL.",
+      "A": "6,500 feet MSL."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because 6,500 ft. MSL is not a pertinent\naltitude in this DP.",
+      "B": "because 1,400 ft. MSL is not a pertinent\naltitude in this DP.",
+      "C": "On the STAKK Two Departure (Fig. 77),\nthe departure route description for either runway states, \"Cross\nSTAKK at or above 10,200'.\" Thus, the minimum altitude at which\nyou should cross the STAKK INT is 10,200 ft. MSL."
+    },
+    "figure_ref": "Refer to figure 77",
+    "screenshot": "figures/11.8.85.png"
+  },
+  {
+    "id": "11.8.86",
+    "question": "(Refer to figure 77.) Using an average ground speed of 140 knots, what minimum rate of climb would meet the required minimum climb rate per NM as specified on the instrument departure procedure?",
+    "answers": {
+      "A": "350 feet per minute.",
+      "B": "475 feet per minute.",
+      "C": "700 feet per minute."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because a 350 fpm climb rate at an\naverage ground speed of 140 kt. would result in a climb rate of\nless than 200 ft. per NM, not 300 ft. per NM.",
+      "B": "because a 475 fpm climb rate at an\n\naverage ground speed of 140 kt. would result in a climb rate of\napproximately 200 ft. per NM, not 300 ft. per NM.",
+      "C": "On Fig. 77 on the DP, the note to the left\nindicates a minimum climb rate of 300 ft. per NM. To convert this\nto a climb rate (fpm), use Legend 16. Find the required climb rate\nof 300 ft. per NM on the left margin and move right to the 140-kt.\nground speed column to determine a rate of climb of 700 fpm."
+    },
+    "figure_ref": "Refer to figure 77",
+    "screenshot": "figures/11.8.86.png"
+  },
+  {
+    "id": "11.8.87",
+    "question": "(Refer to figures 76 and 77.) Which en route low altitude navigation chart would cover the proposed routing at the BOZEMAN VORTAC? AL2. B.L-7. Clg",
+    "answers": {},
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because Bozeman VOR/DME is found on\nL-9, not L-2.",
+      "B": "because Bozeman VOR/DME is found on\nL-9, not L-7.",
+      "C": "On Fig. 77, Bozeman VOR/DME is in the\nplanview in the lower right corner. Below the frequency box, the\n\nnotation L-9 is the number of the appropriate en route low-altitude\nnavigation chart."
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.8.88",
+    "question": "+ F ~ + & ois , fi — > fe ES : pt se h bien i Eiauen 70. 91. (Refer to figure 78.) What is the maximum altitude that you may flight plan an IFR flight on V-86 EASTBOUND between BOZEMAN and BILLINGS VORTACs?",
+    "answers": {
+      "A": "14,500 feet MSL.",
+      "B": "17,000 feet MSL.",
+      "C": "18,000 feet MSL."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because 14,500 ft. MSL (i.e.,\nthousand-foot plus 500 ft.) is a VFR, not IFR, cruising altitude.",
+      "B": "Victor airways consist of altitudes from\n1,200 ft. AGL up to, but not including, 18,000 ft. MSL. The jet\nroute is from 18,000 ft. MSL through FL 450. Thus, the maximum.\naltitude on an airway is 17,000 ft. MSL because IFR flight is\n\nconducted at cardinal altitudes, odd numbers for eastbound and\neven for westbound.",
+      "C": "because Victor airways extend up to, but\n\ndo not include, 18,000 ft. MSL. Jet routes begin at 18,000 ft. MSL\n(FL 180)."
+    },
+    "figure_ref": "Refer to figure 78",
+    "screenshot": "figures/11.8.88.png"
+  },
+  {
+    "id": "11.8.89",
+    "question": "7 \" == $ i & ois - t — > A a % f * r aa: > ome 3) h bien de ' ama} Eiauen 70. 92. (Refer to figure 78.) What is the minimum crossing altitude over the BOZEMAN VORTAC for a flight southeast bound on V86?",
+    "answers": {
+      "A": "8,500 feet MSL.",
+      "B": "9,300 feet MSL.",
+      "C": "9,700 feet MSL."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because 8,500 ft. MSL is the MEA on\n86 prior to BZN VOR/DME. The MEA is not the MCA when an\nMCA is specified.",
+      "B": "On Fig. 78, the Bozeman (BZN) VOR/DME\n(it is not a VORTAC) has a flag with an X, indicating a minimum\ncrossing altitude (MCA). Near the center of the page, above the\nBZN VOR/DME communications box, is MCA V86-365 9300\nSE. Thus, the minimum crossing altitude over the BZN VOR/DME\nfor a flight southeast bound on V86 is 9,300 ft. MSL.",
+      "C": "because 9,700 ft. MSL is the MEA on\n365, not the MCA at BZN VOR/DME."
+    },
+    "figure_ref": "Refer to figure 78",
+    "screenshot": "figures/11.8.89.png"
+  },
+  {
+    "id": "11.8.90",
+    "question": "WPA he\\ | Cinwira 72 Figure 79 93. (Refer to figures 78 and 79.) What is your position relative to the VOR COP southeast bound on V86 between the BOZEMAN and LIVINGSTON VORTACs? The No. 1 VOR is tuned to 116.1 and the No. 2 VOR is tuned to 112.2.",
+    "answers": {
+      "B": "Approaching the LVM R-246 and west of the BZN R-110.",
+      "C": "Past the LVM R-246 and east of the BZN R-110.",
+      "A": "Past the LVM R-246 and west of the BZN R-110."
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": "because you are east, not west, of the\nBZN R-110.",
+      "B": "because you are past, not approaching,\nthe LVM R-246, and east, not west, of the BZN R-110.",
+      "C": "The tail of an RMI indicates the radial. You\nare on a 130° heading, so you are southeast bound. VOR-2\nindicates R-105 of BZN (112.2). VOR-1 indicates on R-239 of\nLVM (116.1). Because you are on R-105 of BZN, you are to the\n\neast of BZN R-110. Because you are on R-239 of LVM, you have\npassed the LVM R-246.\n\nb>"
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.8.91",
+    "question": "(Refer to figure 80.) What is the TDZE for landing on RWY 27R?",
+    "answers": {
+      "A": "3,649 feet MSL.",
+      "B": "3,514 feet MSL.",
+      "C": "3,450 feet MSL."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because 3,649 ft. MSL is the airport\nelevation, not the TDZE.",
+      "B": "On the IAP chart, the TDZE is depicted in\nthe airport diagram near the approach end of the landing runway\n(RWY 27R) as 3,514 ft. MSL.",
+      "C": "because 3,450 ft. MSL is not a relevant\naltitude at an airport with a 3,649 ft. MSL elevation."
+    },
+    "figure_ref": "Refer to figure 80",
+    "screenshot": "figures/11.8.91.png"
+  },
+  {
+    "id": "11.8.92",
+    "question": "(Refer to figures 74 and 80.) Which aircraft approach category should be used for a circling approach for a landing on RWY 27? AA B.B. cc.",
+    "answers": {},
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because Category A is for approach\nspeeds less than 91 kt.",
+      "B": "Approach categories are based upon 1.3\nVso and weight. Fig. 74 indicates Vso of the Cessna 310 is 72.\nUsing the general rule, 1.3 Vso is 93.6, which is Category B (91\nto 120 kt).\n\nlomen",
+      "C": "because Category C is for approach\nspeeds from 121 to 140 kt."
+    },
+    "figure_ref": null,
+    "screenshot": null
+  },
+  {
+    "id": "11.8.93",
+    "question": "(Refer to figure 80.) How many initial approach fixes serve the VOR/DME RWY 27R (Billings Logan) approach procedure?",
+    "answers": {
+      "B": "Four.",
+      "C": "Five.",
+      "A": "Three."
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": "because the VOR/DME RWY 27R\napproach has four, not three, IAFs.",
+      "B": "Initial approach fixes are indicated by the\ndesignation \"(IAF)\" on instrument approach charts (Fig. 80). Note\nthat there is an IAF at the 16 DME arc at R-157 INT and also at\n\nthe R-040 INT. The Billings VORTAC is also indicated as an IAF,\nas is MUSTY INT.",
+      "C": "because the VOR/DME RWY 27R\napproach has four, not five, IAFs."
+    },
+    "figure_ref": "Refer to figure 80",
+    "screenshot": "figures/11.8.93.png"
+  }
+]

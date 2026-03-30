@@ -131,7 +131,7 @@ def main():
             next_y = win_rect.top + int((win_rect.bottom - win_rect.top) * BTN_Y_RATIO)
             win32_click(next_x, next_y)
 
-    with open('questions.json', 'w', encoding='utf-8') as f:
+    with open('verify.json', 'w', encoding='utf-8') as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 
     figure_count = sum(1 for r in results if r['figure_ref'])

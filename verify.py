@@ -16,7 +16,7 @@ def win32_click(x, y):
     win32api.mouse_event(win32con.MOUSEEVENTF_LEFTUP, x, y, 0, 0)
     time.sleep(0.6)
 
-with open('questions.json', 'r', encoding='utf-8') as f:
+with open('verify.json', 'r', encoding='utf-8') as f:
     questions = json.load(f)
 
 desktop = Desktop(backend='uia')
