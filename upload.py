@@ -70,27 +70,29 @@ for library in data:
         print(f"  Chapter {chapter['chapter']}: {chapter['section']} (id={ch_id})")
 
         for q in chapter['questions']:
-            # Handle figure
-            figure_id = None
-            if q.get('figure_ref') and q.get('screenshot'):
-                filename = os.path.basename(q['screenshot'])
-                image_url = figure_url_map.get(filename)
-                if image_url:
-                    fig = upsert('figures', {
-                        'figure_ref': q['figure_ref'],
-                        'image_url': image_url
-                    }, 'figure_ref')
-                    figure_id = fig['id']
-
             # Insert question
             q_row = insert('questions', {
                 'chapter_id': ch_id,
                 'question_id': q['id'],
                 'question': q['question'],
                 'correct_answer': q.get('correct_answer'),
-                'figure_id': figure_id
             })
             q_db_id = q_row['id']
+
+            # Insert question_figures
+            for screenshot in q.get('screenshots', []):
+                if screenshot:
+                    filename = os.path.basename(screenshot)
+                    image_url = figure_url_map.get(filename)
+                    if image_url:
+                        fig = upsert('figures', {
+                            'figure_ref': q['figure_refs'][q['screenshots'].index(screenshot)],
+                            'image_url': image_url
+                        }, 'figure_ref')
+                        insert('question_figures', {
+                            'question_id': q_db_id,
+                            'figure_id': fig['id']
+                        })
 
             # Insert answers
             for letter, text in q.get('answers', {}).items():

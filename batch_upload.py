@@ -136,22 +136,31 @@ for library in data:
                 print(f"    Deleted question {qid} (id={q_db_id})")
 
         # Batch upsert questions
-        question_payloads = []
-        for q in json_questions.values():
-            figure_id = None
-            if q.get('figure_ref') and q.get('screenshot'):
-                filename = os.path.basename(q['screenshot'])
-                figure_id = figure_id_map.get(filename)
-            question_payloads.append({
-                'chapter_id': ch_id,
-                'question_id': q['id'],
-                'question': q['question'],
-                'correct_answer': q.get('correct_answer'),
-                'figure_id': figure_id
-            })
+        question_payloads = [{
+            'chapter_id': ch_id,
+            'question_id': q['id'],
+            'question': q['question'],
+            'correct_answer': q.get('correct_answer'),
+        } for q in json_questions.values()]
 
         upserted_questions = upsert_batch('questions', question_payloads, 'question_id')
         question_id_map = {q['question_id']: q['id'] for q in upserted_questions}
+
+        # Batch upsert question_figures
+        qf_payloads = []
+        for q in json_questions.values():
+            q_db_id = question_id_map[q['id']]
+            # Delete old figure links for this question
+            delete_where('question_figures', f'question_id=eq.{q_db_id}')
+            for screenshot in q.get('screenshots', []):
+                if screenshot:
+                    filename = os.path.basename(screenshot)
+                    fig_id = figure_id_map.get(filename)
+                    if fig_id:
+                        qf_payloads.append({'question_id': q_db_id, 'figure_id': fig_id})
+
+        for i in range(0, len(qf_payloads), 50):
+            upsert_batch('question_figures', qf_payloads[i:i+50], 'id')
 
         # Batch upsert answers & explanations
         answer_payloads = []

@@ -25,8 +25,14 @@ create table questions (
   chapter_id integer references chapters(id) on delete cascade,
   question_id text not null unique,  -- e.g. "1.1.1"
   question text not null,
-  correct_answer text,
-  figure_id integer references figures(id) on delete set null
+  correct_answer text
+);
+
+-- Question-Figures join table (many-to-many)
+create table question_figures (
+  id serial primary key,
+  question_id integer references questions(id) on delete cascade,
+  figure_id integer references figures(id) on delete cascade
 );
 
 -- Answers table
