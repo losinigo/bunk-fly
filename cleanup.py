@@ -21,33 +21,49 @@ def clean_text(text):
         return text
     for bad, good in OCR_FIXES.items():
         text = text.replace(bad, good)
-    # Collapse multiple spaces
     text = re.sub(r' +', ' ', text).strip()
     return text
 
-fixed = 0
+def clean_question_prefix(text):
+    """Remove OCR junk before '(Refer to figure' in question text."""
+    match = re.search(r'\(Refer to figure', text)
+    if match and match.start() > 0:
+        text = text[match.start():]
+    return text
+
+def clean_answer_contamination(text):
+    """Remove explanation text that leaked into answer options."""
+    # Pattern: answer text followed by "Answer (X) is incorrect/correct because..."
+    cleaned = re.split(r'\s*Answer \([A-C]\) is (?:in)?correct\b', text)[0]
+    return cleaned.strip()
+
+q_fixed = 0
+a_fixed = 0
 for library in data:
     for chapter in library['chapters']:
         for q in chapter['questions']:
             # Clean question text
             original = q['question']
             q['question'] = clean_text(q['question'])
+            q['question'] = clean_question_prefix(q['question'])
             if q['question'] != original:
-                fixed += 1
-                print(f"[Q] {q['id']}: {repr(original[:60])} -> {repr(q['question'][:60])}")
+                q_fixed += 1
+                print(f"[Q] {q['id']}: {repr(original[:80])} -> {repr(q['question'][:80])}")
 
             # Clean answer texts
             for k, v in q['answers'].items():
                 original = v
                 q['answers'][k] = clean_text(v)
+                q['answers'][k] = clean_answer_contamination(q['answers'][k])
                 if q['answers'][k] != original:
-                    print(f"[A] {q['id']} {k}: {repr(original[:60])} -> {repr(q['answers'][k][:60])}")
+                    a_fixed += 1
+                    print(f"[A] {q['id']} {k}: {repr(original[:80])} -> {repr(q['answers'][k][:80])}")
 
             # Clean explanations
             for k, v in q['explanations'].items():
                 q['explanations'][k] = clean_text(v)
 
-print(f"\nFixed {fixed} questions.")
+print(f"\nFixed {q_fixed} questions, {a_fixed} answers.")
 
 with open('questions.json', 'w', encoding='utf-8') as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
